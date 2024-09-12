@@ -75,7 +75,7 @@ def streamlit_menu():
         default_index=0,
         orientation="horizontal",
         styles={
-            "container": {"padding": "0!important", "background-color": "#fafafa"},
+            "container": {"padding": "0!important", "background-color": "#000000"},
             "icon": {"color": "black", "font-size": "19px"},
             "nav-link": {
                 "font-size": "15px",
@@ -83,7 +83,7 @@ def streamlit_menu():
                 "margin": "0px",
                 "--hover-color": "#eee",
             },
-            "nav-link-selected": {"background-color": "#3FBAD8"},
+            "nav-link-selected": {"background-color": "#ffc1cc"},
         },
     )
     return selected
@@ -143,17 +143,17 @@ elif menu == "About Us":
         ]
         data_list = [
             {
-                "nama": "A",
+                "nama": "Muhammad Hanif Dzaky Arifin",
                 "sebagai": "Pak Lurah",
-                "nim": "122450000",
-                "fun_fact": "nyemilin es bata",
-                "motto_hidup": "Ya apa ya",
+                "nim": "123450064",
+                "fun_fact": "main game ama futsal",
+                "motto_hidup": "MU separuh jiwaku.",
             },
             {
-                "nama": "B",
-                "sebagai": "Bu Lurah",
-                "nim": "122450000",
-                "fun_fact": "nyemilin es bata",
+                "nama": "Fairuz Ary Syifa",
+                "sebagai": "Anggota",
+                "nim": "122450044",
+                "fun_fact": "ga ssuka makan kerupuk",
                 "motto_hidup": "Ya apa ya",
             },
             {
@@ -164,18 +164,46 @@ elif menu == "About Us":
                 "motto_hidup": "saya ganteng",
             },
             {
-                "nama": "Hafsa",
+                "nama": "Gusti Putu Ferazka",
                 "sebagai": "Anggota",
-                "nim": "122450000",
-                "fun_fact": "nyemilin es bata",
-                "motto_hidup": "jalanin dulu aja",
+                "nim": "123450046",
+                "fun_fact": "bisa tidur dimana saja",
+                "motto_hidup": "suicide is a sin",
             },
             {
-                "nama": "E",
+                "nama": "Vany Salsabila Putri",
                 "sebagai": "Anggota",
-                "nim": "122450100",
-                "fun_fact": "nyemilin es bata, kiko",
-                "motto_hidup": "jalanin dulu keles",
+                "nim": "123450022",
+                "fun_fact": "ga suka buah",
+                "motto_hidup": "belum kepikiran.",
+            },
+            {
+                "nama": "Zailani Satria",
+                "sebagai": "Anggota",
+                "nim": "123450111",
+                "fun_fact": "nyemilin es",
+                "motto_hidup": "jalanin aja",
+            },
+            {
+                "nama": "Wulan Lumbantoruan",
+                "sebagai": "Anggota",
+                "nim": "123450027",
+                "fun_fact": "suka tidur",
+                "motto_hidup": "yang penting hidup",
+            },
+            {
+                "nama": "Hafsa Fazila Arradhi",
+                "sebagai": "Anggota",
+                "nim": "123450079",
+                "fun_fact": "nyemilin es",
+                "motto_hidup": "gatau",
+            },
+            {
+                "nama": "Zailani Satria",
+                "sebagai": "Anggota",
+                "nim": "123450111",
+                "fun_fact": "nyemilin es",
+                "motto_hidup": "jalanin aja",
             },
         ]
         display_images_with_data(gambar_urls, data_list)

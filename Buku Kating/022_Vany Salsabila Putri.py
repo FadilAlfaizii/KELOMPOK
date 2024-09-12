@@ -148,13 +148,13 @@ elif menu == "Baleg":
         ]
         data_list = [
             {
-                "nama": "Kakak D",
-                "nim": "122450000",
+                "nama": "Kakak Razka",
+                "nim": "123450056",
                 "umur": "18",
                 "asal":"Bekasi",
                 "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
+                "hobbi": "Tidur",
+                "sosmed": "@5",
                 "kesan": "Kakak ini asik saya suka belajar dengan dia",  
                 "pesan":"semangat terus kuliahnya kakak !!!"
             },
