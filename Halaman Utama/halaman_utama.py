@@ -140,6 +140,11 @@ elif menu == "About Us":
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
         ]
         data_list = [
             {
@@ -192,11 +197,11 @@ elif menu == "About Us":
                 "motto_hidup": "yang penting hidup",
             },
             {
-                "nama": "Zailani Satria",
+                "nama": "Khazanatil Ilmi",
                 "sebagai": "Anggota",
-                "nim": "123450111",
-                "fun_fact": "nyemilin es",
-                "motto_hidup": "jalanin aja",
+                "nim": "123450053",
+                "fun_fact": "suka dazai",
+                "motto_hidup": "marriage is scary",
             },
             {
                 "nama": "Zailani Satria",
@@ -204,6 +209,13 @@ elif menu == "About Us":
                 "nim": "123450111",
                 "fun_fact": "nyemilin es",
                 "motto_hidup": "jalanin aja",
+            },
+            {
+                "nama": "Khzanatil Ilmi",
+                "sebagai": "Anggota",
+                "nim": "123450053",
+                "fun_fact": "suka jajan",
+                "motto_hidup": "married is scary",
             },
         ]
         display_images_with_data(gambar_urls, data_list)
