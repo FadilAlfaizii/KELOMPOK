@@ -75,7 +75,7 @@ def streamlit_menu():
         default_index=0,
         orientation="horizontal",
         styles={
-            "container": {"padding": "0!important", "background-color": "#fafafa"},
+            "container": {"padding": "0!important", "background-color": "#000000"},
             "icon": {"color": "black", "font-size": "19px"},
             "nav-link": {
                 "font-size": "15px",
@@ -83,7 +83,7 @@ def streamlit_menu():
                 "margin": "0px",
                 "--hover-color": "#eee",
             },
-            "nav-link-selected": {"background-color": "#3FBAD8"},
+            "nav-link-selected": {"background-color": "#ffc1cc"},
         },
     )
     return selected
@@ -175,7 +175,7 @@ elif menu == "About Us":
                 "sebagai": "Anggota",
                 "nim": "123450022",
                 "fun_fact": "ga suka buah",
-                "motto_hidup": "belum kepikiran",
+                "motto_hidup": "belum kepikiran.",
             },
             {
                 "nama": "Zailani Satria",
@@ -185,11 +185,11 @@ elif menu == "About Us":
                 "motto_hidup": "jalanin aja",
             },
             {
-                "nama": "Zailani Satria",
+                "nama": "Wulan Lumbantoruan",
                 "sebagai": "Anggota",
-                "nim": "123450111",
-                "fun_fact": "nyemilin es",
-                "motto_hidup": "jalanin aja",
+                "nim": "123450027",
+                "fun_fact": "suka tidur",
+                "motto_hidup": "yang penting hidup",
             },
             {
                 "nama": "Zailani Satria",
