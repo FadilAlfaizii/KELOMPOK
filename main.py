@@ -23,7 +23,7 @@ Mahasiswa2 = st.Page(
 Mahasiswa3 = st.Page(
     #padil
     "Buku Kating/115_Muhammad Fadil Alfaiz.py",
-    title="115 - Muhammad Fadil Alfaizi,
+    title="115 - Muhammad Fadil Alfaizi",
     icon=":material/person:",
 )
 Mahasiswa4 = st.Page(
