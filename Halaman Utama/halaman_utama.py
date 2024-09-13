@@ -145,7 +145,7 @@ elif menu == "About Us":
             "https://drive.google.com/uc?export=view&id=17xHrv4LCWpw6m0FWuIbNt3QGCSLA8D9e", #Mhs6 hafsa
             "https://drive.google.com/uc?export=view&id=17xHrv4LCWpw6m0FWuIbNt3QGCSLA8D9e", #Mhs7 ilmi
             "https://drive.google.com/uc?export=view&id=17xHrv4LCWpw6m0FWuIbNt3QGCSLA8D9e", #Mhs8 fai
-            "https://drive.google.com/uc?export=view&id=17xHrv4LCWpw6m0FWuIbNt3QGCSLA8D9e", #Mhs9 daniar
+            "https://drive.google.com/uc?export=view&id=1ddMlrs3KZtFbeCGW50NeKmWgd4g0gltB", #Mhs9 daniar
             "https://drive.google.com/uc?export=view&id=17xHrv4LCWpw6m0FWuIbNt3QGCSLA8D9e", #Mhs10 wulan
         ]
         data_list = [
@@ -213,11 +213,11 @@ elif menu == "About Us":
                 "motto_hidup": "jalanin aja",
             },
             {
-                "nama": "Khzanatil Ilmi",
+                "nama": "Erma Daniar Safitri",
                 "sebagai": "Anggota",
-                "nim": "123450053",
-                "fun_fact": "suka jajan",
-                "motto_hidup": "married is scary",
+                "nim": "123450061",
+                "fun_fact": "suka dance",
+                "motto_hidup": "hidup itu pilihan",
             },
         ]
         display_images_with_data(gambar_urls, data_list)

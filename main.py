@@ -70,14 +70,14 @@ Mahasiswa10 = st.Page(
 )
 Mahasiswa11 = st.Page(
     #daniar
-    "Buku Kating/053_Khazanatil Ilmi.py",
-    title="053 - Khazanatil Ilmi",
+    "Buku Kating/061_Erma Daniar Safitri.py",
+    title="061 - Erma Daniar Safitri",
     icon=":material/person:",
 )
 Mahasiswa12 = st.Page(
     #wulan
     "Buku Kating/061_Erma Daniar Safitri.py",
-    title="053 - Khazanatil Ilmi",
+    title="061 - Erma Daniar Safitri",
     icon=":material/person:",
 )
 
