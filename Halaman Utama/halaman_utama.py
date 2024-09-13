@@ -135,18 +135,18 @@ elif menu == "About Us":
         )
         st.markdown("<h1 class='centered-title'>About Us</h1>", unsafe_allow_html=True)
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Palu mas anif
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Bulu bu olla
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Mhs1 pak padil
-            "https://drive.google.com/uc?export=view&id=17xHrv4LCWpw6m0FWuIbNt3QGCSLA8D9e", #Mhs2 pak dzikra
-            "https://drive.google.com/uc?export=view&id=17xHrv4LCWpw6m0FWuIbNt3QGCSLA8D9e", #Mhs3 pak zai
+            "https://drive.google.com/uc?export=view&id=1ovvdqpZioDWr6MVH6wlsGCi8MvZwrC-g", #Palu mas anif
+            "https://drive.google.com/uc?export=view&id=17TIBv9RbaAwW1S4-OnPzXjLHWBm3Elm5", #Bulu bu olla
+            "https://drive.google.com/uc?export=view&id=1Uijfmrjt0dGVZLvRlkX0qO1br5gGmap5", #Mhs1 pak padil
+            "https://drive.google.com/uc?export=view&id=1-6NqsjR-9VHys1Zt2wxrOBiRvrCjIt2E", #Mhs2 pak dzikra
+            "https://drive.google.com/uc?export=view&id=1IooNK6UeTqg-bXuG7yiwOfJ_xHNFerlb", #Mhs3 pak zai
             "https://drive.google.com/uc?export=view&id=17xHrv4LCWpw6m0FWuIbNt3QGCSLA8D9e", #Mhs4 razka
-            "https://drive.google.com/uc?export=view&id=17xHrv4LCWpw6m0FWuIbNt3QGCSLA8D9e", #Mhs5 vany
-            "https://drive.google.com/uc?export=view&id=17xHrv4LCWpw6m0FWuIbNt3QGCSLA8D9e", #Mhs6 hafsa
-            "https://drive.google.com/uc?export=view&id=17xHrv4LCWpw6m0FWuIbNt3QGCSLA8D9e", #Mhs7 ilmi
-            "https://drive.google.com/uc?export=view&id=17xHrv4LCWpw6m0FWuIbNt3QGCSLA8D9e", #Mhs8 fai
-            "https://drive.google.com/uc?export=view&id=1ddMlrs3KZtFbeCGW50NeKmWgd4g0gltB", #Mhs9 daniar
-            "https://drive.google.com/uc?export=view&id=17xHrv4LCWpw6m0FWuIbNt3QGCSLA8D9e", #Mhs10 wulan
+            "https://drive.google.com/uc?export=view&id=1UjcYFVVKEr5_325QLx1DXLTb3Twcy-W-", #Mhs5 vany
+            "https://drive.google.com/uc?export=view&id=11HG7Igmw9kT9R3km6OXUNPxCX-F_FVR_", #Mhs6 hafsa
+            "https://drive.google.com/uc?export=view&id=1Uq52VVxRS0hDPLW8BbnLn975wm_IT6ql", #Mhs7 ilmi
+            "https://drive.google.com/uc?export=view&id=1rMIm9cnT_niEmaiWcgExxT0E3dL7t-8N", #Mhs8 fai
+            "https://drive.google.com/uc?export=view&id=1xYyX3zU4EJJrEdKracegtZR5MtTncjdU", #Mhs9 daniar
+            "https://drive.google.com/uc?export=view&id=1JIZjUV3P4vuVLsUEpXSx63IFvBhg-jWr", #Mhs10 wulan
         ]
         data_list = [
             {
@@ -160,42 +160,42 @@ elif menu == "About Us":
                 "nama": "Fabiolla Charissa Putri",
                 "sebagai": "Anggota",
                 "nim": "122450044",
-                "fun_fact": "ga ssuka makan kerupuk",
-                "motto_hidup": "Ya apa ya",
+                "fun_fact": "kalo abis mandi ngantuk",
+                "motto_hidup": "semangat ya, ada ujian yang belum dicicip",
             },
             {
                 "nama": "Muhammad Fadil Alfaizi",
                 "sebagai": "Anggota",
                 "nim": "122450124",
-                "fun_fact": "Suka Fadil",
-                "motto_hidup": "saya ganteng",
+                "fun_fact": "cepet inget, cepet lupa",
+                "motto_hidup": "don't be long where you don't belong",
             },
             {
                 "nama": "Muhammad Dzikra",
                 "sebagai": "Anggota",
                 "nim": "123450046",
-                "fun_fact": "bisa tidur dimana saja",
-                "motto_hidup": "suicide is a sin",
+                "fun_fact": "basket",
+                "motto_hidup": "saya ganteng n cool",
             },
             {
                 "nama": "Zailani Satria",
                 "sebagai": "Anggota",
-                "nim": "123450022",
-                "fun_fact": "ga suka buah",
-                "motto_hidup": "belum kepikiran.",
+                "nim": "123450111",
+                "fun_fact": "suka keliling",
+                "motto_hidup": "minimal gerak kalo gabisa jalan",
             },
             {
                 "nama": "Gusti Putu Ferazka",
                 "sebagai": "Anggota",
                 "nim": "123450111",
-                "fun_fact": "nyemilin es",
-                "motto_hidup": "jalanin aja",
+                "fun_fact": "bisa tidur di mana aja",
+                "motto_hidup": "suicide is a sin",
             },
             {
                 "nama": "Vany Salsabila Putri",
                 "sebagai": "Anggota",
-                "nim": "123450027",
-                "fun_fact": "suka tidur",
+                "nim": "123450022",
+                "fun_fact": "suka kopi tapi nggak suka nasi",
                 "motto_hidup": "yang penting hidup",
             },
             {
@@ -208,34 +208,31 @@ elif menu == "About Us":
             {
                 "nama": "Khazanatil Ilmi",
                 "sebagai": "Anggota",
-                "nim": "123450111",
-                "fun_fact": "nyemilin es",
-                "motto_hidup": "jalanin aja",
+                "nim": "123450053",
+                "fun_fact": "suka jajan",
+                "motto_hidup": "marriage is scary",
             },
             {
-<<<<<<< HEAD
-                "nama": "Erma Daniar Safitri",
-=======
                 "nama": "Fairuz Ary Syifa",
                 "sebagai": "Anggota",
                 "nim": "123450053",
-                "fun_fact": "suka jajan",
-                "motto_hidup": "married is scary",
+                "fun_fact": "gk suka makan kerupuk",
+                "motto_hidup": "finish what you started",
             },
             {
                 "nama": "Erma Daniar Safitri",
                 "sebagai": "Anggota",
-                "nim": "123450053",
-                "fun_fact": "suka jajan",
-                "motto_hidup": "married is scary",
+                "nim": "123450061",
+                "fun_fact": "dance",
+                "motto_hidup": "hidup itu pilihan",
             },
             {
                 "nama": "Wulan Lumbantoruan",
->>>>>>> 4f2b8945bff18523827d0fbedbe2dcb84b6138ef
                 "sebagai": "Anggota",
-                "nim": "123450061",
-                "fun_fact": "suka dance",
-                "motto_hidup": "hidup itu pilihan",
+                "nim": "123450027",
+                "fun_fact": "suka tidur",
+                "motto_hidup": "Yakobus 1:6a",
+
             },
         ]
         display_images_with_data(gambar_urls, data_list)
