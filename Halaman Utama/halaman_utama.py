@@ -201,9 +201,9 @@ elif menu == "About Us":
             {
                 "nama": "Hafsa Fazila Arradhi",
                 "sebagai": "Anggota",
-                "nim": "123450053",
-                "fun_fact": "suka dazai",
-                "motto_hidup": "marriage is scary",
+                "nim": "123450079",
+                "fun_fact": "nyemilin es",
+                "motto_hidup": "gatau",
             },
             {
                 "nama": "Khazanatil Ilmi",
