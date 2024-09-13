@@ -232,6 +232,7 @@ elif menu == "About Us":
                 "nim": "123450027",
                 "fun_fact": "suka tidur",
                 "motto_hidup": "Yakobus 1:6a",
+
             },
         ]
         display_images_with_data(gambar_urls, data_list)
