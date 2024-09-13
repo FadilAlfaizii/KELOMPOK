@@ -144,7 +144,7 @@ elif menu == "About Us":
             "https://drive.google.com/uc?export=view&id=1UjcYFVVKEr5_325QLx1DXLTb3Twcy-W-", #Mhs5 vany
             "https://drive.google.com/uc?export=view&id=11HG7Igmw9kT9R3km6OXUNPxCX-F_FVR_", #Mhs6 hafsa
             "https://drive.google.com/uc?export=view&id=1Uq52VVxRS0hDPLW8BbnLn975wm_IT6ql", #Mhs7 ilmi
-            "https://drive.google.com/uc?export=view&id=17xHrv4LCWpw6m0FWuIbNt3QGCSLA8D9e", #Mhs8 fai
+            "https://drive.google.com/uc?export=view&id=1rMIm9cnT_niEmaiWcgExxT0E3dL7t-8N", #Mhs8 fai
             "https://drive.google.com/uc?export=view&id=1xYyX3zU4EJJrEdKracegtZR5MtTncjdU", #Mhs9 daniar
             "https://drive.google.com/uc?export=view&id=1JIZjUV3P4vuVLsUEpXSx63IFvBhg-jWr", #Mhs10 wulan
         ]
@@ -160,8 +160,8 @@ elif menu == "About Us":
                 "nama": "Fabiolla Charissa Putri",
                 "sebagai": "Anggota",
                 "nim": "122450044",
-                "fun_fact": "ga ssuka makan kerupuk",
-                "motto_hidup": "Ya apa ya",
+                "fun_fact": "kalo abis mandi ngantuk",
+                "motto_hidup": "semangat ya, ada ujian yang belum dicicip",
             },
             {
                 "nama": "Muhammad Fadil Alfaizi",
@@ -216,8 +216,8 @@ elif menu == "About Us":
                 "nama": "Fairuz Ary Syifa",
                 "sebagai": "Anggota",
                 "nim": "123450053",
-                "fun_fact": "suka jajan",
-                "motto_hidup": "married is scary",
+                "fun_fact": "suka makan kerupuk",
+                "motto_hidup": "finish what you started",
             },
             {
                 "nama": "Erma Daniar Safitri",
