@@ -75,7 +75,7 @@ def streamlit_menu():
         default_index=0,
         orientation="horizontal",
         styles={
-            "container": {"padding": "0!important", "background-color": "#fafafa"},
+            "container": {"padding": "0!important", "background-color": "#144259"},
             "icon": {"color": "black", "font-size": "19px"},
             "nav-link": {
                 "font-size": "15px",
@@ -83,7 +83,7 @@ def streamlit_menu():
                 "margin": "0px",
                 "--hover-color": "#eee",
             },
-            "nav-link-selected": {"background-color": "#3FBAD8"},
+            "nav-link-selected": {"background-color": "#ffa500"},
         },
     )
     return selected
@@ -111,7 +111,7 @@ if menu == "Home":
             unsafe_allow_html=True,
         )
         st.write(""" """)
-        foto_kelompok = "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_"
+        foto_kelompok = "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_" #FOTO KELOMPOK
         layout(foto_kelompok)
         st.markdown(
             """<div style="text-align: justify;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
@@ -135,48 +135,103 @@ elif menu == "About Us":
         )
         st.markdown("<h1 class='centered-title'>About Us</h1>", unsafe_allow_html=True)
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Palu mas anif
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Bulu bu olla
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Mhs1 pak padil
+            "https://drive.google.com/uc?export=view&id=17xHrv4LCWpw6m0FWuIbNt3QGCSLA8D9e", #Mhs2 pak dzikra
+            "https://drive.google.com/uc?export=view&id=17xHrv4LCWpw6m0FWuIbNt3QGCSLA8D9e", #Mhs3 pak zai
+            "https://drive.google.com/uc?export=view&id=17xHrv4LCWpw6m0FWuIbNt3QGCSLA8D9e", #Mhs4 razka
+            "https://drive.google.com/uc?export=view&id=10HysFUt4sOCSD1Ob_vPfHgbinFR1go-J", #Mhs5 vany
+            "https://drive.google.com/uc?export=view&id=17xHrv4LCWpw6m0FWuIbNt3QGCSLA8D9e", #Mhs6 hafsa
+            "https://drive.google.com/uc?export=view&id=17xHrv4LCWpw6m0FWuIbNt3QGCSLA8D9e", #Mhs7 ilmi
+            "https://drive.google.com/uc?export=view&id=17xHrv4LCWpw6m0FWuIbNt3QGCSLA8D9e", #Mhs8 fai
+            "https://drive.google.com/uc?export=view&id=17xHrv4LCWpw6m0FWuIbNt3QGCSLA8D9e", #Mhs9 daniar
+            "https://drive.google.com/uc?export=view&id=17xHrv4LCWpw6m0FWuIbNt3QGCSLA8D9e", #Mhs10 wulan
         ]
         data_list = [
             {
-                "nama": "A",
+                "nama": "Muhammad Hanif Dzaky Arifin",
                 "sebagai": "Pak Lurah",
-                "nim": "122450000",
-                "fun_fact": "nyemilin es bata",
-                "motto_hidup": "Ya apa ya",
+                "nim": "123450064",
+                "fun_fact": "main game ama futsal",
+                "motto_hidup": "MU separuh jiwaku.",
             },
             {
-                "nama": "Fairuz Ary Syifa",
+                "nama": "Fabiolla Charissa Putri",
                 "sebagai": "Anggota",
                 "nim": "122450044",
                 "fun_fact": "ga ssuka makan kerupuk",
                 "motto_hidup": "Ya apa ya",
             },
             {
-                "nama": "Muhammad Dzikra",
+                "nama": "Muhammad Fadil Alfaizi",
                 "sebagai": "Anggota",
                 "nim": "122450124",
                 "fun_fact": "Suka Fadil",
                 "motto_hidup": "saya ganteng",
             },
             {
-                "nama": "Gusti Putu Ferazka",
+                "nama": "Muhammad Dzikra",
                 "sebagai": "Anggota",
                 "nim": "123450046",
                 "fun_fact": "bisa tidur dimana saja",
                 "motto_hidup": "suicide is a sin",
-
             },
             {
                 "nama": "Zailani Satria",
                 "sebagai": "Anggota",
+                "nim": "123450022",
+                "fun_fact": "ga suka buah",
+                "motto_hidup": "belum kepikiran.",
+            },
+            {
+                "nama": "Gusti Putu Ferazka",
+                "sebagai": "Anggota",
+                "nim": "123450111",
+                "fun_fact": "nyemilin es",
+                "motto_hidup": "jalanin azza",
+            },
+            {
+                "nama": "Vany Salsabila Putri",
+                "sebagai": "Anggota",
+                "nim": "123450022",
+                "fun_fact": "suka kopi tapi nggak suka nasi",
+                "motto_hidup": "yang penting hidup",
+            },
+            {
+                "nama": "Hafsa Fazila Arradhi",  
+                "sebagai": "Anggota",
+                "nim": "123450079",
+                "fun_fact": "nyemilin es",
+                "motto_hidup": "gatau",
+            },
+            {
+                "nama": "Khazanatil Ilmi",
+                "sebagai": "Anggota",
                 "nim": "123450111",
                 "fun_fact": "nyemilin es",
                 "motto_hidup": "jalanin aja",
+            },
+            {
+                "nama": "Fairuz Ary Syifa",
+                "sebagai": "Anggota",
+                "nim": "123450053",
+                "fun_fact": "suka jajan",
+                "motto_hidup": "married is scary",
+            },
+            {
+                "nama": "Erma Daniar Safitri",
+                "sebagai": "Anggota",
+                "nim": "123450053",
+                "fun_fact": "suka jajan",
+                "motto_hidup": "married is scary",
+            },
+            {
+                "nama": "Wulan Lumbantoruan",
+                "sebagai": "Anggota",
+                "nim": "123450053",
+                "fun_fact": "suka jajan",
+                "motto_hidup": "married is scary",
             },
         ]
         display_images_with_data(gambar_urls, data_list)
