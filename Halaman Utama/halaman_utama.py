@@ -167,8 +167,8 @@ elif menu == "About Us":
                 "nama": "Muhammad Fadil Alfaizi",
                 "sebagai": "Anggota",
                 "nim": "122450124",
-                "fun_fact": "Suka Fadil",
-                "motto_hidup": "saya ganteng",
+                "fun_fact": "cepet inget, cepet lupa",
+                "motto_hidup": "don't be long where you don't belong",
             },
             {
                 "nama": "Muhammad Dzikra",
