@@ -140,7 +140,7 @@ elif menu == "About Us":
             "https://drive.google.com/uc?export=view&id=1Uijfmrjt0dGVZLvRlkX0qO1br5gGmap5", #Mhs1 pak padil
             "https://drive.google.com/uc?export=view&id=1-6NqsjR-9VHys1Zt2wxrOBiRvrCjIt2E", #Mhs2 pak dzikra
             "https://drive.google.com/uc?export=view&id=1IooNK6UeTqg-bXuG7yiwOfJ_xHNFerlb", #Mhs3 pak zai
-            "https://drive.google.com/uc?export=view&id=17xHrv4LCWpw6m0FWuIbNt3QGCSLA8D9e", #Mhs4 razka
+            "https://drive.google.com/uc?export=view&id=18PnbS5kqFbVMYfaiHESzFfJ4tUAegEgy", #Mhs4 razka
             "https://drive.google.com/uc?export=view&id=1UjcYFVVKEr5_325QLx1DXLTb3Twcy-W-", #Mhs5 vany
             "https://drive.google.com/uc?export=view&id=11HG7Igmw9kT9R3km6OXUNPxCX-F_FVR_", #Mhs6 hafsa
             "https://drive.google.com/uc?export=view&id=1Uq52VVxRS0hDPLW8BbnLn975wm_IT6ql", #Mhs7 ilmi
