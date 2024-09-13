@@ -189,7 +189,7 @@ elif menu == "About Us":
                 "sebagai": "Anggota",
                 "nim": "123450111",
                 "fun_fact": "nyemilin es",
-                "motto_hidup": "jalanin aja",
+                "motto_hidup": "jalanin azza",
             },
             {
                 "nama": "Vany Salsabila Putri",
