@@ -141,7 +141,7 @@ elif menu == "About Us":
             "https://drive.google.com/uc?export=view&id=17xHrv4LCWpw6m0FWuIbNt3QGCSLA8D9e", #Mhs2 pak dzikra
             "https://drive.google.com/uc?export=view&id=17xHrv4LCWpw6m0FWuIbNt3QGCSLA8D9e", #Mhs3 pak zai
             "https://drive.google.com/uc?export=view&id=17xHrv4LCWpw6m0FWuIbNt3QGCSLA8D9e", #Mhs4 razka
-            "https://drive.google.com/uc?export=view&id=17xHrv4LCWpw6m0FWuIbNt3QGCSLA8D9e", #Mhs5 vany
+            "https://drive.google.com/uc?export=view&id=10HysFUt4sOCSD1Ob_vPfHgbinFR1go-J", #Mhs5 vany
             "https://drive.google.com/uc?export=view&id=17xHrv4LCWpw6m0FWuIbNt3QGCSLA8D9e", #Mhs6 hafsa
             "https://drive.google.com/uc?export=view&id=17xHrv4LCWpw6m0FWuIbNt3QGCSLA8D9e", #Mhs7 ilmi
             "https://drive.google.com/uc?export=view&id=17xHrv4LCWpw6m0FWuIbNt3QGCSLA8D9e", #Mhs8 fai
