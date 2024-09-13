@@ -216,7 +216,7 @@ elif menu == "About Us":
                 "nama": "Fairuz Ary Syifa",
                 "sebagai": "Anggota",
                 "nim": "123450053",
-                "fun_fact": "suka makan kerupuk",
+                "fun_fact": "gk suka makan kerupuk",
                 "motto_hidup": "finish what you started",
             },
             {
