@@ -223,7 +223,7 @@ elif menu == "About Us":
                 "nama": "Erma Daniar Safitri",
                 "sebagai": "Anggota",
                 "nim": "123450061",
-                "fun_fact": "dance",
+                "fun_fact": "suka dance",
                 "motto_hidup": "hidup itu pilihan",
             },
             {
