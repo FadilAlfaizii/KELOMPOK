@@ -76,13 +76,8 @@ Mahasiswa11 = st.Page(
 )
 Mahasiswa12 = st.Page(
     #wulan
-<<<<<<< HEAD
-    "Buku Kating/061_Erma Daniar Safitri.py",
-    title="061 - Erma Daniar Safitri",
-=======
    "Buku Kating/027_Wulan Lumbantoruan.py",
     title="027 - Wulan Lumbantoruan",
->>>>>>> 4f2b8945bff18523827d0fbedbe2dcb84b6138ef
     icon=":material/person:",
 )
 
