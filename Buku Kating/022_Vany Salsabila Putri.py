@@ -105,24 +105,24 @@ if menu == "Kesekjenan":
         data_list = [
             {
                 "Nama": "Kharisma Gumilang",
-                "NIM": "12340046",
-                "Umur": "",
-                "Asal":"",
-                "Alamat": "",
-                "Hobi": "",
-                "Sosmed": "",
-                "Kesan": "",  
-                "Pesan":""
+                "NIM": "121450142",
+                "Umur": "21",
+                "Asal":"Palembang",
+                "Alamat": "Way Kandis",
+                "Hobi": "Mendengarkan Musik",
+                "Sosmed": "gumilangkharisma",
+                "Kesan": "Abangnya berkharisma seperti namanya",  
+                "Pesan":"Semangat untuk bang kahim yang udah mau selesai jabatannya"
             },
             {
-                "Nama": "",
-                "NIM": "",
-                "Umur": "",
-                "Asal":"",
-                "Alamat": "",
-                "Hobi": "",
-                "Sosmed": "",
-                "Kesan": "",  
+                "Nama": "Pandra Insani Putra Azuar",
+                "NIM": "121450137",
+                "Umur": "21",
+                "Asal":"Lampung Utara",
+                "Alamat": "Sukarame",
+                "Hobi": "Main gitar",
+                "Sosmed": "pndrinsani27",
+                "Kesan": "Abangnya sangat membaur",  
                 "Pesan":""
             },
             {
