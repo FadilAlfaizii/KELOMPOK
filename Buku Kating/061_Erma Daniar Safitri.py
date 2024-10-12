@@ -103,7 +103,7 @@ if menu == "Kesekjenan":
         ]
         data_list = [
             {
-                "nama": "Kakak A",
+                "nama": "Kharisma Gumilang",
                 "nim": "122450000",
                 "umur": "18",
                 "asal":"Bekasi",
@@ -272,4 +272,4 @@ elif menu == "Baleg":
         display_images_with_data(gambar_urls, data_list)
     baleg()
 
-# Tambahkan menu lainnya sesuai kebutuhan
+# Tambahkan menu lainnya sesuai kebutuhann
