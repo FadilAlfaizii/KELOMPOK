@@ -100,6 +100,7 @@ if menu == "Kesekjenan":
             "https://drive.google.com/uc?export=view&id=1Ag_ecQRLCCmoLE1NMW00vVhqkU9PtJKC",
             "https://drive.google.com/uc?export=view&id=1rQYEYfWfxm7XL2H_ne4wglMHHRqwxBM1",
             "https://drive.google.com/uc?export=view&id=1uBn9cL9NXrcCGyHSkIikCOVfbFKz6ed8",
+            "https://drive.google.com/uc?export=view&id=1wahRrrguyn3AHKpkGUr3OBNX3d4mp2f5",
         ]
         data_list = [
             {
@@ -135,6 +136,39 @@ if menu == "Kesekjenan":
                 "Kesan": "Kakaknya keren dan luar biasa",  
                 "Pesan":"sukses selalu kedepannya kak"# 1
             },
+            {
+                "Nama": "Putri Maulida Chairani",
+                "NIM": "121450050",
+                "umur": "21",
+                "Asal":"Payakumbuh, Sumatera Barat",
+                "alamat": "Nangka 4",
+                "Hobbi": "Dengerin pandra main gitar",
+                "sosmed": "@ptrimaulidas_",
+                "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
+                "Pesan":"semangat terus kuliahnya kakak !!!"
+            },
+            {
+                "Nama": "Kakak D",
+                "NIM": "122450000",
+                "umur": "18",
+                "Asal":"Bekasi",
+                "alamat": "Gg.sakum",
+                "Hobbi": "Mainn Bola, Belajar",
+                "sosmed": "@i",
+                "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
+                "Pesan":"semangat terus kuliahnya kakak !!!"
+            },
+            {
+                "Nama": "Kakak D",
+                "NIM": "122450000",
+                "umur": "18",
+                "Asal":"Bekasi",
+                "alamat": "Gg.sakum",
+                "Hobbi": "Mainn Bola, Belajar",
+                "sosmed": "@i",
+                "Kesan": "Kakaknya keren ",  
+                "Pesan":"semangat di masa-masa terakhir kuliah kak"# 1
+            },
         ]
         display_images_with_data(gambar_urls, data_list)
     kesekjenan()
@@ -148,7 +182,7 @@ elif menu == "Baleg":
         ]
         data_list = [
             {
-                "Nama": "Kakak D",
+                "Nama": "...",
                 "NIM": "122450000",
                 "Umur": "18",
                 "Asal":"Bekasi",
@@ -159,7 +193,7 @@ elif menu == "Baleg":
                 "Pesan":"semangat terus kuliahnya kakak !!!"
             },
             {
-                "Nama": "Kakak E",
+                "Nama": "...",
                 "NIM": "122450000",
                 "Umur": "18",
                 "Asal":"Bekasi",
@@ -170,7 +204,7 @@ elif menu == "Baleg":
                 "Pesan":"semangat terus kuliahnya kakak !!!"# 1
             },
             {
-                "Nama": "Kakak D",
+                "Nama": "...",
                 "NIM": "122450000",
                 "Umur": "18",
                 "Asal":"Bekasi",
