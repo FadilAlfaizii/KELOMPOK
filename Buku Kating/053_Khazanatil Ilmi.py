@@ -110,8 +110,8 @@ if menu == "Kesekjenan":
                 "alamat": "Way Kandis",
                 "hobbi": "Mendengarkan musik",
                 "sosmed": "@gumilangkharisma",
-                "kesan": "",  
-                "pesan":""
+                "kesan": "bijak dan berkharisma",  
+                "pesan":"semangat dan inspiratif bagi semua bang"
             },
             {
                 "nama": "Pandra Insani Putra Azwan",
@@ -121,8 +121,8 @@ if menu == "Kesekjenan":
                 "alamat": "Sukarame",
                 "hobbi": "Main gitar",
                 "sosmed": "@pndrinsni27",
-                "kesan": "",  
-                "pesan":""
+                "kesan": "mudah bergaul dan ramah",  
+                "pesan":"tetap bahagia aja bang meskipun gajadi kahim"
             },
             {
                 "nama": "Meliza Wulandari",
@@ -132,8 +132,8 @@ if menu == "Kesekjenan":
                 "alamat": "Kotabaru",
                 "hobbi": "Nonton Drakor",
                 "sosmed": "@wulandarimeliza",
-                "kesan": "",  
-                "pesan":""
+                "kesan": "kakanya suka senyum",  
+                "pesan":"pertahankan kinerja dan tetap semangat kak"
             },
             {
                 "nama": "Putri Maulida Chairani",
@@ -143,19 +143,8 @@ if menu == "Kesekjenan":
                 "alamat": "Nangka 4",
                 "hobbi": "Dengerin pandra main gitar",
                 "sosmed": "@ptrimaulida_",
-                "kesan": "",  
-                "pesan":""
-            },
-            {
-                "nama": "Nadilla Andhara Putri",
-                "nim": "121450003",
-                "umur": "21",
-                "asal":"Metro",
-                "alamat": "Kotabaru",
-                "hobbi": "Membaca",
-                "sosmed": "@",
-                "kesan": "",  
-                "pesan":""
+                "kesan": "ramah dan baik",  
+                "pesan":"tetap konsisten kakk"
             },
             {
                 "nama": " Hartiti Fadilah",
@@ -165,8 +154,19 @@ if menu == "Kesekjenan":
                 "alamat": "Pemda",
                 "hobbi": "Nyanyi",
                 "sosmed": "@hrtfdlh",
-                "kesan": "",  
-                "pesan":"!"
+                "kesan": "kakanya lembut kalo ngobrol",  
+                "pesan":"semangat itung duitnya kak"
+            },
+            {
+                "nama": "Nadilla Andhara Putri",
+                "nim": "121450003",
+                "umur": "21",
+                "asal":"Metro",
+                "alamat": "Kotabaru",
+                "hobbi": "Membaca",
+                "sosmed": "nadilaandr26",
+                "kesan": "komunikasi kakanya bagus",  
+                "pesan":"semangat juga kak bikin RAB"
             },
         ]
         display_images_with_data(gambar_urls, data_list)
