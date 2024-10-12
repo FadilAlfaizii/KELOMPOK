@@ -186,7 +186,7 @@ elif menu == "Baleg":
             {
                 "Nama": "Tri Murniya Ningsih",
                 "NIM": "121450038",
-                "umur": "21",
+                "Umur": "21",
                 "Asal":"Bogor",
                 "Alamat": "Raden Saleh",
                 "Hobbi": "Kalo ke coffee shop pesen red velvet bukan kopi",
@@ -197,7 +197,7 @@ elif menu == "Baleg":
             {
                 "Nama": "Annisa Cahyani Surya",
                 "NIM": "121450114",
-                "umur": "21",
+                "Umur": "21",
                 "Asal":"Tangerang Selatan",
                 "Alamat": "Way Huwi",
                 "Hobbi": "Membaca, nonton",
@@ -208,7 +208,7 @@ elif menu == "Baleg":
             {
                 "Nama": "Wulan Sabina",
                 "NIM": "121450150",
-                "umur": "21",
+                "Umur": "21",
                 "Asal":"Medan",
                 "Alamat": "Raden Saleh",
                 "Hobbi": "Nonton drakor",
@@ -219,7 +219,7 @@ elif menu == "Baleg":
             {
                 "Nama": "Annisa Dini Amaliya",
                 "NIM": "121450081",
-                "umur": "20",
+                "Umur": "20",
                 "Asal":"Tangerang",
                 "Alamat": "Jati Agung",
                 "Hobbi": "Nonton Dracin",
@@ -230,7 +230,7 @@ elif menu == "Baleg":
             {
                 "Nama": "Renisha Putri Giani",
                 "NIM": "122450079",
-                "umur": "21",
+                "Umur": "21",
                 "Asal":"Bandar Lampung",
                 "Alamat": "Teluk Betung",
                 "Hobbi": "Denger lagu",
@@ -241,7 +241,7 @@ elif menu == "Baleg":
             {
                 "Nama": "Feryadi Yulius",
                 "NIM": "122450087",
-                "umur": "20",
+                "Umur": "20",
                 "Asal":"Sumsel",
                 "Alamat": "Way Kandis",
                 "Hobbi": "Baca buku",
@@ -252,7 +252,7 @@ elif menu == "Baleg":
             {
                 "Nama": "Mirzan Yusuf Rabbani",
                 "NIM": "122450118",
-                "umur": "20",
+                "Umur": "20",
                 "Asal":"Jakarta",
                 "Alamat": "Korpri",
                 "Hobbi": "Main kucing",
@@ -263,7 +263,7 @@ elif menu == "Baleg":
             {
                 "Nama": "Dhea Amelia Putri",
                 "NIM": "122450004",
-                "umur": "20",
+                "Umur": "20",
                 "Asal":"Jabar",
                 "Alamat": "Natar",
                 "Hobbi": "Suka ikut tes SKD",
@@ -274,7 +274,7 @@ elif menu == "Baleg":
             {
                 "Nama": "Muhammad Fahrul Aditya",
                 "NIM": "122450156",
-                "umur": "22",
+                "Umur": "22",
                 "Asal":"Jateng",
                 "Alamat": "Pahoman",
                 "Hobbi": "Melukis, badminton, hiking, ngopi, dengerin musik, nonton film, dan ngoding",
@@ -285,7 +285,7 @@ elif menu == "Baleg":
             {
                 "Nama": "Jeremia Susanto",
                 "NIM": "122450022",
-                "umur": "20",
+                "Umur": "20",
                 "Asal":"Bandar Lampung",
                 "Alamat": "Kemiling",
                 "Hobbi": "Marah-marah",
@@ -296,7 +296,7 @@ elif menu == "Baleg":
             {
                 "Nama": "Berlianda Enda Putri",
                 "NIM": "122450065",
-                "umur": "21",
+                "Umur": "21",
                 "Asal":"Sumbar",
                 "Alamat": "Way Huwi",
                 "Hobbi": "Main game",
@@ -318,7 +318,7 @@ elif menu == "Baleg":
             {
                 "Nama": "Kakak D",
                 "NIM": "122450000",
-                "umur": "18",
+                "Umur": "18",
                 "Asal":"Bekasi",
                 "Alamat": "Gg.sakum",
                 "Hobbi": "Mainn Bola, Belajar",
@@ -329,7 +329,7 @@ elif menu == "Baleg":
             {
                 "Nama": "Kakak E",
                 "NIM": "122450000",
-                "umur": "18",
+                "Umur": "18",
                 "Asal":"Bekasi",
                 "Alamat": "Gg.sakum",
                 "Hobbi": "Mainn Bola, Belajar",
