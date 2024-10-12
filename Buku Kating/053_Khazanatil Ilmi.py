@@ -107,13 +107,12 @@ if menu == "Kesekjenan":
         data_list = [
             {
                 "nama": "Kharisma Gumilang",
-                "nim": "121450142",
                 "umur": "21",
                 "asal":"Palembang",
                 "alamat": "Way Kandis",
                 "hobbi": "Mendengarkan musik",
                 "sosmed": "@gumilangkharisma",
-                "kesan": "bijak dan berkharisma",  
+                "kesan": "bijak dan berkharisma sekali",  
                 "pesan":"semangat dan inspiratif bagi semua bang"
             },
             {
