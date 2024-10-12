@@ -114,7 +114,7 @@ if menu == "Kesekjenan":
                 "Pesan":"semangat kuliah dan segera TA bang !!!"# 1
             },
             {
-                "nama": "Pandra Insani Putra Auzar",
+                "Nama": "Pandra Insani Putra Auzar",
                 "NIM": "121450137",
                 "Umur": "21",
                 "Asal":"Lampung Utara",
@@ -125,7 +125,7 @@ if menu == "Kesekjenan":
                 "Pesan":"semangat dalam menghadapi masa akhir-akhir perkuliahan"# 1
             },
             {
-                "nama": "Kakak C",
+                "Nama": "Kakak C",
                 "NIM": "122450000",
                 "Umur": "18",
                 "Asal":"Bekasi",
