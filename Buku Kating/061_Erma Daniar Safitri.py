@@ -117,7 +117,7 @@ if menu == "Kesekjenan":
                 "pesan":"semoga cepat wisuda ya kak!!"# 1
             },
             {
-                "nama": "Pandra Insani Putra Azuar",
+                "nama": "Pandra Insani Putra Azuar ",
                 "nim": "121450137",
                 "umur": "21",
                 "asal":"Lampung Utara",
