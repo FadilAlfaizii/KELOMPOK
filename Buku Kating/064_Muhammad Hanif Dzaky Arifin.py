@@ -98,7 +98,7 @@ if menu == "Kesekjenan":
     def kesekjenan():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1Ag_ecQRLCCmoLE1NMW00vVhqkU9PtJKC",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1rQYEYfWfxm7XL2H_ne4wglMHHRqwxBM1",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
         ]
         data_list = [
@@ -114,23 +114,23 @@ if menu == "Kesekjenan":
                 "pesan":"semangat kuliah dan segera TA bang !!!"# 1
             },
             {
-                "Nama": "Kakak B",
-                "NIM": "122450000",
-                "Umur": "18",
-                "Asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "Hobbi": "Mainn Bola, Belajar",
-                "Sosmed": "@i",
-                "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "Pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "nama": "Pandra Insani Putra Auzar",
+                "nim": "121450137",
+                "umur": "21",
+                "asal":"Lampung Utara",
+                "alamat": "Sukarame",
+                "Hobbi": "Main gitar",
+                "Sosmed": "@pndrinsani27",
+                "Kesan": "Abang ini asik dan seru ketika ngobrol bersama",  
+                "Pesan":"semangat dalam menghadapi masa akhir-akhir perkuliahan"# 1
             },
             {
-                "Nama": "Kakak C",
-                "NIM": "122450000",
-                "Umur": "18",
-                "Asal":"Bekasi",
-                "Alamat": "Gg.sakum",
-                "Hobbi": "Mainn Bola, Belajar",
+                "nama": "Kakak C",
+                "nim": "122450000",
+                "umur": "18",
+                "asal":"Bekasi",
+                "alamat": "Gg.sakum",
+                "hobbi": "Mainn Bola, Belajar",
                 "sosmed": "@i",
                 "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
                 "Pesan":"semangat terus kuliahnya kakak !!!"# 1
