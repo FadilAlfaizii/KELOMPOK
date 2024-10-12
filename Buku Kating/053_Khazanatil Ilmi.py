@@ -85,7 +85,7 @@ def display_images_with_data(gambar_urls, data_list):
             st.write(f"Umur: {data_list[i]['Umur']}")
             st.write(f"Asal: {data_list[i]['Asal']}")
             st.write(f"Alamat: {data_list[i]['Alamat']}")
-            st.write(f"Hobbi: {data_list[i]['Hobbi']}")
+            st.write(f"Hobi: {data_list[i]['Hobi']}")
             st.write(f"Sosial Media: {data_list[i]['Sosmed']}")
             st.write(f"Kesan: {data_list[i]['Kesan']}")
             st.write(f"Pesan: {data_list[i]['Pesan']}")
@@ -103,37 +103,59 @@ if menu == "Kesekjenan":
         ]
         data_list = [
             {
-                "Nama": "Kakak A",
-                "NIM": "122450000",
-                "Umur": "18",
-                "Asal":"Bekasi",
-                "Alamat": "Gg.sakum",
-                "Hobbi": "Mainn Bola, Belajar",
-                "Sosmed": "@i",
-                "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "Pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
             },
             {
-                "Nama": "Kakak B",
-                "NIM": "122450000",
-                "Umur": "18",
-                "Asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "Hobbi": "Mainn Bola, Belajar",
-                "Sosmed": "@i",
-                "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "Pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
             },
             {
-                "Nama": "Kakak C",
-                "NIM": "122450000",
-                "Umur": "18",
-                "Asal":"Bekasi",
-                "Alamat": "Gg.sakum",
-                "Hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "Pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+            {
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+            {
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
             },
         ]
         display_images_with_data(gambar_urls, data_list)
@@ -148,43 +170,76 @@ elif menu == "Baleg":
         ]
         data_list = [
             {
-                "Nama": "Kakak D",
-                "NIM": "122450000",
-                "umur": "18",
-                "Asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "Hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "Pesan":"semangat terus kuliahnya kakak !!!"
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
             },
             {
-                "Nama": "Kakak E",
-                "NIM": "122450000",
-                "umur": "18",
-                "Asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "Hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "Pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
             },
             {
-                "Nama": "Kakak D",
-                "NIM": "122450000",
-                "umur": "18",
-                "Asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "Hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "Pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+            {
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+            {
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+            {
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
             },
         ]
         display_images_with_data(gambar_urls, data_list)
     baleg()
-elif menu == "Baleg":
-    def baleg():
+elif menu == "Eksternal":
+    def eksternal():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
@@ -192,43 +247,76 @@ elif menu == "Baleg":
         ]
         data_list = [
             {
-                "Nama": "Kakak D",
-                "NIM": "122450000",
-                "umur": "18",
-                "Asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "Hobbi": "Mainn Bola, Belajar",
-                "Sosmed": "@i",
-                "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "Pesan":"semangat terus kuliahnya kakak !!!"
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
             },
             {
-                "Nama": "Kakak E",
-                "NIM": "122450000",
-                "umur": "18",
-                "Asal":"Bekasi",
-                "Alamat": "Gg.sakum",
-                "Hobbi": "Mainn Bola, Belajar",
-                "Sosmed": "@i",
-                "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "Pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
             },
             {
-                "Nama": "Kakak D",
-                "NIM": "122450000",
-                "Umur": "18",
-                "Asal":"Bekasi",
-                "Alamat": "Gg.sakum",
-                "Hobbi": "Mainn Bola, Belajar",
-                "Sosmed": "@i",
-                "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "Pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+            {
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+            {
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+            {
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
             },
         ]
         display_images_with_data(gambar_urls, data_list)
-    baleg()
-elif menu == "Baleg":
-    def baleg():
+    eksternal()
+elif menu == "Kesekjenan":
+    def kesekjenan():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
@@ -236,40 +324,73 @@ elif menu == "Baleg":
         ]
         data_list = [
             {
-                "Nama": "Kakak D",
-                "NIM": "122450000",
-                "Umur": "18",
-                "Asal":"Bekasi",
-                "Alamat": "Gg.sakum",
-                "Hobbi": "Mainn Bola, Belajar",
-                "Sosmed": "@i",
-                "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "Pesan":"semangat terus kuliahnya kakak !!!"
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
             },
             {
-                "Nama": "Kakak E",
-                "NIM": "122450000",
-                "Umur": "18",
-                "Asal":"Bekasi",
-                "Alamat": "Gg.sakum",
-                "Hobbi": "Mainn Bola, Belajar",
-                "Sosmed": "@i",
-                "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "Pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
             },
             {
-                "Nama": "Kakak D",
-                "NIM": "122450000",
-                "Umur": "18",
-                "Asal":"Bekasi",
-                "Alamat": "Gg.sakum",
-                "Hobbi": "Mainn Bola, Belajar",
-                "Sosmed": "@i",
-                "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "Pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+            {
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+            {
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+            {
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
             },
         ]
         display_images_with_data(gambar_urls, data_list)
-    baleg()
+    kesekjenan()
 
 # Tambahkan menu lainnya sesuai kebutuhan
