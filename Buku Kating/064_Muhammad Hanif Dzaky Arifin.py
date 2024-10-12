@@ -101,6 +101,8 @@ if menu == "Kesekjenan":
             "https://drive.google.com/uc?export=view&id=1rQYEYfWfxm7XL2H_ne4wglMHHRqwxBM1",
             "https://drive.google.com/uc?export=view&id=1uBn9cL9NXrcCGyHSkIikCOVfbFKz6ed8",
             "https://drive.google.com/uc?export=view&id=1wahRrrguyn3AHKpkGUr3OBNX3d4mp2f5",
+            "https://drive.google.com/uc?export=view&id=16L4muoTW8AsmDFp-BukRubmXrzPiCwra",
+            "https://drive.google.com/uc?export=view&id=1zA0UkiBjHXd91ZF3RHWDwSKsIdBUu4FU",
         ]
         data_list = [
             {
@@ -145,29 +147,29 @@ if menu == "Kesekjenan":
                 "Hobbi": "Dengerin pandra main gitar",
                 "sosmed": "@ptrimaulidas_",
                 "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "Pesan":"semangat terus kuliahnya kakak !!!"
+                "Pesan":"semangat terus kuliahnya kakak !!!"#1
             },
             {
-                "Nama": "Kakak D",
-                "NIM": "122450000",
-                "umur": "18",
-                "Asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "Hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "Pesan":"semangat terus kuliahnya kakak !!!"
+                "Nama": "Hartiti Fadilah",
+                "NIM": "121450031",
+                "umur": "21",
+                "Asal":"Palembang",
+                "alamat": "Pemda",
+                "Hobbi": "Nyanyi",
+                "sosmed": "@hrtfdlh",
+                "Kesan": "Kakaknya baik dan asik",  
+                "Pesan":"Tetap semangat dan sukses selalu kak"#1
             },
             {
-                "Nama": "Kakak D",
-                "NIM": "122450000",
-                "umur": "18",
-                "Asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "Hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "Kesan": "Kakaknya keren ",  
-                "Pesan":"semangat di masa-masa terakhir kuliah kak"# 1
+                "Nama": "Nadilla Andhara Putri",
+                "NIM": "121450003",
+                "umur": "21",
+                "Asal":"Metro",
+                "alamat": "Kotabaru",
+                "Hobbi": "Membaca",
+                "sosmed": "@nadilaandr26",
+                "Kesan": "Kakaknya hebat dan luar biasa",  
+                "Pesan":"semangat selalu kak"# 1
             },
         ]
         display_images_with_data(gambar_urls, data_list)
