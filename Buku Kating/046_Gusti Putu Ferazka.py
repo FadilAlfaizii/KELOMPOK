@@ -106,8 +106,8 @@ if menu == "Kesekjenan":
             {
                 "Nama": "Kharisma Gumilang",
                 "NIM": "12340046",
-                "Umur": "",
-                "Asal":"",
+                "Umur": "21",
+                "Asal":"Palembang",
                 "Alamat": "",
                 "Hobi": "",
                 "Sosmed": "",
