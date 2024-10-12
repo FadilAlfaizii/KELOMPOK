@@ -158,7 +158,7 @@ if menu == "Kesekjenan":
                 "hobbi": "Membaca",
                 "sosmed": "@nadilaandr26",
                 "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "pesan":"semangat terus kuliahnya kakak !!"# 1
             },
             {
                 "nama": "Hartiti Fadilah",
