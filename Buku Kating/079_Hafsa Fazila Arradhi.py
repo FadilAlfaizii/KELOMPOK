@@ -86,7 +86,6 @@ def display_images_with_data(gambar_urls, data_list):
             st.write(f"Asal: {data_list[i]['Asal']}")
             st.write(f"Alamat: {data_list[i]['Alamat']}")
             st.write(f"Hobi: {data_list[i]['Hobi']}")
-            st.write(f"Hobbi: {data_list[i]['Hobbi']}")
             st.write(f"Sosial Media: {data_list[i]['Sosmed']}")
             st.write(f"Kesan: {data_list[i]['Kesan']}")
             st.write(f"Pesan: {data_list[i]['Pesan']}")
