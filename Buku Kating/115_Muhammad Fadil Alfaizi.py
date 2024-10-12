@@ -114,7 +114,7 @@ if menu == "Kesekjenan":
                 "Hobbi": "Mendengarkan musik",
                 "Sosmed": "@gumilangkharisma",
                 "Kesan": "Abangnya asik klo ngobrol",  
-                "Pesan":"Semangat bang kedepannya, sukses terus!"# 1
+                "Pesan":"Semangat bang kedepannya, sukses terus!"
             },
             {
                 "Nama": "Pandra Insani Putra Azuar",
@@ -125,7 +125,7 @@ if menu == "Kesekjenan":
                 "Hobbi": "Main gitar",
                 "Sosmed": "@pndrinsani27",
                 "Kesan": "Abangnya keren",
-                "Pesan":"Gokil bang!"# 1
+                "Pesan":"Gokil bang!"
             },
             {
                 "Nama": "Meliza Wulandari",
@@ -136,7 +136,7 @@ if menu == "Kesekjenan":
                 "Hobbi": "Nonton drakor",
                 "Sosmed": "@wulandarimeliza",
                 "Kesan": "Kakaknya gercep",  
-                "Pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "Pesan":"semangat terus kuliahnya kakak !!!"
             },
             {
                 "Nama": "Putri Maulida Chairani",
@@ -147,7 +147,7 @@ if menu == "Kesekjenan":
                 "Hobbi": "Dengerin Pandra main gitar",
                 "Sosmed": "@ptrimaulidas_",
                 "Kesan": "-",  
-                "Pesan":"-"# 1
+                "Pesan":"-"
             },
             {
                 "Nama": "Hartiti Fadilah",
@@ -158,7 +158,7 @@ if menu == "Kesekjenan":
                 "Hobbi": "Nyanyi",
                 "Sosmed": "@hrtfdlh",
                 "Kesan": "-",  
-                "Pesan":"-"# 1
+                "Pesan":"-"
             },
             {
                 "Nama": "Nadilla Andhara Putri",
@@ -169,7 +169,7 @@ if menu == "Kesekjenan":
                 "Hobbi": "Membaca",
                 "Sosmed": "@nadilaandr26",
                 "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "Pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "Pesan":"semangat terus kuliahnya kakak !!!"
             },
         ]
         display_images_with_data(gambar_urls, data_list)
@@ -203,7 +203,7 @@ elif menu == "Baleg":
                 "Hobbi": "Membaca, nonton",
                 "Sosmed": "@annisacahyanisurya",
                 "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "Pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "Pesan":"semangat terus kuliahnya kakak !!!"
             },
             {
                 "Nama": "Wulan Sabina",
@@ -214,7 +214,7 @@ elif menu == "Baleg":
                 "Hobbi": "Nonton drakor",
                 "Sosmed": "@wlnsbn0",
                 "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "Pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "Pesan":"semangat terus kuliahnya kakak !!!"
             },
             {
                 "Nama": "Annisa Dini Amaliya",
@@ -225,7 +225,7 @@ elif menu == "Baleg":
                 "Hobbi": "Nonton Dracin",
                 "Sosmed": "@anisadini10",
                 "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "Pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "Pesan":"semangat terus kuliahnya kakak !!!"
             },
             {
                 "Nama": "Renisha Putri Giani",
@@ -236,7 +236,7 @@ elif menu == "Baleg":
                 "Hobbi": "Denger lagu",
                 "Sosmed": "@fleurnsh",
                 "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "Pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "Pesan":"semangat terus kuliahnya kakak !!!"
             },
             {
                 "Nama": "Feryadi Yulius",
@@ -247,7 +247,7 @@ elif menu == "Baleg":
                 "Hobbi": "Baca buku",
                 "Sosmed": "@fer_yulius",
                 "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "Pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "Pesan":"semangat terus kuliahnya kakak !!!"
             },
             {
                 "Nama": "Mirzan Yusuf Rabbani",
@@ -258,7 +258,7 @@ elif menu == "Baleg":
                 "Hobbi": "Main kucing",
                 "Sosmed": "@myrrinn",
                 "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "Pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "Pesan":"semangat terus kuliahnya kakak !!!"
             },
             {
                 "Nama": "Dhea Amelia Putri",
@@ -269,7 +269,7 @@ elif menu == "Baleg":
                 "Hobbi": "Suka ikut tes SKD",
                 "Sosmed": "@dhea_wedding",
                 "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "Pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "Pesan":"semangat terus kuliahnya kakak !!!"
             },
             {
                 "Nama": "Muhammad Fahrul Aditya",
@@ -280,7 +280,7 @@ elif menu == "Baleg":
                 "Hobbi": "Melukis, badminton, hiking, ngopi, dengerin musik, nonton film, dan ngoding",
                 "Sosmed": "@fhrul.pdf",
                 "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "Pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "Pesan":"semangat terus kuliahnya kakak !!!"
             },
             {
                 "Nama": "Jeremia Susanto",
@@ -291,7 +291,7 @@ elif menu == "Baleg":
                 "Hobbi": "Marah-marah",
                 "Sosmed": "@jeremia_s_",
                 "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "Pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "Pesan":"semangat terus kuliahnya kakak !!!"
             },
             {
                 "Nama": "Berlianda Enda Putri",
@@ -302,13 +302,13 @@ elif menu == "Baleg":
                 "Hobbi": "Main game",
                 "Sosmed": "@berlyyanda",
                 "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "Pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "Pesan":"semangat terus kuliahnya kakak !!!"
             },
         ]
         display_images_with_data(gambar_urls, data_list)
     baleg()
-elif menu == "Baleg":
-    def baleg():
+elif menu == "Senator":
+    def senator():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
@@ -316,84 +316,450 @@ elif menu == "Baleg":
         ]
         data_list = [
             {
-                "Nama": "Kakak D",
-                "NIM": "122450000",
-                "Umur": "18",
-                "Asal":"Bekasi",
-                "Alamat": "Gg.sakum",
-                "Hobbi": "Mainn Bola, Belajar",
-                "Sosmed": "@i",
-                "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "Pesan":"semangat terus kuliahnya kakak !!!"
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
             },
             {
-                "Nama": "Kakak E",
-                "NIM": "122450000",
-                "Umur": "18",
-                "Asal":"Bekasi",
-                "Alamat": "Gg.sakum",
-                "Hobbi": "Mainn Bola, Belajar",
-                "Sosmed": "@i",
-                "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "Pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
             },
             {
-                "Nama": "Kakak D",
-                "NIM": "122450000",
-                "Umur": "18",
-                "Asal":"Bekasi",
-                "Alamat": "Gg.sakum",
-                "Hobbi": "Mainn Bola, Belajar",
-                "Sosmed": "@i",
-                "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "Pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+            {
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+            {
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+            {
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
             },
         ]
         display_images_with_data(gambar_urls, data_list)
-    baleg()
-elif menu == "Baleg":
-    def baleg():
-        gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-        ]
-        data_list = [
-            {
-                "Nama": "Kakak D",
-                "NIM": "122450000",
-                "Umur": "18",
-                "Asal":"Bekasi",
-                "Alamat": "Gg.sakum",
-                "Hobbi": "Mainn Bola, Belajar",
-                "Sosmed": "@i",
-                "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "Pesan":"semangat terus kuliahnya kakak !!!"
-            },
-            {
-                "Nama": "Kakak E",
-                "NIM": "122450000",
-                "Umur": "18",
-                "Asal":"Bekasi",
-                "Alamat": "Gg.sakum",
-                "Hobbi": "Mainn Bola, Belajar",
-                "Sosmed": "@i",
-                "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "Pesan":"semangat terus kuliahnya kakak !!!"# 1
-            },
-            {
-                "Nama": "Kakak D",
-                "NIM": "122450000",
-                "Umur": "18",
-                "Asal":"Bekasi",
-                "Alamat": "Gg.sakum",
-                "Hobbi": "Mainn Bola, Belajar",
-                "Sosmed": "@i",
-                "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "Pesan":"semangat terus kuliahnya kakak !!!"# 1
-            },
-        ]
-        display_images_with_data(gambar_urls, data_list)
-    baleg()
+    senator()
 
-# Tambahkan menu lainnya sesuai kebutuhan
+elif menu == "Departemen Internal":
+    def Departemen_Internal():
+        gambar_urls = [
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+        ]
+        data_list = [
+            {
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+            {
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+            {
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+            {
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+            {
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+            {
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+        ]
+        display_images_with_data(gambar_urls, data_list)
+    Departemen_Internal()
+
+elif menu == "Departemen PSDA":
+    def Departemen_PSDA():
+        gambar_urls = [
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+        ]
+        data_list = [
+            {
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+            {
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+            {
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+            {
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+            {
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+            {
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+        ]
+        display_images_with_data(gambar_urls, data_list)
+    Departemen_PSDA()
+
+elif menu == "Departemen Eksternal":
+    def Departemen_Eksternal():
+        gambar_urls = [
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+        ]
+        data_list = [
+            {
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+            {
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+            {
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+            {
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+            {
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+        ]
+        display_images_with_data(gambar_urls, data_list)
+    Departemen_Eksternal()
+
+elif menu == "Departemen MIKFES":
+    def Departemen_MIKFES():
+        gambar_urls = [
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+        ]
+        data_list = [
+            {
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+            {
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+            {
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+            {
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+            {
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+        ]
+        display_images_with_data(gambar_urls, data_list)
+    Departemen_MIKFES()
+
+elif menu == "Departemen SSD":
+    def Departemen_SSD():
+        gambar_urls = [
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+        ]
+        data_list = [
+            {
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+            {
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+            {
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+            {
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+            {
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+            {
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+            {
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+        ]
+        display_images_with_data(gambar_urls, data_list)
+    Departemen_SSD()

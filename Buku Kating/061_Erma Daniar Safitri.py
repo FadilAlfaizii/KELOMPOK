@@ -277,7 +277,7 @@ elif menu == "Baleg":
                 "Hobi": "Suka ikut tes SKD",
                 "Sosmed": "@dhea_wedding",
                 "Kesan": "kak dhea lucu bangett!!",  
-                "Pesan":" Semoga kakak sellau menghadirkan inovasi baru yang bermanfaat!!!"
+                "Pesan":" Semoga kakak selalu menghadirkan inovasi baru yang bermanfaat!!!"
             },
             {
                 "Nama": "Muhammad Fahrul Aditya",
@@ -289,7 +289,7 @@ elif menu == "Baleg":
                 "Sosmed": "@fhrul.pdf",
                 "Kesan": "kakak ini sangat mengayomi",  
                 "Pesan":" Jangan berhenti untuk terus berkontribusi di bidang yang kakak geluti"
-            }
+            },
             {
                 "Nama": "Jeremia Susanto",
                 "NIM": "122450022",
@@ -312,9 +312,10 @@ elif menu == "Baleg":
                 "Kesan": "kakak ini sangat ramah dan sopan",  
                 "Pesan":" Dalam kesibukan yang ada, jangan lupa untuk selalu menjaga kesehatan ya kak!!"# 1
             },
-        ]
+        ]          
         display_images_with_data(gambar_urls, data_list)
     baleg()
+
 elif menu == "Senator":
     def senator():
         gambar_urls = [
