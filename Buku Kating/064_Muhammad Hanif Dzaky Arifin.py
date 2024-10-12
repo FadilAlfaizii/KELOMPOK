@@ -98,7 +98,7 @@ if menu == "Kesekjenan":
     def kesekjenan():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1Ag_ecQRLCCmoLE1NMW00vVhqkU9PtJKC",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1rQYEYfWfxm7XL2H_ne4wglMHHRqwxBM1",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
         ]
         data_list = [
@@ -114,7 +114,18 @@ if menu == "Kesekjenan":
                 "pesan":"semangat kuliah dan segera TA bang !!!"# 1
             },
             {
-                "nama": "Kakak B",
+                "nama": "Pandra Insani Putra Azuar",
+                "nim": "121450137",
+                "umur": "21",
+                "asal":"Lampung Utara",
+                "alamat": "Sukarame",
+                "hobbi": "Main Gitar",
+                "sosmed": "@pndrinsani27",
+                "kesan": "Abangnya asik dan seru",  
+                "pesan":"Tetap semangat menghadapi tantangan akhir di dunia perkuliahan"# 1
+            },
+            {
+                "nama": "Melianza",
                 "nim": "122450000",
                 "umur": "18",
                 "asal":"Bekasi",
@@ -125,7 +136,29 @@ if menu == "Kesekjenan":
                 "pesan":"semangat terus kuliahnya kakak !!!"# 1
             },
             {
-                "nama": "Kakak C",
+                "nama": "Putri",
+                "nim": "122450000",
+                "umur": "18",
+                "asal":"Bekasi",
+                "alamat": "Gg.sakum",
+                "hobbi": "Mainn Bola, Belajar",
+                "sosmed": "@i",
+                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
+                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+            },
+            {
+                "nama": "Hartiti",
+                "nim": "122450000",
+                "umur": "18",
+                "asal":"Bekasi",
+                "alamat": "Gg.sakum",
+                "hobbi": "Mainn Bola, Belajar",
+                "sosmed": "@i",
+                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
+                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+            },
+            {
+                "nama": "Nadilla",
                 "nim": "122450000",
                 "umur": "18",
                 "asal":"Bekasi",
