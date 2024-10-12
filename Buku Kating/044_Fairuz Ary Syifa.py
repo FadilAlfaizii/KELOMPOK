@@ -147,7 +147,7 @@ if menu == "Kesekjenan":
                 "hobbi": "Dengerin pandra main gitar",
                 "sosmed": "@ptrimaulidas_",
                 "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "pesan":"semangat terus kuliahnya kakak !!!!"# 1
             },
             {
                 "nama": "Nadilla Andhara Putri",
