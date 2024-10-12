@@ -144,7 +144,7 @@ if menu == "Kesekjenan":
                 "Hobbi": "Dengerin Pandra main gitar",
                 "Sosmed": "@ptrimaulidas_",
                 "Kesan": "-",  
-                "Pesan":"-"# 1
+                "Pesan":"keren terus kak"# 1
             },
             {
                 "Nama": "Hartiti Fadilah",
