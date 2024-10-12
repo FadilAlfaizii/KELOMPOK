@@ -181,37 +181,125 @@ elif menu == "Baleg":
         ]
         data_list = [
             {
-                "nama": "Kakak D",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"
+                "nama": "Tri Murniya Ningsih",
+                "nim": "121450038",
+                "umur": "21",
+                "asal":"Bogor",
+                "alamat": "Raden Saleh",
+                "hobbi": "Kalo ke coffe shop pesen red velvet bukan kopi",
+                "sosmed": "@trimurniyaa",
+                "kesan": "Kakak ini asik dan positive vibes banget!!",  
+                "pesan":"Terus jadi pribadi yang menebarkan energi positif ya kak !!!"
             },
             {
-                "nama": "Kakak E",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "nama": "Annisa Cahyani Surya",
+                "nim": "121450114",
+                "umur": "21",
+                "asal":"Tangerang Selatan",
+                "alamat": "Way Huwi",
+                "hobbi": "Membaca, Nonton",
+                "sosmed": "@annisacahyanisurya",
+                "kesan": "Kakak ini humble sekali!!",  
+                "pesan":"semangat terus kak buat kuliahnya !!!"# 1
             },
             {
-                "nama": "Kakak D",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "nama": "Wulan Sabina",
+                "nim": "121450150",
+                "umur": "21",
+                "asal":"Medan",
+                "alamat": "Raden Saleh",
+                "hobbi": "Nonton drakor",
+                "sosmed": "@wlnsbn0",
+                "kesan": "Kak wulan aktif banget!!",  
+                "pesan":"Jangan ragu untuk mengambil langkah besar, karena disanalah kamu akan menemukan peluang yang luar biasa "# 1
+            },
+            {
+                "nama": "Annisa Dini Amaliya",
+                "nim": "121450079",
+                "umur": "21",
+                "asal":"Tangerang",
+                "alamat": "Jati Agung",
+                "hobbi": "Nonton Dracin",
+                "sosmed": "@anisadini10",
+                "kesan": "Kakak ini seru dan ceria banget!!",  
+                "pesan":"semangat terus buat menyelesaikan studi dan mencapai impian nya !!!"# 1
+            },
+            {
+                "nama": "Renisha Putri Giani",
+                "nim": "122450079",
+                "umur": "21",
+                "asal":"Bandar Lampung",
+                "alamat": "Teluk Betung",
+                "hobbi": "Denger Lagu",
+                "sosmed": "@fleurnsh",
+                "kesan": "Kakak ini sangat ramah!!",  
+                "pesan":"jangan berhenti berkembang dan belajar !!!"# 1
+            },
+            {
+                "nama": "Feryadi Yulius",
+                "nim": "122450087",
+                "umur": "20",
+                "asal":"Batu Raja, Sumatera Selatan",
+                "alamat": "Way Kandis",
+                "hobbi": "Baca buku",
+                "sosmed": "@fer_yulius",
+                "kesan": "Kakak ini sangat inspiratif!!",  
+                "pesan":"Semoga sukses dalam setiap langkah yang diambil kedepannya !!!"# 1
+            },
+            {
+                "nama": "Mirzan Yusuf Rabbani",
+                "nim": "122450118",
+                "umur": "20",
+                "asal":"Jakarta",
+                "alamat": "Korpri",
+                "hobbi": "Main kucing",
+                "sosmed": "@myrrinn",
+                "kesan": "kakak ini sangat lucu dan ramah banget!!",  
+                "pesan":" Jangan pernah berhenti berkarya untuk meraih lebih banyak lagi prestasi!!!"# 1
+            },
+            {
+                "nama": "Dhea Amelia Putri",
+                "nim": "122450004",
+                "umur": "20",
+                "asal":"Sukabumi, Jawa Barat",
+                "alamat": "Natar",
+                "hobbi": "Suka ikut tes SKD",
+                "sosmed": "@dhea_wedding",
+                "kesan": "kak dhea lucu bangett!!",  
+                "pesan":" Semoga kakak sellau menghadirkan inovasi baru yang bermanfaat!!!"# 1
+            },
+            {
+                "nama": "Muhammad Fahrul Aditya",
+                "nim": "121450156",
+                "umur": "22",
+                "asal":"Surakarta, Jawa Tengah",
+                "alamat": "Pahoman",
+                "hobbi": "Melukis, badminton, hiking, ngopi, dengerin music, nonton film, dan ngoding",
+                "sosmed": "@fhrul.pdf",
+                "kesan": "kakak ini sangat mengayomi",  
+                "pesan":" Jangan berhenti untuk terus berkontribusi di bidang yang kakak geluti"# 1
+            },
+            {
+                "nama": "Jeremia Susanto",
+                "nim": "122450022",
+                "umur": "20",
+                "asal":"Bandar Lampung",
+                "alamat": "Kemiling",
+                "hobbi": "Marah-marah",
+                "sosmed": "@jeremia_s_",
+                "kesan": "kakak ini sangat humoris!!",  
+                "pesan":" Tetaplah menjadi panutan yang baik"# 1
+            },
+            {
+                "nama": "Berlianda Enda Putri",
+                "nim": "122450065",
+                "umur": "21",
+                "asal":"Sumatera Barat",
+                "alamat": "Way Huwi",
+                "hobbi": "Main Game",
+                "sosmed": "@berlyyanda",
+                "kesan": "kakak ini sangat ramah dan sopan",  
+                "pesan":" Dalam kesibukan yang ada, jangan lupa untuk selalu menjaga kesehatan ya kak!!"# 1
             },
         ]
         display_images_with_data(gambar_urls, data_list)
