@@ -178,9 +178,9 @@ if menu == "Kesekjenan":
 elif menu == "Baleg":
     def baleg():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1sNfF4x9HvomciVYQci59GRUxmoCPDDso",
+            "https://drive.google.com/uc?export=view&id=1dm0NiWWsc5voIF4TDx6quSDKPHy6bzNj",
+            "https://drive.google.com/uc?export=view&id=1hQ5CofdHgmBZNvR-QeWCJ0ZYDzhLiIp8",
         ]
         data_list = [
             {
