@@ -111,7 +111,7 @@ if menu == "Kesekjenan":
                 "Alamat": "Way Kandis",
                 "Hobi": "Mendengarkan Musik",
                 "Sosmed": "@gumilangkharisma",
-                "Kesan": "",  
+                "Kesan": "bijak dan berkharisma sekali",  
                 "Pesan":""
             },
             {
