@@ -202,7 +202,7 @@ elif menu == "Baleg":
                 "Hobi": "Kalo ke coffe shop pesen red velvet bukan kopi",
                 "Sosmed": "@trimurniyaa",
                 "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "Pesan":"semangat terus kuliahnya kakak !!!"
+                "Pesan":"semangat terus kuliahnya kakak !!"
             },
             {
                 "Nama": "Annisa Cahyani Surya",
