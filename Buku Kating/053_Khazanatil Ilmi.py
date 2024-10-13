@@ -290,7 +290,7 @@ elif menu == "Baleg":
                 "Hobi": "Melukis, badminton, hiking, ngopi, dengerin musik, nonton film, dan ngoding",
                 "Sosmed": "@fhrul.pdf",
                 "Kesan": "abangnya humoris",  
-                "Pesan":"jangan lelah ngebimbing kami kak"
+                "Pesan":"jangan lelah ngebimbing kami bang"
             },
             {
                 "Nama": "Jeremia Susanto",
