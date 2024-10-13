@@ -100,14 +100,14 @@ if menu == "Kesekjenan":
     def kesekjenan():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1NvXGxe-2OSUxFs_BbnOd7WrwDrTZrXqv",
-            "https://drive.google.com/uc?export=view&id=1NsclPB9SREGm93gYcB6A4czwVahhH7Y", # Ini Benerin ya wulan
+            "https://drive.google.com/uc?export=view&id=1NsclPB9SREGm93gYcB6eA4czwVahhH7Y", # Ini Benerin ya wulan
             "https://drive.google.com/uc?export=view&id=1NkzsV4G7Ql5gnPZwmnT3Mb7fYwOejrJ7",
             "https://drive.google.com/uc?export=view&id=1NsV2p1i7nhJoqZQD8JaadNzhB80Xkrzt",
-            "https://drive.google.com/uc?export=view&id=1NkzsV4G7Ql5gnPZwmnT3Mb7fYwOejrJ7",
-            "https://drive.google.com/uc?export=view&id=1NkzsV4G7Ql5gnPZwmnT3Mb7fYwOejrJ7",
+            "https://drive.google.com/uc?export=view&id=1dLTAugWvRdrYGVR8eUPjiRwxqznfpCVd",
+            "https://drive.google.com/uc?export=view&id=1NoY6sQLphWt0llpOAI-GiZ67eLrkfSnl",
         ]
         data_list = [
-                {
+            {
                 "Nama": "Kharisma Gumilang",
                 "NIM": "121450142",
                 "Umur": "21",
@@ -151,7 +151,18 @@ if menu == "Kesekjenan":
                 "Kesan": "Kakaknya humble, enak diajak ngobrol",  
                 "Pesan":"Semangat terus ya kak, yakin deh kakak bakal sukses!"
             },
-             {
+            {
+                "Nama": "Hartiti Fadilah",
+                "NIM": "121450013",
+                "Umur": "21",
+                "Asal":"Palembang",
+                "Alamat": "Pemda",
+                "Hobi": "Nyanyi",
+                "Sosmed": "@hrtfdlh",
+                "Kesan": "Kakak nya baikk, ramah kaliiKakak ini asik",  
+                "Pesan":"Sukses terus kaa, semangat kuliahnyaa !!!"# 1
+            },
+            {
                 "Nama": "Nadilla Andhara Putri",
                 "NIM": "121450003",
                 "Umur": "21",
@@ -159,18 +170,7 @@ if menu == "Kesekjenan":
                 "Alamat": "Kotabaru",
                 "Hobi": "Membaca",
                 "Sosmed": "@nadilaandr26",
-                "Kesan": "Kakak ini asik, baik, dan sangat mengayomi",  
-                "Pesan":"Sukses terus kaa, semangat kuliahnyaa !!!"# 1
-            },
-             {
-                "Nama": "Hartiti Fadilah",
-                "NIM": "121450031",
-                "Umur": "21",
-                "Asal":"Palembang",
-                "Alamat": "Pemda",
-                "Hobi": "Nyanyi",
-                "Sosmed": "@hrtfdlh",
-                "Kesan": "Kakak nya baikk, ramah kalii",  
+                "Kesan": "Kakak ini baik, asik, dan seruu",  
                 "Pesan":"Selalu semangat kak, sukses terus di langkah ke depan!!"# 1
             },
         ]
