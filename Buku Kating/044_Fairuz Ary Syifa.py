@@ -114,7 +114,7 @@ if menu == "Kesekjenan":
                 "Umur": "21",
                 "Asal":"Palembang",
                 "Alamat": "Way Kandis",
-                "Hobbi": "Mendengarkan Musik",
+                "Hobi": "Mendengarkan Musik",
                 "Sosmed": "@gumilangkharisma",
                 "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
                 "Pesan":"semangat terus kuliahnya kakak !!!"
@@ -125,7 +125,7 @@ if menu == "Kesekjenan":
                 "Umur": "21",
                 "Asal":"Lampung Utara",
                 "Alamat": "Sukarame",
-                "Hobbi": "Main gitar",
+                "Hobi": "Main gitar",
                 "Sosmed": "@pndrinsani27",
                 "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
                 "Pesan":"semangat terus kuliahnya kakak !!!"# 1
@@ -136,7 +136,7 @@ if menu == "Kesekjenan":
                 "Umur": "20",
                 "Asal":"Pagaralam",
                 "Alamat": "Kotabaru",
-                "Hobbi": "Nonton Drakor",
+                "Hobi": "Nonton Drakor",
                 "Sosmed": "@wulandarimeliza",
                 "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
                 "Pesan":"semangat terus kuliahnya kakak !!!"# 1
@@ -147,7 +147,7 @@ if menu == "Kesekjenan":
                 "Umur": "21",
                 "Asal":"Payakumbuh, Sumbar",
                 "Alamat": "Nangka 4",
-                "Hobbi": "Dengerin pandra main gitar",
+                "Hobi": "Dengerin pandra main gitar",
                 "Sosmed": "@ptrimaulidas_",
                 "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
                 "Pesan":"semangat terus kuliahnya kakak !!!!"# 1
@@ -158,7 +158,7 @@ if menu == "Kesekjenan":
                 "Umur": "21",
                 "Asal":"Metro",
                 "Alamat": "Kotabaru",
-                "Hobbi": "Membaca",
+                "Hobi": "Membaca",
                 "Sosmed": "@nadilaandr26",
                 "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
                 "Pesan":"semangat terus kuliahnya kakak !!"# 1
@@ -169,10 +169,10 @@ if menu == "Kesekjenan":
                 "Umur": "21",
                 "Asal":"Palembang",
                 "Alamat": "Pemda",
-                "Hobbi": "Nyanyi",
+                "Hobi": "Nyanyi",
                 "Sosmed": "@hrtfdlh",
                 "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "Pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "Pesan":"semangat terus kuliahnya kakak !!!!"# 1
             },
         ]
         display_images_with_data(gambar_urls, data_list)
@@ -222,7 +222,7 @@ elif menu == "Baleg":
                 "Umur": "21",
                 "Asal":"Bogor",
                 "Alamat": "Raden Saleh",
-                "Hobbi": "Kalo ke coffe shop pesen red velvet bukan kopi",
+                "Hobi": "Kalo ke coffe shop pesen red velvet bukan kopi",
                 "Sosmed": "@trimurniyaa",
                 "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
                 "Pesan":"semangat terus kuliahnya kakak !!!"
@@ -233,7 +233,7 @@ elif menu == "Baleg":
                 "Umur": "21",
                 "Asal":"Tanggerang Selatan",
                 "Alamat": "Way Huwi",
-                "Hobbi": "Membaca, Nonton",
+                "Hobi": "Membaca, Nonton",
                 "Sosmed": "@annisacahyanisurya",
                 "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
                 "Pesan":"semangat terus kuliahnya kakak !!!"# 1
@@ -244,7 +244,7 @@ elif menu == "Baleg":
                 "Umur": "21",
                 "Asal":"Medan",
                 "Alamat": "Raden Saleh",
-                "Hobbi": "Nonton Drakor",
+                "Hobi": "Nonton Drakor",
                 "Sosmed": "@wlnsbn0",
                 "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
                 "Pesan":"semangat terus kuliahnya kakak !!!"# 1
@@ -354,7 +354,7 @@ elif menu == "Baleg":
                 "Umur": "20",
                 "Asal":"Tanggerang",
                 "Alamat": "Jati Agung",
-                "Hobbi": "Nonton Dracin",
+                "Hobi": "Nonton Dracin",
                 "Sosmed": "@anisadini10",
                 "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
                 "Pesan":"semangat terus kuliahnya kakak !!!"# 1
@@ -365,7 +365,7 @@ elif menu == "Baleg":
                 "Umur": "21",
                 "Asal":"Bandaar Lampung",
                 "Alamat": "Teluk Betung",
-                "Hobbi": "Denger Lagu",
+                "Hobi": "Denger Lagu",
                 "Sosmed": "@fleurnsh",
                 "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
                 "Pesan":"semangat terus kuliahnya kakak !!!"# 1
@@ -376,7 +376,7 @@ elif menu == "Baleg":
                 "Umur": "20",
                 "Asal":"Batu Raja, SumselMedan",
                 "Alamat": "Way Kandis",
-                "Hobbi": "Baca Buku",
+                "Hobi": "Baca Buku",
                 "Sosmed": "@fer_yulius",
                 "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
                 "Pesan":"semangat terus kuliahnya kakak !!!"# 1
@@ -387,7 +387,7 @@ elif menu == "Baleg":
                 "Umur": "20",
                 "Asal":"Jakarta",
                 "Alamat": "Korpri",
-                "Hobbi": "Main Kucing",
+                "Hobi": "Main Kucing",
                 "Sosmed": "@myrrinn",
                 "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
                 "Pesan":"semangat terus kuliahnya kakak !!!"# 1
@@ -398,7 +398,7 @@ elif menu == "Baleg":
                 "Umur": "20",
                 "Asal":"Sukabumi, Jabar",
                 "Alamat": "Natar",
-                "Hobbi": "Suka Ikut Tes SKD",
+                "Hobi": "Suka Ikut Tes SKD",
                 "Sosmed": "@dhea_wedding",
                 "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
                 "Pesan":"semangat terus kuliahnya kakak !!!"# 1
@@ -409,7 +409,7 @@ elif menu == "Baleg":
                 "Umur": "22",
                 "Asal":"Surakarta, Jateng",
                 "Alamat": "Pahoman",
-                "Hobbi": "Melukis, badminton, hiking, ngopi, dengerin music, nonton film dan ngoding",
+                "Hobi": "Melukis, badminton, hiking, ngopi, dengerin music, nonton film dan ngoding",
                 "Sosmed": "@fhrul.pdf",
                 "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
                 "Pesan":"semangat terus kuliahnya kakak !!!"# 1
@@ -420,7 +420,7 @@ elif menu == "Baleg":
                 "Umur": "20",
                 "Asal":"Bandar Lampung",
                 "Alamat": "Kemiling",
-                "Hobbi": "Marah-marah",
+                "Hobi": "Marah-marah",
                 "Sosmed": "@jeremia_s_",
                 "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
                 "Pesan":"semangat terus kuliahnya kakak !!!"# 1
@@ -431,7 +431,7 @@ elif menu == "Baleg":
                 "Umur"  : "21",
                 "Asal"  : "Sumatera Barat",
                 "Alamat": "Way Huwi",
-                "Hobbi" : "Main Game",
+                "Hobi" : "Main Game",
                 "Sosmed": "@berlyyanda",
                 "Kesan" : "",  
                 "Pesan" : ""#1
