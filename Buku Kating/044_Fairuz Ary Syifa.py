@@ -214,7 +214,7 @@ elif menu == "Baleg":
                 "Hobi": "Membaca, Nonton",
                 "Sosmed": "@annisacahyanisurya",
                 "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "Pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "Pesan":"semangat terus kuliahnya kakak !!"# 1
             },
             {
                 "Nama": "Wulan Sabina",
