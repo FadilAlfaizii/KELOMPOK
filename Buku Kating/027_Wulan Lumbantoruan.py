@@ -116,7 +116,7 @@ if menu == "Kesekjenan":
                 "Hobi": "Mendengarkan musik",
                 "Sosmed": "@gumilangkharisma",
                 "Kesan": "Abang nya keren amatt, mengayomi sekalii",  
-                "Pesan":"Sukses terus bangg, semangat mengemban tugasnya"
+                "Pesan":"Suksess terus bangg, semangat mengemban tugasnya"
             },
             {
                 "Nama": "Pandra Insani Putra Azuar",
