@@ -171,7 +171,7 @@ if menu == "Kesekjenan":
                 "Hobi": "Membaca",
                 "Sosmed": "@nadilaandr26",
                 "Kesan": "komunikasi kakanya bagus",  
-                "Pesan":"semangat juga kak itung duitnya"
+                "Pesan":"semangat juga kak itung"
             },
         ]
         display_images_with_data(gambar_urls, data_list)
@@ -197,17 +197,6 @@ elif menu == "Baleg":
                 "Pesan": ""
             },
             {
-                "Nama": "Wulan Sabina",
-                "NIM": "121450150",
-                "Umur": "21",
-                "Asal":"Medan",
-                "Alamat": "Raden Saleh",
-                "Hobi": "Nonton Drakor",
-                "Sosmed": "@wlnsbn0",
-                "Kesan": "",  
-                "Pesan": ""
-            },
-            {
                 "Nama": "Annisa Dini Amaliya",
                 "NIM": "121450081",
                 "Umur": "20",
@@ -215,6 +204,17 @@ elif menu == "Baleg":
                 "Alamat": "Jati Agung",
                 "Hobi": "Nonton Dracin",
                 "Sosmed": "@anisadini10",
+                "Kesan": "",  
+                "Pesan": ""
+            },
+            { 
+                "Nama": "Wulan Sabina",
+                "NIM": "121450150",
+                "Umur": "21",
+                "Asal":"Medan",
+                "Alamat": "Raden Saleh",
+                "Hobi": "Nonton Drakor",
+                "Sosmed": "@wlnsbn0",
                 "Kesan": "",  
                 "Pesan": ""
             },
