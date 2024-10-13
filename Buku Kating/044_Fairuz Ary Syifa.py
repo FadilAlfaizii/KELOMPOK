@@ -104,8 +104,7 @@ if menu == "Kesekjenan":
             "https://drive.google.com/uc?export=view&id=1uTDeqc0KapHFO9uwdb4F2jsEqWdZR-1a",
             "https://drive.google.com/uc?export=view&id=1ZXob1YYiSK-fc18EkBNmasIR1DBYtamH",
             "https://drive.google.com/uc?export=view&id=1wI28a99rNeHg_W8oH7BEgd60fyWGpqC7",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tzqehnfhrhFc57Cgix0bzb1GuSCFCmlE",
         ]
         data_list = [
             {
@@ -185,7 +184,7 @@ elif menu == "Baleg":
             "https://drive.google.com/uc?export=view&id=16zXe_v-TZYljbaJVBkiGdfm2_xXA6EYu",
             "https://drive.google.com/uc?export=view&id=1vB54gb6cSTlURF83fkvH1qua6gv9kl-e",
             "https://drive.google.com/uc?export=view&id=1lyybLO0c0rGekx4hKxyFr2tLGLbI13XA",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1HTit1EmT0BnVSoyqcHWnt0F9j4mJ_XWI",
             "https://drive.google.com/uc?export=view&id=1lUkyfrklUPfoQ4SdfBPmqzdmFZ3vz0li",
             "https://drive.google.com/uc?export=view&id=1HmfxaV4oX4bA5CTrJIILIhLyBqarOLlL",
             "https://drive.google.com/uc?export=view&id=1utfzJv0yDe2jGH5rkVArycMIQ_GBbINm",
