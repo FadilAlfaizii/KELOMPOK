@@ -199,7 +199,7 @@ elif menu == "Baleg":
                 "Umur": "21",
                 "Asal":"Bogor",
                 "Alamat": "Raden Saleh",
-                "Hobbi": "Kalo ke coffee shop pesen red velvet bukan kopi",
+                "Hobi": "Kalo ke coffee shop pesen red velvet bukan kopi",
                 "Sosmed": "@trimurniyaa",
                 "Kesan": "Kakakny asik banget",  
                 "Pesan":"semangat kakkk"
@@ -210,7 +210,7 @@ elif menu == "Baleg":
                 "Umur": "21",
                 "Asal":"Tangerang Selatan",
                 "Alamat": "Way Huwi",
-                "Hobbi": "Membaca, nonton",
+                "Hobi": "Membaca, nonton",
                 "Sosmed": "@annisacahyanisurya",
                 "Kesan": "Kakanya pendengar yang baik",  
                 "Pesan":"semoga sukses kak"
@@ -221,7 +221,7 @@ elif menu == "Baleg":
                 "Umur": "21",
                 "Asal":"Medan",
                 "Alamat": "Raden Saleh",
-                "Hobbi": "Nonton drakor",
+                "Hobi": "Nonton drakor",
                 "Sosmed": "@wlnsbn0",
                 "Kesan": "Kakanya ramah ",  
                 "Pesan":"makasi bimbingannya kak"
@@ -232,7 +232,7 @@ elif menu == "Baleg":
                 "Umur": "20",
                 "Asal":"Tangerang",
                 "Alamat": "Jati Agung",
-                "Hobbi": "Nonton Dracin",
+                "Hobi": "Nonton Dracin",
                 "Sosmed": "@anisadini10",
                 "Kesan": "kakanya panutan yang baik",  
                 "Pesan":"semoga bisa terus belajar bersama kak"
@@ -243,7 +243,7 @@ elif menu == "Baleg":
                 "Umur": "21",
                 "Asal":"Bandar Lampung",
                 "Alamat": "Teluk Betung",
-                "Hobbi": "Denger lagu",
+                "Hobi": "Denger lagu",
                 "Sosmed": "@fleurnsh",
                 "Kesan": "kakanya ramah",  
                 "Pesan":"semoga studinya lancar kak"
@@ -254,7 +254,7 @@ elif menu == "Baleg":
                 "Umur": "20",
                 "Asal":"Sumsel",
                 "Alamat": "Way Kandis",
-                "Hobbi": "Baca buku",
+                "Hobi": "Baca buku",
                 "Sosmed": "@fer_yulius",
                 "Kesan": "abangnya humoris",  
                 "Pesan":"jaga kesehatan bang"
@@ -265,7 +265,7 @@ elif menu == "Baleg":
                 "Umur": "20",
                 "Asal":"Jakarta",
                 "Alamat": "Korpri",
-                "Hobbi": "Main kucing",
+                "Hobi": "Main kucing",
                 "Sosmed": "@myrrinn",
                 "Kesan": "abangnya menyenangkan",  
                 "Pesan":"semoga bertemu lagi di kesempatan berikutnya bang"
@@ -276,7 +276,7 @@ elif menu == "Baleg":
                 "Umur": "20",
                 "Asal":"Jabar",
                 "Alamat": "Natar",
-                "Hobbi": "Suka ikut tes SKD",
+                "Hobi": "Suka ikut tes SKD",
                 "Sosmed": "@dhea_wedding",
                 "Kesan": "Kakak lucu",  
                 "Pesan":"semoga terus bisa menginspirasi kak"
@@ -287,7 +287,7 @@ elif menu == "Baleg":
                 "Umur": "22",
                 "Asal":"Jateng",
                 "Alamat": "Pahoman",
-                "Hobbi": "Melukis, badminton, hiking, ngopi, dengerin musik, nonton film, dan ngoding",
+                "Hobi": "Melukis, badminton, hiking, ngopi, dengerin musik, nonton film, dan ngoding",
                 "Sosmed": "@fhrul.pdf",
                 "Kesan": "abangnya humoris",  
                 "Pesan":"jangan lelah ngebimbing kami kak"
@@ -298,7 +298,7 @@ elif menu == "Baleg":
                 "Umur": "20",
                 "Asal":"Bandar Lampung",
                 "Alamat": "Kemiling",
-                "Hobbi": "Marah-marah",
+                "Hobi": "Marah-marah",
                 "Sosmed": "@jeremia_s_",
                 "Kesan": "abangnya mudah diajak ngobrol",  
                 "Pesan":"semangat dalam kepanitiaan bang"
@@ -309,7 +309,7 @@ elif menu == "Baleg":
                 "Umur": "21",
                 "Asal":"Sumbar",
                 "Alamat": "Way Huwi",
-                "Hobbi": "Main game",
+                "Hobi": "Main game",
                 "Sosmed": "@berlyyanda",
                 "Kesan": "kakanya aktif",  
                 "Pesan":"semangat kuliahnya kaka"
