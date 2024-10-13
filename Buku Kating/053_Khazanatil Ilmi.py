@@ -101,8 +101,10 @@ if menu == "Kesekjenan":
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1JOJKirMg43VjeJ89KTa6R7UOQ48wzgf9",
             "https://drive.google.com/uc?export=view&id=1tp1dQWZjTgqSlp-Xxk9JjhflNmfJFgTA",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1nbNrrGDqCnL6mQ8K2MuFmoRwvJXHKX2Z",
+            "https://drive.google.com/uc?export=view&id=1oRol0ew-nR47akHR7zdguqH1wcvDufGT",
+            "https://drive.google.com/uc?export=view&id=1GUa9lHI8xklNZ6O9m_Ll9w6kCgief8vJ",
+            "https://drive.google.com/uc?export=view&id=1pnbcF66NOSYJ2EnLnYatjc2JXLwi_-Cx",
         ]
         data_list = [
             {
@@ -114,7 +116,7 @@ if menu == "Kesekjenan":
                 "Hobi": "Mendengarkan Musik",
                 "Sosmed": "@gumilangkharisma",
                 "Kesan": "bijak dan berkharisma sekali",  
-                "Pesan":""
+                "Pesan":"semangat dan inspiratif bagi semua bang"
             },
             {
                 "Nama": "Pandra Insani Putra Azuar",
@@ -124,8 +126,8 @@ if menu == "Kesekjenan":
                 "Alamat": "Sukarame",
                 "Hobi": "Main gitar",
                 "Sosmed": "@pndrinsani27",
-                "Kesan": "",  
-                "Pesan":""
+                "Kesan": "mudah bergaul dan ramah",  
+                "Pesan":"tetap bahagia aja bang meskipun gajadi kahim"
             },
             {
                 "Nama": "Meliza Wulandari",
@@ -135,8 +137,8 @@ if menu == "Kesekjenan":
                 "Alamat": "Kotabaru",
                 "Hobi": "Nonton Drakor",
                 "Sosmed": "@wulandarimeliza",
-                "Kesan": "Kakaknya Cantik",  
-                "Pesan":""
+                "Kesan": "Kakaknya suka senyum",  
+                "Pesan":"pertahankan kinerja dan tetap semangat kak"
             },
             {
                 "Nama": "Putri Maulida Chairani",
@@ -146,19 +148,8 @@ if menu == "Kesekjenan":
                 "Alamat": "Nangka 4",
                 "Hobi": "Dengerin Pandra main gitar",
                 "Sosmed": "@ptrimaulidas_",
-                "Kesan": "",  
-                "Pesan":""
-            },
-            {
-                "Nama": "Nadilla Andhara Putri",
-                "NIM": "121450003",
-                "Umur": "21",
-                "Asal":"Metro",
-                "Alamat": "Kotabaru",
-                "Hobi": "Membaca",
-                "Sosmed": "@nadilaandr26",
-                "Kesan": "",  
-                "Pesan":""
+                "Kesan": "ramah dan baik",  
+                "Pesan":"tetap konsisten kak"
             },
             {
                 "Nama": "Hartiti Fadilah",
@@ -168,9 +159,20 @@ if menu == "Kesekjenan":
                 "Alamat": "Pemda",
                 "Hobi": "Nyanyi",
                 "Sosmed": "@hrtfdlh",
-                "Kesan": "",  
-                "Pesan":""
+                "Kesan": "kakanya lembut kalo ngobrol",  
+                "Pesan":"semangat itung duitnya kak"
             }, 
+            {
+                "Nama": "Nadilla Andhara Putri",
+                "NIM": "121450003",
+                "Umur": "21",
+                "Asal":"Metro",
+                "Alamat": "Kotabaru",
+                "Hobi": "Membaca",
+                "Sosmed": "@nadilaandr26",
+                "Kesan": "komunikasi kakanya bagus",  
+                "Pesan":"semangat juga kak itung duitnya"
+            },
         ]
         display_images_with_data(gambar_urls, data_list)
     kesekjenan()
