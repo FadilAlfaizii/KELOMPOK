@@ -181,6 +181,14 @@ elif menu == "Baleg":
             "https://drive.google.com/uc?export=view&id=1sNfF4x9HvomciVYQci59GRUxmoCPDDso",
             "https://drive.google.com/uc?export=view&id=1dm0NiWWsc5voIF4TDx6quSDKPHy6bzNj",
             "https://drive.google.com/uc?export=view&id=1hQ5CofdHgmBZNvR-QeWCJ0ZYDzhLiIp8",
+            "https://drive.google.com/uc?export=view&id=1c9zxm67fF5B9dLHLmWCD-aNzrYBjY7tq", # Ansa dini
+            "https://drive.google.com/uc?export=view&id=1vd0kc17vHbIXNfXbqGg-eSAK0YdVyWWc", # ren
+            "https://drive.google.com/uc?export=view&id=1Qq4uUHipod8ff_ouR2_o95GZ1ICUWcEx", # fer
+            "https://drive.google.com/uc?export=view&id=1_ohAdgLM4WfSW3vd8eKGL31gQl--43X-", # mir
+            "https://drive.google.com/uc?export=view&id=1TqSUgwKk6oeXGMA8lb_GBrNCrARU23X4", # dhea
+            "https://drive.google.com/uc?export=view&id=1DCB735WmlFkXZMCyptPkcB7-rxNU11fb", # fahr
+            "https://drive.google.com/uc?export=view&id=1L-nR3ez8HzP1rYs1W6WkpVUJJVrwduBj", # jer
+            "https://drive.google.com/uc?export=view&id=15iUMaWyfP4fRFVmNm11n0j5jESDNuLdY", # ber
         ]
         data_list = [
             {
