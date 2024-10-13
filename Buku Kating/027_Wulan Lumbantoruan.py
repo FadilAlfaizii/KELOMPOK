@@ -115,8 +115,8 @@ if menu == "Kesekjenan":
                 "Alamat": "Way Kandis",
                 "Hobi": "Mendengarkan musik",
                 "Sosmed": "@gumilangkharisma",
-                "Kesan": "",  
-                "Pesan":""
+                "Kesan": "Abang nya keren amatt, mengayomi sekalii",  
+                "Pesan":"Sukses terus bangg, semangat mengemban tugasnya"
             },
             {
                 "Nama": "Pandra Insani Putra Azuar",
@@ -126,8 +126,8 @@ if menu == "Kesekjenan":
                 "Alamat": "Sukarame",
                 "Hobi": "Main gitar",
                 "Sosmed": "@pndrinsani27",
-                "Kesan": "",  
-                "Pesan":""
+                "Kesan": "Abangnya baik, asikk, tau banyak drakor",  
+                "Pesan":"Kakak hebat, terus maju dan jangan pernah ragu sama diri sendiri!"
             },
             {
                 "Nama": "Meliza Wulandari",
@@ -137,8 +137,8 @@ if menu == "Kesekjenan":
                 "Alamat": "Kotabaru",
                 "Hobi": "Nonton Drakor",
                 "Sosmed": "@wulandarimeliza",
-                "Kesan": "",  
-                "Pesan":""
+                "Kesan": "Kakaknya seru, suasananya juga enak banget",  
+                "Pesan":"Semangat terus kak, sukses buat semua yang kakak kerjain!"
             },
             {
                 "Nama": " Putri Maulida Chairani",
@@ -148,8 +148,8 @@ if menu == "Kesekjenan":
                 "Alamat": "Nangka 4",
                 "Hobi": "Dengerin pandra main gitar",
                 "Sosmed": "@ptrimaulidas_",
-                "Kesan": "",  
-                "Pesan":""
+                "Kesan": "Kakaknya humble, enak diajak ngobrol",  
+                "Pesan":"Semangat terus ya kak, yakin deh kakak bakal sukses!"
             },
              {
                 "Nama": "Nadilla Andhara Putri",
@@ -159,8 +159,8 @@ if menu == "Kesekjenan":
                 "Alamat": "Kotabaru",
                 "Hobi": "Membaca",
                 "Sosmed": "@nadilaandr26",
-                "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "Pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "Kesan": "Kakak ini asik, baik, dan sangat mengayomi",  
+                "Pesan":"Sukses terus kaa, semangat kuliahnyaa !!!"# 1
             },
              {
                 "Nama": "Hartiti Fadilah",
@@ -170,8 +170,8 @@ if menu == "Kesekjenan":
                 "Alamat": "Pemda",
                 "Hobi": "Nyanyi",
                 "Sosmed": "@hrtfdlh",
-                "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "Pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "Kesan": "Kakak nya baikk, ramah kalii",  
+                "Pesan":"Selalu semangat kak, sukses terus di langkah ke depan!!"# 1
             },
         ]
         display_images_with_data(gambar_urls, data_list)
