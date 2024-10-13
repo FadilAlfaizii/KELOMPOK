@@ -42,7 +42,7 @@ def streamlit_menu():
                 "font-size": "15px",
                 "text-align": "left",
                 "margin": "0px",
-                "--hover-color": "#eee",
+                "--hover-color": "#3FBAD8",
             },
             "nav-link-selected": {"background-color": "#ffa500"},
         },
