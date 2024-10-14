@@ -178,9 +178,17 @@ if menu == "Kesekjenan":
 elif menu == "Baleg":
     def baleg():
         gambar_urls = [
+            "https://drive.google.com/uc?export=view&id=1Z-b3YAadSr8B6w-kjZ8kvMrYzIVjwo90",
+            "https://drive.google.com/uc?export=view&id=1AHtRPQ_cSesWbBMp2nr0n-WH-S7H0M9N",
+            "https://drive.google.com/uc?export=view&id=1uIa43FOm0tgLM6BOUNDS_TUo7l61zsPt",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1_PDBlTkyQal2Y5GxDPG6C256e3R486NL",
+            "https://drive.google.com/uc?export=view&id=1kWdaDw9A3Lv3QUIFWptvhtWiokV5KnON",
+            "https://drive.google.com/uc?export=view&id=1YsT0cX6aDYrLjFzGCOiDh6w2Pd8SBIYg",
+            "https://drive.google.com/uc?export=view&id=1_biCgoapsyG8O8S7h5TtAZNy-lOycaGR",
+            "https://drive.google.com/uc?export=view&id=1wmz65dAU-03-jPWNCG-hPMCydynTcdc8",
+            "https://drive.google.com/uc?export=view&id=11To7zk9x4r6fQwq6u3roXax5eFbhCb4V",
+            "https://drive.google.com/uc?export=view&id=1yEPYkImeQFdSB7ggOR4O6xUpLVy3kJKh",
         ]
         data_list = [
             {
@@ -193,6 +201,17 @@ elif menu == "Baleg":
                 "Sosmed": "@trimurniyaa",
                 "Kesan": "Kakak berwibawa tapi lucu",  
                 "Pesan":"Kak notis aku dong jadi ketua baleg"
+            },
+            {
+                "Nama": "Annisa Cahyani Surya",
+                "NIM": "121450114",
+                "Umur": "21",
+                "Asal":"Tanggerang Selatan",
+                "Alamat": "Way Huwi",
+                "Hobi": "Membaca, Nonton",
+                "Sosmed": "@annisacahyanisurya",
+                "Kesan": "Kakaknya soft bgt",  
+                "Pesan":"Semangat kakak"
             },
             {
                 "Nama": "Wulan Sabina",
