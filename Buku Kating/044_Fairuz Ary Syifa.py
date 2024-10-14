@@ -20,8 +20,10 @@ def streamlit_menu():
             "Departemen Eksternal",
             "Departemen Internal",
             "Departemen SSD",
+            "Departemen MEDKRAF",
         ],
         icons=[
+            "people-fill",
             "people-fill",
             "people-fill",
             "people-fill",
@@ -34,15 +36,15 @@ def streamlit_menu():
         default_index=0,
         orientation="horizontal",
         styles={
-            "container": {"padding": "0!important", "background-color": "#fafafa"},
+            "container": {"padding": "0!important", "background-color": "#144259"},
             "icon": {"color": "black", "font-size": "19px"},
             "nav-link": {
                 "font-size": "15px",
                 "text-align": "left",
                 "margin": "0px",
-                "--hover-color": "#eee",
+                "--hover-color": "#3FBAD8",
             },
-            "nav-link-selected": {"background-color": "#3FBAD8"},
+            "nav-link-selected": {"background-color": "#ffa500"},
         },
     )
     return selected
@@ -95,12 +97,14 @@ menu = streamlit_menu()
 
 # BAGIAN SINI YANG HANYA BOLEH DIUABAH
 if menu == "Kesekjenan":
-    def kesekjenan():
+    def Kesekjenan():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1sIo4zZ6OuJiN4JRxJZsKjvtOpVNcL59K",
+            "https://drive.google.com/uc?export=view&id=1guddUupaxGocduw7775UTqo-4Q8SkPMh",
+            "https://drive.google.com/uc?export=view&id=1uTDeqc0KapHFO9uwdb4F2jsEqWdZR-1a",
+            "https://drive.google.com/uc?export=view&id=1ZXob1YYiSK-fc18EkBNmasIR1DBYtamH",
+            "https://drive.google.com/uc?export=view&id=1wI28a99rNeHg_W8oH7BEgd60fyWGpqC7",
+            "https://drive.google.com/uc?export=view&id=1tzqehnfhrhFc57Cgix0bzb1GuSCFCmlE",
         ]
         data_list = [
             {
@@ -109,10 +113,10 @@ if menu == "Kesekjenan":
                 "Umur": "21",
                 "Asal":"Palembang",
                 "Alamat": "Way Kandis",
-                "Hobi": "Mendengarkan musik",
+                "Hobi": "Mendengarkan Musik",
                 "Sosmed": "@gumilangkharisma",
-                "Kesan": "",  
-                "Pesan":""
+                "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
+                "Pesan":"semangat terus kuliahnya kakak !!!"
             },
             {
                 "Nama": "Pandra Insani Putra Azuar",
@@ -122,8 +126,8 @@ if menu == "Kesekjenan":
                 "Alamat": "Sukarame",
                 "Hobi": "Main gitar",
                 "Sosmed": "@pndrinsani27",
-                "Kesan": "",  
-                "Pesan":""
+                "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
+                "Pesan":"semangat terus kuliahnya kakak !!!"# 1
             },
             {
                 "Nama": "Meliza Wulandari",
@@ -133,19 +137,19 @@ if menu == "Kesekjenan":
                 "Alamat": "Kotabaru",
                 "Hobi": "Nonton Drakor",
                 "Sosmed": "@wulandarimeliza",
-                "Kesan": "",  
-                "Pesan":""
+                "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
+                "Pesan":"semangat terus kuliahnya kakak !!!"# 1
             },
             {
-                "Nama": " Putri Maulida Chairani",
+                "Nama": "Putri Maulida Chairani",
                 "NIM": "121450050",
                 "Umur": "21",
                 "Asal":"Payakumbuh, Sumbar",
                 "Alamat": "Nangka 4",
                 "Hobi": "Dengerin pandra main gitar",
                 "Sosmed": "@ptrimaulidas_",
-                "Kesan": "",  
-                "Pesan":""
+                "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
+                "Pesan":"semangat terus kuliahnya kakak !!!!"# 1
             },
             {
                 "Nama": "Nadilla Andhara Putri",
@@ -155,8 +159,8 @@ if menu == "Kesekjenan":
                 "Alamat": "Kotabaru",
                 "Hobi": "Membaca",
                 "Sosmed": "@nadilaandr26",
-                "Kesan": "",  
-                "Pesan":""
+                "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
+                "Pesan":"semangat terus kuliahnya kakak !!"# 1
             },
             {
                 "Nama": "Hartiti Fadilah",
@@ -166,22 +170,30 @@ if menu == "Kesekjenan":
                 "Alamat": "Pemda",
                 "Hobi": "Nyanyi",
                 "Sosmed": "@hrtfdlh",
-                "Kesan": "",  
-                "Pesan":""
-            }, 
+                "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
+                "Pesan":"semangat terus kuliahnya kakak !!!!"# 1
+            },
         ]
         display_images_with_data(gambar_urls, data_list)
-    kesekjenan()
+    Kesekjenan()
 
 elif menu == "Baleg":
     def baleg():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1YdH2EBMoLqJszKf6q70R6xIOaWWiEUO5",
+            "https://drive.google.com/uc?export=view&id=16zXe_v-TZYljbaJVBkiGdfm2_xXA6EYu",
+            "https://drive.google.com/uc?export=view&id=1vB54gb6cSTlURF83fkvH1qua6gv9kl-e",
+            "https://drive.google.com/uc?export=view&id=1lyybLO0c0rGekx4hKxyFr2tLGLbI13XA",
+            "https://drive.google.com/uc?export=view&id=1HTit1EmT0BnVSoyqcHWnt0F9j4mJ_XWI",
+            "https://drive.google.com/uc?export=view&id=1lUkyfrklUPfoQ4SdfBPmqzdmFZ3vz0li",
+            "https://drive.google.com/uc?export=view&id=1HmfxaV4oX4bA5CTrJIILIhLyBqarOLlL",
+            "https://drive.google.com/uc?export=view&id=1utfzJv0yDe2jGH5rkVArycMIQ_GBbINm",
+            "https://drive.google.com/uc?export=view&id=1ZXkIXBvTghLxRkBwj4bOl81mJW3b71oQ",
+            "https://drive.google.com/uc?export=view&id=1wRItEBqUHeQJGuhwe72TVDIiv8WFsby8",
+            "https://drive.google.com/uc?export=view&id=1IUdVL-xPS2rRB1tEFN10c_drdVGNzFZH",
         ]
         data_list = [
-                    {
+            {
                 "Nama": "Tri Murniya Ningsih",
                 "NIM": "121450038 ",
                 "Umur": "21",
@@ -189,8 +201,8 @@ elif menu == "Baleg":
                 "Alamat": "Raden Saleh",
                 "Hobi": "Kalo ke coffe shop pesen red velvet bukan kopi",
                 "Sosmed": "@trimurniyaa",
-                "Kesan": "",  
-                "Pesan":""
+                "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
+                "Pesan":"semangat terus kuliahnya kakak !!"
             },
             {
                 "Nama": "Annisa Cahyani Surya",
@@ -200,8 +212,8 @@ elif menu == "Baleg":
                 "Alamat": "Way Huwi",
                 "Hobi": "Membaca, Nonton",
                 "Sosmed": "@annisacahyanisurya",
-                "Kesan": "",  
-                "Pesan":""
+                "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
+                "Pesan":"semangat terus kuliahnya kakak !!"# 1
             },
             {
                 "Nama": "Wulan Sabina",
@@ -209,98 +221,98 @@ elif menu == "Baleg":
                 "Umur": "21",
                 "Asal":"Medan",
                 "Alamat": "Raden Saleh",
-                "Hobi": "Nonton drakor",
+                "Hobi": "Nonton Drakor",
                 "Sosmed": "@wlnsbn0",
-                "Kesan": "",  
-                "Pesan":""
+                "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
+                "Pesan":"semangat terus kuliahnya kakak !!!"# 1
             },
             {
                 "Nama": "Annisa Dini Amaliya",
-                "NIM": "121450081",
-                "Umur": "21",
+                "NIM": "121450081 ",
+                "Umur": "20",
                 "Asal":"Tanggerang",
                 "Alamat": "Jati Agung",
                 "Hobi": "Nonton Dracin",
                 "Sosmed": "@anisadini10",
-                "Kesan": "",  
-                "Pesan":""
+                "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
+                "Pesan":"semangat terus kuliahnya kakak !!!"# 1
             },
             {
                 "Nama": "Renisha Putri Giani",
-                "NIM": "122450079",
+                "NIM": "122450079  ",
                 "Umur": "21",
-                "Asal":"Bandar Lampung",
+                "Asal":"Bandaar Lampung",
                 "Alamat": "Teluk Betung",
-                "Hobi": "Denger lagu",
+                "Hobi": "Denger Lagu",
                 "Sosmed": "@fleurnsh",
-                "Kesan": "",  
-                "Pesan":""
+                "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
+                "Pesan":"semangat terus kuliahnya kakak !!!"# 1
             },
             {
                 "Nama": "Feryadi Yulius",
-                "NIM": "122450087",
+                "NIM": "122450087  ",
                 "Umur": "20",
-                "Asal":"Batu Raja, Sumsel",
+                "Asal":"Batu Raja, SumselMedan",
                 "Alamat": "Way Kandis",
-                "Hobi": "Baca buku",
+                "Hobi": "Baca Buku",
                 "Sosmed": "@fer_yulius",
-                "Kesan": "",  
-                "Pesan":""
+                "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
+                "Pesan":"semangat terus kuliahnya kakak !!!"# 1
             },
             {
                 "Nama": "Mirzan Yusuf Rabbani",
-                "NIM": "122450118",
+                "NIM": "122450118 ",
                 "Umur": "20",
                 "Asal":"Jakarta",
                 "Alamat": "Korpri",
-                "Hobi": "Main kucing",
+                "Hobi": "Main Kucing",
                 "Sosmed": "@myrrinn",
-                "Kesan": "",  
-                "Pesan":""
+                "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
+                "Pesan":"semangat terus kuliahnya kakak !!!"# 1
             },
             {
                 "Nama": "Dhea Amelia Putri",
-                "NIM": "122450004",
+                "NIM": "122450004  ",
                 "Umur": "20",
                 "Asal":"Sukabumi, Jabar",
                 "Alamat": "Natar",
                 "Hobi": "Suka Ikut Tes SKD",
                 "Sosmed": "@dhea_wedding",
-                "Kesan": "",  
-                "Pesan":""
+                "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
+                "Pesan":"semangat terus kuliahnya kakak !!!"# 1
             },
             {
                 "Nama": "Muhammad Fahrul Aditya",
-                "NIM": "121450156",
+                "NIM": "121450156 ",
                 "Umur": "22",
                 "Asal":"Surakarta, Jateng",
                 "Alamat": "Pahoman",
                 "Hobi": "Melukis, badminton, hiking, ngopi, dengerin music, nonton film dan ngoding",
                 "Sosmed": "@fhrul.pdf",
-                "Kesan": "",  
-                "Pesan":""
+                "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
+                "Pesan":"semangat terus kuliahnya kakak !!!"# 1
             },
             {
                 "Nama": "Jeremia Susanto",
-                "NIM": "122450022",
+                "NIM": "122450022 ",
                 "Umur": "20",
                 "Asal":"Bandar Lampung",
                 "Alamat": "Kemiling",
                 "Hobi": "Marah-marah",
                 "Sosmed": "@jeremia_s_",
-                "Kesan": "",  
-                "Pesan":""
+                "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
+                "Pesan":"semangat terus kuliahnya kakak !!!"# 1
             },
             {
-                "Nama": "Berlianda Enda Putri",
-                "NIM": "122450065",
-                "Umur": "21",
-                "Asal":"Sumatera Barat",
+                "Nama"  : "Berlianda Enda Putri",
+                "NIM"   : "122450065",
+                "Umur"  : "21",
+                "Asal"  : "Sumatera Barat",
                 "Alamat": "Way Huwi",
-                "Hobi": "Main game",
+                "Hobi" : "Main Game",
                 "Sosmed": "@berlyyanda",
-                "Kesan": "",  
-                "Pesan":""
+                "Kesan" : "",  
+                "Pesan" : ""
             },
         ]
         display_images_with_data(gambar_urls, data_list)

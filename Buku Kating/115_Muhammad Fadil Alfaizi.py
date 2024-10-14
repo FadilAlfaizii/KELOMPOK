@@ -20,8 +20,10 @@ def streamlit_menu():
             "Departemen Eksternal",
             "Departemen Internal",
             "Departemen SSD",
+            "Departemen MEDKRAF",
         ],
         icons=[
+            "people-fill",
             "people-fill",
             "people-fill",
             "people-fill",
@@ -34,15 +36,15 @@ def streamlit_menu():
         default_index=0,
         orientation="horizontal",
         styles={
-            "container": {"padding": "0!important", "background-color": "#fafafa"},
+            "container": {"padding": "0!important", "background-color": "#144259"},
             "icon": {"color": "black", "font-size": "19px"},
             "nav-link": {
                 "font-size": "15px",
                 "text-align": "left",
                 "margin": "0px",
-                "--hover-color": "#eee",
+                "--hover-color": "#3FBAD8",
             },
-            "nav-link-selected": {"background-color": "#3FBAD8"},
+            "nav-link-selected": {"background-color": "#ffa500"},
         },
     )
     return selected
@@ -85,7 +87,7 @@ def display_images_with_data(gambar_urls, data_list):
             st.write(f"Umur: {data_list[i]['Umur']}")
             st.write(f"Asal: {data_list[i]['Asal']}")
             st.write(f"Alamat: {data_list[i]['Alamat']}")
-            st.write(f"Hobi: {data_list[i]['Hobi']}")
+            st.write(f"Hobi: {data_list[i]['Hobbi']}")
             st.write(f"Sosial Media: {data_list[i]['Sosmed']}")
             st.write(f"Kesan: {data_list[i]['Kesan']}")
             st.write(f"Pesan: {data_list[i]['Pesan']}")
@@ -181,6 +183,14 @@ elif menu == "Baleg":
             "https://drive.google.com/uc?export=view&id=1sNfF4x9HvomciVYQci59GRUxmoCPDDso",
             "https://drive.google.com/uc?export=view&id=1dm0NiWWsc5voIF4TDx6quSDKPHy6bzNj",
             "https://drive.google.com/uc?export=view&id=1hQ5CofdHgmBZNvR-QeWCJ0ZYDzhLiIp8",
+            "https://drive.google.com/uc?export=view&id=1c9zxm67fF5B9dLHLmWCD-aNzrYBjY7tq", # Ansa dini
+            "https://drive.google.com/uc?export=view&id=1vd0kc17vHbIXNfXbqGg-eSAK0YdVyWWc", # ren
+            "https://drive.google.com/uc?export=view&id=1Qq4uUHipod8ff_ouR2_o95GZ1ICUWcEx", # fer
+            "https://drive.google.com/uc?export=view&id=1_ohAdgLM4WfSW3vd8eKGL31gQl--43X-", # mir
+            "https://drive.google.com/uc?export=view&id=1TqSUgwKk6oeXGMA8lb_GBrNCrARU23X4", # dhea
+            "https://drive.google.com/uc?export=view&id=1DCB735WmlFkXZMCyptPkcB7-rxNU11fb", # fahr
+            "https://drive.google.com/uc?export=view&id=1L-nR3ez8HzP1rYs1W6WkpVUJJVrwduBj", # jer
+            "https://drive.google.com/uc?export=view&id=15iUMaWyfP4fRFVmNm11n0j5jESDNuLdY", # ber
         ]
         data_list = [
             {
@@ -307,6 +317,7 @@ elif menu == "Baleg":
         ]
         display_images_with_data(gambar_urls, data_list)
     baleg()
+
 elif menu == "Senator":
     def senator():
         gambar_urls = [
@@ -321,7 +332,7 @@ elif menu == "Senator":
                 "Umur": "",
                 "Asal":"",
                 "Alamat": "",
-                "Hobi": "",
+                "Hobbi": "",
                 "Sosmed": "",
                 "Kesan": "",  
                 "Pesan":""
@@ -332,7 +343,7 @@ elif menu == "Senator":
                 "Umur": "",
                 "Asal":"",
                 "Alamat": "",
-                "Hobi": "",
+                "Hobbi": "",
                 "Sosmed": "",
                 "Kesan": "",  
                 "Pesan":""
@@ -343,7 +354,7 @@ elif menu == "Senator":
                 "Umur": "",
                 "Asal":"",
                 "Alamat": "",
-                "Hobi": "",
+                "Hobbi": "",
                 "Sosmed": "",
                 "Kesan": "",  
                 "Pesan":""
@@ -354,7 +365,7 @@ elif menu == "Senator":
                 "Umur": "",
                 "Asal":"",
                 "Alamat": "",
-                "Hobi": "",
+                "Hobbi": "",
                 "Sosmed": "",
                 "Kesan": "",  
                 "Pesan":""
@@ -365,7 +376,7 @@ elif menu == "Senator":
                 "Umur": "",
                 "Asal":"",
                 "Alamat": "",
-                "Hobi": "",
+                "Hobbi": "",
                 "Sosmed": "",
                 "Kesan": "",  
                 "Pesan":""
@@ -376,7 +387,7 @@ elif menu == "Senator":
                 "Umur": "",
                 "Asal":"",
                 "Alamat": "",
-                "Hobi": "",
+                "Hobbi": "",
                 "Sosmed": "",
                 "Kesan": "",  
                 "Pesan":""
@@ -399,7 +410,7 @@ elif menu == "Departemen Internal":
                 "Umur": "",
                 "Asal":"",
                 "Alamat": "",
-                "Hobi": "",
+                "Hobbi": "",
                 "Sosmed": "",
                 "Kesan": "",  
                 "Pesan":""
@@ -410,7 +421,7 @@ elif menu == "Departemen Internal":
                 "Umur": "",
                 "Asal":"",
                 "Alamat": "",
-                "Hobi": "",
+                "Hobbi": "",
                 "Sosmed": "",
                 "Kesan": "",  
                 "Pesan":""
@@ -421,7 +432,7 @@ elif menu == "Departemen Internal":
                 "Umur": "",
                 "Asal":"",
                 "Alamat": "",
-                "Hobi": "",
+                "Hobbi": "",
                 "Sosmed": "",
                 "Kesan": "",  
                 "Pesan":""
@@ -432,7 +443,7 @@ elif menu == "Departemen Internal":
                 "Umur": "",
                 "Asal":"",
                 "Alamat": "",
-                "Hobi": "",
+                "Hobbi": "",
                 "Sosmed": "",
                 "Kesan": "",  
                 "Pesan":""
@@ -443,7 +454,7 @@ elif menu == "Departemen Internal":
                 "Umur": "",
                 "Asal":"",
                 "Alamat": "",
-                "Hobi": "",
+                "Hobbi": "",
                 "Sosmed": "",
                 "Kesan": "",  
                 "Pesan":""
@@ -454,7 +465,7 @@ elif menu == "Departemen Internal":
                 "Umur": "",
                 "Asal":"",
                 "Alamat": "",
-                "Hobi": "",
+                "Hobbi": "",
                 "Sosmed": "",
                 "Kesan": "",  
                 "Pesan":""
@@ -477,7 +488,7 @@ elif menu == "Departemen PSDA":
                 "Umur": "",
                 "Asal":"",
                 "Alamat": "",
-                "Hobi": "",
+                "Hobbi": "",
                 "Sosmed": "",
                 "Kesan": "",  
                 "Pesan":""
@@ -488,7 +499,7 @@ elif menu == "Departemen PSDA":
                 "Umur": "",
                 "Asal":"",
                 "Alamat": "",
-                "Hobi": "",
+                "Hobbi": "",
                 "Sosmed": "",
                 "Kesan": "",  
                 "Pesan":""
@@ -499,7 +510,7 @@ elif menu == "Departemen PSDA":
                 "Umur": "",
                 "Asal":"",
                 "Alamat": "",
-                "Hobi": "",
+                "Hobbi": "",
                 "Sosmed": "",
                 "Kesan": "",  
                 "Pesan":""
@@ -510,7 +521,7 @@ elif menu == "Departemen PSDA":
                 "Umur": "",
                 "Asal":"",
                 "Alamat": "",
-                "Hobi": "",
+                "Hobbi": "",
                 "Sosmed": "",
                 "Kesan": "",  
                 "Pesan":""
@@ -521,7 +532,7 @@ elif menu == "Departemen PSDA":
                 "Umur": "",
                 "Asal":"",
                 "Alamat": "",
-                "Hobi": "",
+                "Hobbi": "",
                 "Sosmed": "",
                 "Kesan": "",  
                 "Pesan":""
@@ -532,7 +543,7 @@ elif menu == "Departemen PSDA":
                 "Umur": "",
                 "Asal":"",
                 "Alamat": "",
-                "Hobi": "",
+                "Hobbi": "",
                 "Sosmed": "",
                 "Kesan": "",  
                 "Pesan":""
@@ -555,7 +566,7 @@ elif menu == "Departemen Eksternal":
                 "Umur": "",
                 "Asal":"",
                 "Alamat": "",
-                "Hobi": "",
+                "Hobbi": "",
                 "Sosmed": "",
                 "Kesan": "",  
                 "Pesan":""
@@ -566,7 +577,7 @@ elif menu == "Departemen Eksternal":
                 "Umur": "",
                 "Asal":"",
                 "Alamat": "",
-                "Hobi": "",
+                "Hobbi": "",
                 "Sosmed": "",
                 "Kesan": "",  
                 "Pesan":""
@@ -577,7 +588,7 @@ elif menu == "Departemen Eksternal":
                 "Umur": "",
                 "Asal":"",
                 "Alamat": "",
-                "Hobi": "",
+                "Hobbi": "",
                 "Sosmed": "",
                 "Kesan": "",  
                 "Pesan":""
@@ -588,7 +599,7 @@ elif menu == "Departemen Eksternal":
                 "Umur": "",
                 "Asal":"",
                 "Alamat": "",
-                "Hobi": "",
+                "Hobbi": "",
                 "Sosmed": "",
                 "Kesan": "",  
                 "Pesan":""
@@ -599,7 +610,7 @@ elif menu == "Departemen Eksternal":
                 "Umur": "",
                 "Asal":"",
                 "Alamat": "",
-                "Hobi": "",
+                "Hobbi": "",
                 "Sosmed": "",
                 "Kesan": "",  
                 "Pesan":""
@@ -622,7 +633,7 @@ elif menu == "Departemen MIKFES":
                 "Umur": "",
                 "Asal":"",
                 "Alamat": "",
-                "Hobi": "",
+                "Hobbi": "",
                 "Sosmed": "",
                 "Kesan": "",  
                 "Pesan":""
@@ -633,7 +644,7 @@ elif menu == "Departemen MIKFES":
                 "Umur": "",
                 "Asal":"",
                 "Alamat": "",
-                "Hobi": "",
+                "Hobbi": "",
                 "Sosmed": "",
                 "Kesan": "",  
                 "Pesan":""
@@ -644,7 +655,7 @@ elif menu == "Departemen MIKFES":
                 "Umur": "",
                 "Asal":"",
                 "Alamat": "",
-                "Hobi": "",
+                "Hobbi": "",
                 "Sosmed": "",
                 "Kesan": "",  
                 "Pesan":""
@@ -655,7 +666,7 @@ elif menu == "Departemen MIKFES":
                 "Umur": "",
                 "Asal":"",
                 "Alamat": "",
-                "Hobi": "",
+                "Hobbi": "",
                 "Sosmed": "",
                 "Kesan": "",  
                 "Pesan":""
@@ -666,7 +677,7 @@ elif menu == "Departemen MIKFES":
                 "Umur": "",
                 "Asal":"",
                 "Alamat": "",
-                "Hobi": "",
+                "Hobbi": "",
                 "Sosmed": "",
                 "Kesan": "",  
                 "Pesan":""
@@ -689,7 +700,7 @@ elif menu == "Departemen SSD":
                 "Umur": "",
                 "Asal":"",
                 "Alamat": "",
-                "Hobi": "",
+                "Hobbi": "",
                 "Sosmed": "",
                 "Kesan": "",  
                 "Pesan":""
@@ -700,7 +711,7 @@ elif menu == "Departemen SSD":
                 "Umur": "",
                 "Asal":"",
                 "Alamat": "",
-                "Hobi": "",
+                "Hobbi": "",
                 "Sosmed": "",
                 "Kesan": "",  
                 "Pesan":""
@@ -711,7 +722,7 @@ elif menu == "Departemen SSD":
                 "Umur": "",
                 "Asal":"",
                 "Alamat": "",
-                "Hobi": "",
+                "Hobbi": "",
                 "Sosmed": "",
                 "Kesan": "",  
                 "Pesan":""
@@ -722,7 +733,7 @@ elif menu == "Departemen SSD":
                 "Umur": "",
                 "Asal":"",
                 "Alamat": "",
-                "Hobi": "",
+                "Hobbi": "",
                 "Sosmed": "",
                 "Kesan": "",  
                 "Pesan":""
@@ -733,7 +744,7 @@ elif menu == "Departemen SSD":
                 "Umur": "",
                 "Asal":"",
                 "Alamat": "",
-                "Hobi": "",
+                "Hobbi": "",
                 "Sosmed": "",
                 "Kesan": "",  
                 "Pesan":""
@@ -744,7 +755,7 @@ elif menu == "Departemen SSD":
                 "Umur": "",
                 "Asal":"",
                 "Alamat": "",
-                "Hobi": "",
+                "Hobbi": "",
                 "Sosmed": "",
                 "Kesan": "",  
                 "Pesan":""
@@ -755,7 +766,7 @@ elif menu == "Departemen SSD":
                 "Umur": "",
                 "Asal":"",
                 "Alamat": "",
-                "Hobi": "",
+                "Hobbi": "",
                 "Sosmed": "",
                 "Kesan": "",  
                 "Pesan":""
@@ -763,3 +774,92 @@ elif menu == "Departemen SSD":
         ]
         display_images_with_data(gambar_urls, data_list)
     Departemen_SSD()
+
+elif menu == "Departemen MEDKRAF":
+    def Departemen_MEDKRAF():
+        gambar_urls = [
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+        ]
+        data_list = [
+            {
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobbi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+            {
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobbi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+            {
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobbi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+            {
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobbi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+            {
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobbi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+            {
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobbi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+            {
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobbi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+        ]
+        display_images_with_data(gambar_urls, data_list)
+    Departemen_MEDKRAF()

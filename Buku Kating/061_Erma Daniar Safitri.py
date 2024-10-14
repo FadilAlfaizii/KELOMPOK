@@ -20,8 +20,10 @@ def streamlit_menu():
             "Departemen Eksternal",
             "Departemen Internal",
             "Departemen SSD",
+            "Departemen MEDKRAF",
         ],
         icons=[
+            "people-fill",
             "people-fill",
             "people-fill",
             "people-fill",
@@ -34,15 +36,15 @@ def streamlit_menu():
         default_index=0,
         orientation="horizontal",
         styles={
-            "container": {"padding": "0!important", "background-color": "#fafafa"},
+            "container": {"padding": "0!important", "background-color": "#144259"},
             "icon": {"color": "black", "font-size": "19px"},
             "nav-link": {
                 "font-size": "15px",
                 "text-align": "left",
                 "margin": "0px",
-                "--hover-color": "#eee",
+                "--hover-color": "#3FBAD8",
             },
-            "nav-link-selected": {"background-color": "#3FBAD8"},
+            "nav-link-selected": {"background-color": "#ffa500"},
         },
     )
     return selected
@@ -85,7 +87,7 @@ def display_images_with_data(gambar_urls, data_list):
             st.write(f"Umur: {data_list[i]['Umur']}")
             st.write(f"Asal: {data_list[i]['Asal']}")
             st.write(f"Alamat: {data_list[i]['Alamat']}")
-            st.write(f"Hobbi: {data_list[i]['Hobi']}")
+            st.write(f"Hobi: {data_list[i]['Hobi']}")
             st.write(f"Sosial Media: {data_list[i]['Sosmed']}")
             st.write(f"Kesan: {data_list[i]['Kesan']}")
             st.write(f"Pesan: {data_list[i]['Pesan']}")
@@ -114,10 +116,10 @@ if menu == "Kesekjenan":
                 "Hobi": "Mendengarkan musik",
                 "Sosmed": "@gumilangkharisma",
                 "Kesan": "Kakak ini bijak banget!!",  
-                "Pesan":"semoga cepat wisuda ya kak!!"
+                "Pesan":"semoga cepat wisuda ya kak!!"# 1
             },
             {
-                "Nama": "Pandra Insani Putra Azuar",
+                "Nama": "Pandra Insani Putra Azuar ",
                 "NIM": "121450137",
                 "Umur": "21",
                 "Asal":"Lampung Utara",
@@ -125,7 +127,7 @@ if menu == "Kesekjenan":
                 "Hobi": "Main gitar",
                 "Sosmed": "@pndrinsani27",
                 "Kesan": "Kakak ini asik dan seru banget!!",  
-                "Pesan":"Tetap berpegang teguh pada prinsip dan tujuan ya kak !!!"
+                "Pesan":"Tetap berpegang teguh pada prinsip dan tujuan ya kak !!!"# 1
             },
             {
                 "Nama": "Meliza Wulandari",
@@ -136,7 +138,7 @@ if menu == "Kesekjenan":
                 "Hobi": "Nonton drakor",
                 "Sosmed": "@wulandarimeliza",
                 "Kesan": "Kakak ini seru dan periang banget!",  
-                "Pesan":"semangat terus kak buat kedepannya !!!"
+                "Pesan":"semangat terus kak buat kedepannya !!!"# 1
             },
             {
                 "Nama": "Putri Maulida Chairani",
@@ -147,7 +149,7 @@ if menu == "Kesekjenan":
                 "Hobi": "Dengerin pandra main gitar",
                 "Sosmed": "@ptrimaulidas_",
                 "Kesan": "Kak putri lucu dan asik banget!",  
-                "Pesan":"semangat terus kak buat kedepannya !!!"
+                "Pesan":"semangat terus kak buat kedepannya !!!"# 1
             },
             {
                 "Nama": "Nadilla Andhara Putri",
@@ -158,7 +160,7 @@ if menu == "Kesekjenan":
                 "Hobi": "Membaca",
                 "Sosmed": "@nadilaandr26",
                 "Kesan": "Kak nadilla baik dan seru banget orangnya!!",  
-                "Pesan":"jangan pernah berhenti belajar dan berkembang ya kak !!!"
+                "Pesan":"jangan pernah berhenti belajar dan berkembang ya kak !!!"# 1
             },
             {
                 "Nama": "Hartiti Fadilah",
@@ -169,7 +171,7 @@ if menu == "Kesekjenan":
                 "Hobi": "Nyanyi",
                 "Sosmed": "@hrtfdlh",
                 "Kesan": "Kak hartiti baik banget ",  
-                "Pesan":"semangat terus buat kuliahnya !!!"
+                "Pesan":"semangat terus buat kuliahnya !!!"# 1
             },
         ]
         display_images_with_data(gambar_urls, data_list)
@@ -249,7 +251,7 @@ elif menu == "Baleg":
             {
                 "Nama": "Feryadi Yulius",
                 "NIM": "122450087",
-                "mUur": "20",
+                "Umur": "20",
                 "Asal":"Batu Raja, Sumatera Selatan",
                 "Alamat": "Way Kandis",
                 "Hobi": "Baca buku",
