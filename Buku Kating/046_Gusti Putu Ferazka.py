@@ -183,16 +183,15 @@ elif menu == "Baleg":
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1kqxtEpljTKlvtNTdDpmehVHNgIXStclF",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1R2EK_02HSYhuVRyQU5NzqjNv9Ooh1H80",
+            "https://drive.google.com/uc?export=view&id=hnAmLE6y37xF55_3gmxyiyuGE5SnVSHO",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1hnAmLE6y37xF55_3gmxyiyuGE5SnVSHO",
+            "https://drive.google.com/uc?export=view&id=1j71OuSkh04cIOj_VTN9LvT2p8QF9DPJQ",
             "https://drive.google.com/uc?export=view&id=1R2EK_02HSYhuVRyQU5NzqjNv9Ooh1H80",
             "https://drive.google.com/uc?export=view&id=1l7sakgXKarrJyxD85cRHw7DZbt1VaN62",
             "https://drive.google.com/uc?export=view&id=13Ip7KZN_hy9epaZf0V_KOoSO4hk5w6eD",
             "https://drive.google.com/uc?export=view&id=1mLD71KoQwGrp3N_d5lzVjIuuZlfM0M_h",
             "https://drive.google.com/uc?export=view&id=18RqdV4vurtQxrZUqxQdY6sxXEvLRuxFa",
             "https://drive.google.com/uc?export=view&id=1tqXahZkwQytdhnkK-C4J6Tasoave0FLh",
-            
         ]
         data_list = [
             {
