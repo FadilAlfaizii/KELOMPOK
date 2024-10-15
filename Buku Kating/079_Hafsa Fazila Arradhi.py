@@ -20,8 +20,10 @@ def streamlit_menu():
             "Departemen Eksternal",
             "Departemen Internal",
             "Departemen SSD",
+            "Departemen MEDKRAF",
         ],
         icons=[
+            "people-fill",
             "people-fill",
             "people-fill",
             "people-fill",
@@ -34,15 +36,15 @@ def streamlit_menu():
         default_index=0,
         orientation="horizontal",
         styles={
-            "container": {"padding": "0!important", "background-color": "#fafafa"},
+            "container": {"padding": "0!important", "background-color": "#144259"},
             "icon": {"color": "black", "font-size": "19px"},
             "nav-link": {
                 "font-size": "15px",
                 "text-align": "left",
                 "margin": "0px",
-                "--hover-color": "#eee",
+                "--hover-color": "#3FBAD8",
             },
-            "nav-link-selected": {"background-color": "#3FBAD8"},
+            "nav-link-selected": {"background-color": "#ffa500"},
         },
     )
     return selected
@@ -97,10 +99,12 @@ menu = streamlit_menu()
 if menu == "Kesekjenan":
     def kesekjenan():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1ajUSYcVZW7YQq6TZSgAur4Ml8BPd7mRG",
+            "https://drive.google.com/uc?export=view&id=1Xph4eYYCqxR1ZUOMvZuO6RE5U_sM0bY-",
+            "https://drive.google.com/uc?export=view&id=10v9v2wwZaE30EI-maMYXmsVorG7fy9Uy",
+            "https://drive.google.com/uc?export=view&id=18U8ZIyQPiX9S-MZ6wqE2lcsrhjwEJUjh",
+            "https://drive.google.com/uc?export=view&id=1ya074gua4JDhkoqMgLS5xLZ9Tb3kVyk2",
+            "https://drive.google.com/uc?export=view&id=1A2uk7IJ9v7U6hOyTacgSPD0L1UYjVm7C",
         ]
         data_list = [
             {
@@ -148,17 +152,6 @@ if menu == "Kesekjenan":
                 "Pesan":""
             },
             {
-                "Nama": "Nadilla Andhara Putri",
-                "NIM": "121450003",
-                "Umur": "21",
-                "Asal":"Metro",
-                "Alamat": "Kotabaru",
-                "Hobi": "Membaca",
-                "Sosmed": "@nadilaandr26",
-                "Kesan": "",  
-                "Pesan":""
-            },
-            {
                 "Nama": "Hartiti Fadilah",
                 "NIM": "121450031",
                 "Umur": "21",
@@ -169,6 +162,17 @@ if menu == "Kesekjenan":
                 "Kesan": "",  
                 "Pesan":""
             }, 
+            {
+                "Nama": "Nadilla Andhara Putri",
+                "NIM": "121450003",
+                "Umur": "21",
+                "Asal":"Metro",
+                "Alamat": "Kotabaru",
+                "Hobi": "Membaca",
+                "Sosmed": "@nadilaandr26",
+                "Kesan": "",  
+                "Pesan":""
+            },
         ]
         display_images_with_data(gambar_urls, data_list)
     kesekjenan()
