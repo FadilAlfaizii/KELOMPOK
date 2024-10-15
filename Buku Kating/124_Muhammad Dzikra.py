@@ -20,8 +20,10 @@ def streamlit_menu():
             "Departemen Eksternal",
             "Departemen Internal",
             "Departemen SSD",
+            "Departemen MEDKRAF",
         ],
         icons=[
+            "people-fill",
             "people-fill",
             "people-fill",
             "people-fill",
@@ -34,15 +36,15 @@ def streamlit_menu():
         default_index=0,
         orientation="horizontal",
         styles={
-            "container": {"padding": "0!important", "background-color": "#fafafa"},
+            "container": {"padding": "0!important", "background-color": "#144259"},
             "icon": {"color": "black", "font-size": "19px"},
             "nav-link": {
                 "font-size": "15px",
                 "text-align": "left",
                 "margin": "0px",
-                "--hover-color": "#eee",
+                "--hover-color": "#3FBAD8",
             },
-            "nav-link-selected": {"background-color": "#3FBAD8"},
+            "nav-link-selected": {"background-color": "#ffa500"},
         },
     )
     return selected
@@ -85,7 +87,7 @@ def display_images_with_data(gambar_urls, data_list):
             st.write(f"Umur: {data_list[i]['Umur']}")
             st.write(f"Asal: {data_list[i]['Asal']}")
             st.write(f"Alamat: {data_list[i]['Alamat']}")
-            st.write(f"Hobbi: {data_list[i]['Hobbi']}")
+            st.write(f"Hobi: {data_list[i]['Hobbi']}")
             st.write(f"Sosial Media: {data_list[i]['Sosmed']}")
             st.write(f"Kesan: {data_list[i]['Kesan']}")
             st.write(f"Pesan: {data_list[i]['Pesan']}")
@@ -103,37 +105,70 @@ if menu == "Kesekjenan":
         ]
         data_list = [
             {
-                "Nama": "Kakak A",
-                "NIM": "122450000",
-                "Umur": "18",
-                "Asal":"Bekasi",
-                "Alamat": "Gg.sakum",
-                "Hobbi": "Mainn Bola, Belajar",
-                "Sosmed": "@i",
-                "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "Pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "Nama": "Kharisma Gumilang",
+                "NIM": "121450142",
+                "Umur": "21",
+                "Asal":"Palembang",
+                "Alamat": "Way Kandis",
+                "Hobbi": "Mendengarkan musik",
+                "Sosmed": "@gumilangkharisma",
+                "Kesan": "Abangnya asik klo ngobrol",  
+                "Pesan":"Semangat bang kedepannya, sukses terus!"
             },
             {
-                "Nama": "Kakak B",
-                "NIM": "122450000",
-                "Umur": "18",
-                "Asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "Hobbi": "Mainn Bola, Belajar",
-                "Sosmed": "@i",
-                "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "Pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "Nama": "Pandra Insani Putra Azuar",
+                "NIM": "121450137",
+                "Umur": "21",
+                "Asal":"Lampung Utara",
+                "Alamat": "Sukarame",
+                "Hobbi": "Main gitar",
+                "Sosmed": "@pndrinsani27",
+                "Kesan": "Abangnya keren",
+                "Pesan":"Gokil bang!"
             },
             {
-                "Nama": "Kakak C",
-                "NIM": "122450000",
-                "Umur": "18",
-                "Asal":"Bekasi",
-                "Alamat": "Gg.sakum",
-                "Hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
+                "Nama": "Meliza Wulandari",
+                "NIM": "121450065",
+                "Umur": "20",
+                "Asal":"Pagar Alam",
+                "Alamat": "Kotabaru",
+                "Hobbi": "Nonton drakor",
+                "Sosmed": "@wulandarimeliza",
+                "Kesan": "Kakaknya gercep",  
+                "Pesan":"semangat terus kuliahnya kakak !!!"
+            },
+            {
+                "Nama": "Putri Maulida Chairani",
+                "NIM": "121450050",
+                "Umur": "21",
+                "Asal":"Payakumbuh",
+                "Alamat": "Nangka 4",
+                "Hobbi": "Dengerin Pandra main gitar",
+                "Sosmed": "@ptrimaulidas_",
+                "Kesan": "-",  
+                "Pesan":"keren terus kak"
+            },
+            {
+                "Nama": "Hartiti Fadilah",
+                "NIM": "121450031",
+                "Umur": "21",
+                "Asal":"Palembang",
+                "Alamat": "Pemda",
+                "Hobbi": "Nyanyi",
+                "Sosmed": "@hrtfdlh",
+                "Kesan": "-",  
+                "Pesan":"-"
+            },
+            {
+                "Nama": "Nadilla Andhara Putri",
+                "NIM": "121450003",
+                "Umur": "21",
+                "Asal":"Metro",
+                "Alamat": "Kotabaru",
+                "Hobbi": "Membaca",
+                "Sosmed": "@nadilaandr26",
                 "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "Pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "Pesan":"semangat terus kuliahnya kakak !!!"
             },
         ]
         display_images_with_data(gambar_urls, data_list)
@@ -148,43 +183,131 @@ elif menu == "Baleg":
         ]
         data_list = [
             {
-                "Nama": "Kakak D",
-                "NIM": "122450000",
-                "umur": "18",
-                "Asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "Hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
+                "Nama": "Tri Murniya Ningsih",
+                "NIM": "121450038",
+                "Umur": "21",
+                "Asal":"Bogor",
+                "Alamat": "Raden Saleh",
+                "Hobbi": "Kalo ke coffee shop pesen red velvet bukan kopi",
+                "Sosmed": "@trimurniyaa",
                 "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
                 "Pesan":"semangat terus kuliahnya kakak !!!"
             },
             {
-                "Nama": "Kakak E",
-                "NIM": "122450000",
-                "umur": "18",
-                "Asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "Hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
+                "Nama": "Annisa Cahyani Surya",
+                "NIM": "121450114",
+                "Umur": "21",
+                "Asal":"Tangerang Selatan",
+                "Alamat": "Way Huwi",
+                "Hobbi": "Membaca, nonton",
+                "Sosmed": "@annisacahyanisurya",
                 "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "Pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "Pesan":"semangat terus kuliahnya kakak !!!"
             },
             {
-                "Nama": "Kakak D",
-                "NIM": "122450000",
-                "umur": "18",
-                "Asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "Hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
+                "Nama": "Wulan Sabina",
+                "NIM": "121450150",
+                "Umur": "21",
+                "Asal":"Medan",
+                "Alamat": "Raden Saleh",
+                "Hobbi": "Nonton drakor",
+                "Sosmed": "@wlnsbn0",
                 "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "Pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "Pesan":"semangat terus kuliahnya kakak !!!"
+            },
+            {
+                "Nama": "Annisa Dini Amaliya",
+                "NIM": "121450081",
+                "Umur": "20",
+                "Asal":"Tangerang",
+                "Alamat": "Jati Agung",
+                "Hobbi": "Nonton Dracin",
+                "Sosmed": "@anisadini10",
+                "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
+                "Pesan":"semangat terus kuliahnya kakak !!!"
+            },
+            {
+                "Nama": "Renisha Putri Giani",
+                "NIM": "122450079",
+                "Umur": "21",
+                "Asal":"Bandar Lampung",
+                "Alamat": "Teluk Betung",
+                "Hobbi": "Denger lagu",
+                "Sosmed": "@fleurnsh",
+                "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
+                "Pesan":"semangat terus kuliahnya kakak !!!"
+            },
+            {
+                "Nama": "Feryadi Yulius",
+                "NIM": "122450087",
+                "Umur": "20",
+                "Asal":"Sumsel",
+                "Alamat": "Way Kandis",
+                "Hobbi": "Baca buku",
+                "Sosmed": "@fer_yulius",
+                "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
+                "Pesan":"semangat terus kuliahnya kakak !!!"
+            },
+            {
+                "Nama": "Mirzan Yusuf Rabbani",
+                "NIM": "122450118",
+                "Umur": "20",
+                "Asal":"Jakarta",
+                "Alamat": "Korpri",
+                "Hobbi": "Main kucing",
+                "Sosmed": "@myrrinn",
+                "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
+                "Pesan":"semangat terus kuliahnya kakak !!!"
+            },
+            {
+                "Nama": "Dhea Amelia Putri",
+                "NIM": "122450004",
+                "Umur": "20",
+                "Asal":"Jabar",
+                "Alamat": "Natar",
+                "Hobbi": "Suka ikut tes SKD",
+                "Sosmed": "@dhea_wedding",
+                "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
+                "Pesan":"semangat terus kuliahnya kakak !!!"
+            },
+            {
+                "Nama": "Muhammad Fahrul Aditya",
+                "NIM": "122450156",
+                "Umur": "22",
+                "Asal":"Jateng",
+                "Alamat": "Pahoman",
+                "Hobbi": "Melukis, badminton, hiking, ngopi, dengerin musik, nonton film, dan ngoding",
+                "Sosmed": "@fhrul.pdf",
+                "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
+                "Pesan":"semangat terus kuliahnya kakak !!!"
+            },
+            {
+                "Nama": "Jeremia Susanto",
+                "NIM": "122450022",
+                "Umur": "20",
+                "Asal":"Bandar Lampung",
+                "Alamat": "Kemiling",
+                "Hobbi": "Marah-marah",
+                "Sosmed": "@jeremia_s_",
+                "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
+                "Pesan":"semangat terus kuliahnya kakak !!!"
+            },
+            {
+                "Nama": "Berlianda Enda Putri",
+                "NIM": "122450065",
+                "Umur": "21",
+                "Asal":"Sumbar",
+                "Alamat": "Way Huwi",
+                "Hobbi": "Main game",
+                "Sosmed": "@berlyyanda",
+                "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
+                "Pesan":"semangat terus kuliahnya kakak !!!"
             },
         ]
         display_images_with_data(gambar_urls, data_list)
     baleg()
-elif menu == "Baleg":
-    def baleg():
+elif menu == "Senator":
+    def senator():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
@@ -192,84 +315,450 @@ elif menu == "Baleg":
         ]
         data_list = [
             {
-                "Nama": "Kakak D",
-                "NIM": "122450000",
-                "umur": "18",
-                "Asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "Hobbi": "Mainn Bola, Belajar",
-                "Sosmed": "@i",
-                "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "Pesan":"semangat terus kuliahnya kakak !!!"
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
             },
             {
-                "Nama": "Kakak E",
-                "NIM": "122450000",
-                "umur": "18",
-                "Asal":"Bekasi",
-                "Alamat": "Gg.sakum",
-                "Hobbi": "Mainn Bola, Belajar",
-                "Sosmed": "@i",
-                "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "Pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
             },
             {
-                "Nama": "Kakak D",
-                "NIM": "122450000",
-                "Umur": "18",
-                "Asal":"Bekasi",
-                "Alamat": "Gg.sakum",
-                "Hobbi": "Mainn Bola, Belajar",
-                "Sosmed": "@i",
-                "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "Pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+            {
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+            {
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+            {
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
             },
         ]
         display_images_with_data(gambar_urls, data_list)
-    baleg()
-elif menu == "Baleg":
-    def baleg():
-        gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-        ]
-        data_list = [
-            {
-                "Nama": "Kakak D",
-                "NIM": "122450000",
-                "Umur": "18",
-                "Asal":"Bekasi",
-                "Alamat": "Gg.sakum",
-                "Hobbi": "Mainn Bola, Belajar",
-                "Sosmed": "@i",
-                "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "Pesan":"semangat terus kuliahnya kakak !!!"
-            },
-            {
-                "Nama": "Kakak E",
-                "NIM": "122450000",
-                "Umur": "18",
-                "Asal":"Bekasi",
-                "Alamat": "Gg.sakum",
-                "Hobbi": "Mainn Bola, Belajar",
-                "Sosmed": "@i",
-                "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "Pesan":"semangat terus kuliahnya kakak !!!"# 1
-            },
-            {
-                "Nama": "Kakak D",
-                "NIM": "122450000",
-                "Umur": "18",
-                "Asal":"Bekasi",
-                "Alamat": "Gg.sakum",
-                "Hobbi": "Mainn Bola, Belajar",
-                "Sosmed": "@i",
-                "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "Pesan":"semangat terus kuliahnya kakak !!!"# 1
-            },
-        ]
-        display_images_with_data(gambar_urls, data_list)
-    baleg()
+    senator()
 
-# Tambahkan menu lainnya sesuai kebutuhan
+elif menu == "Departemen Internal":
+    def Departemen_Internal():
+        gambar_urls = [
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+        ]
+        data_list = [
+            {
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+            {
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+            {
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+            {
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+            {
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+            {
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+        ]
+        display_images_with_data(gambar_urls, data_list)
+    Departemen_Internal()
+
+elif menu == "Departemen PSDA":
+    def Departemen_PSDA():
+        gambar_urls = [
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+        ]
+        data_list = [
+            {
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+            {
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+            {
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+            {
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+            {
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+            {
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+        ]
+        display_images_with_data(gambar_urls, data_list)
+    Departemen_PSDA()
+
+elif menu == "Departemen Eksternal":
+    def Departemen_Eksternal():
+        gambar_urls = [
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+        ]
+        data_list = [
+            {
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+            {
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+            {
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+            {
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+            {
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+        ]
+        display_images_with_data(gambar_urls, data_list)
+    Departemen_Eksternal()
+
+elif menu == "Departemen MIKFES":
+    def Departemen_MIKFES():
+        gambar_urls = [
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+        ]
+        data_list = [
+            {
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+            {
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+            {
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+            {
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+            {
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+        ]
+        display_images_with_data(gambar_urls, data_list)
+    Departemen_MIKFES()
+
+elif menu == "Departemen SSD":
+    def Departemen_SSD():
+        gambar_urls = [
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+        ]
+        data_list = [
+            {
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+            {
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+            {
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+            {
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+            {
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+            {
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+            {
+                "Nama": "",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+        ]
+        display_images_with_data(gambar_urls, data_list)
+    Departemen_SSD()
