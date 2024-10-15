@@ -162,7 +162,7 @@ if menu == "Kesekjenan":
                 "Sosmed": "@hrtfdlh",
                 "Kesan": "kakak ini hawanya serius",  
                 "Pesan":"semangat nagihin duitnya kakk"
-            }, 
+            },
             {
                 "Nama": "Nadilla Andhara Putri",
                 "NIM": "121450003",
@@ -173,7 +173,7 @@ if menu == "Kesekjenan":
                 "Sosmed": "@nadilaandr26",
                 "Kesan": "lucukk",  
                 "Pesan":"semangatt ngitung duitnya kakk"
-            },
+            }, 
         ]
         display_images_with_data(gambar_urls, data_list)
     kesekjenan()
