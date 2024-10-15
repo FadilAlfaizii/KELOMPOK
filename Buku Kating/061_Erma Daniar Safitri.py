@@ -103,8 +103,8 @@ if menu == "Kesekjenan":
             "https://drive.google.com/uc?export=view&id=1rVvTqwFkMPViz3saDK6dn5GI0Xzlvi0V",
             "https://drive.google.com/uc?export=view&id=1rLtiAvVUlZ5IbDNxe6z7X38KP_Xg_I3_",
             "https://drive.google.com/uc?export=view&id=1f6ddHSmvpkmfIzikLm160sU-vVLb7Irr",
-            "https://drive.google.com/uc?export=view&id=1rTjpexeGwkHNX2gQSYt4zs6LT1nJEVML",
             "https://drive.google.com/uc?export=view&id=1rUlFycgljYeyz4ua9QghMisTyqD2dxH0",
+            "https://drive.google.com/uc?export=view&id=1rTjpexeGwkHNX2gQSYt4zs6LT1nJEVML",
         ]
         data_list = [
             {
@@ -152,17 +152,6 @@ if menu == "Kesekjenan":
                 "Pesan":"semangat terus kak buat kedepannya !!!"# 1
             },
             {
-                "Nama": "Nadilla Andhara Putri",
-                "NIM": "121450003",
-                "Umur": "21",
-                "Asal":"Metro",
-                "Alamat": "Kota Baru",
-                "Hobi": "Membaca",
-                "Sosmed": "@nadilaandr26",
-                "Kesan": "Kak nadilla baik dan seru banget orangnya!!",  
-                "Pesan":"jangan pernah berhenti belajar dan berkembang ya kak !!!"# 1
-            },
-            {
                 "Nama": "Hartiti Fadilah",
                 "NIM": "121450031",
                 "Umur": "21",
@@ -172,6 +161,17 @@ if menu == "Kesekjenan":
                 "Sosmed": "@hrtfdlh",
                 "Kesan": "Kak hartiti baik banget ",  
                 "Pesan":"semangat terus buat kuliahnya !!!"# 1
+            },
+            {
+                "Nama": "Nadilla Andhara Putri",
+                "NIM": "121450003",
+                "Umur": "21",
+                "Asal":"Metro",
+                "Alamat": "Kota Baru",
+                "Hobi": "Membaca",
+                "Sosmed": "@nadilaandr26",
+                "Kesan": "Kak nadilla baik dan seru banget orangnya!!",  
+                "Pesan":"jangan pernah berhenti belajar dan berkembang ya kak !!!"# 1
             },
         ]
         display_images_with_data(gambar_urls, data_list)
