@@ -104,8 +104,7 @@ if menu == "Kesekjenan":
             "https://drive.google.com/uc?export=view&id=1FcC8_i9v7OLYC6B9JM8b1C_F8yklpmCv",
             "https://drive.google.com/uc?export=view&id=1FvWmr0pCYUWiMhPsuOI6uHCud1f1NiNp",
             "https://drive.google.com/uc?export=view&id=1FeHQKQlMPa5bTi7he-96h6psI",
-            "https://drive.google.com/uc?export=view&id=17iHOHoBoEKIvkm0LEyrPxc47hTtgi5IP",
-            
+            "https://drive.google.com/uc?export=view&id=17iHOHoBoEKIvkm0LEyrPxc47hTtgi5IP",      
         ]
         data_list = [
             {
@@ -153,17 +152,6 @@ if menu == "Kesekjenan":
                 "Pesan":"semoga ipk nya 4"
             },
             {
-                "Nama": "Nadilla Andhara Putri",
-                "NIM": "121450003",
-                "Umur": "21",
-                "Asal":"Metro",
-                "Alamat": "Kotabaru",
-                "Hobi": "Membaca",
-                "Sosmed": "@nadilaandr26",
-                "Kesan": "lucukk",  
-                "Pesan":"semangatt ngitung duitnya kakk"
-            },
-            {
                 "Nama": "Hartiti Fadilah",
                 "NIM": "121450031",
                 "Umur": "21",
@@ -173,6 +161,17 @@ if menu == "Kesekjenan":
                 "Sosmed": "@hrtfdlh",
                 "Kesan": "kakak ini hawanya serius",  
                 "Pesan":"semangat nagihin duitnya kakk"
+            },
+            {
+                "Nama": "Nadilla Andhara Putri",
+                "NIM": "121450003",
+                "Umur": "21",
+                "Asal":"Metro",
+                "Alamat": "Kotabaru",
+                "Hobi": "Membaca",
+                "Sosmed": "@nadilaandr26",
+                "Kesan": "lucukk",  
+                "Pesan":"semangatt ngitung duitnya kakk"
             }, 
         ]
         display_images_with_data(gambar_urls, data_list)
