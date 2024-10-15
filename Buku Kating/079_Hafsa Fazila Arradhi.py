@@ -103,8 +103,8 @@ if menu == "Kesekjenan":
             "https://drive.google.com/uc?export=view&id=1Xph4eYYCqxR1ZUOMvZuO6RE5U_sM0bY-",
             "https://drive.google.com/uc?export=view&id=10v9v2wwZaE30EI-maMYXmsVorG7fy9Uy",
             "https://drive.google.com/uc?export=view&id=18U8ZIyQPiX9S-MZ6wqE2lcsrhjwEJUjh",
+            "https://drive.google.com/uc?export=view&id=1ya074gua4JDhkoqMgLS5xLZ9Tb3kVyk2",
             "https://drive.google.com/uc?export=view&id=1A2uk7IJ9v7U6hOyTacgSPD0L1UYjVm7C",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
         ]
         data_list = [
             {
@@ -152,17 +152,6 @@ if menu == "Kesekjenan":
                 "Pesan":""
             },
             {
-                "Nama": "Nadilla Andhara Putri",
-                "NIM": "121450003",
-                "Umur": "21",
-                "Asal":"Metro",
-                "Alamat": "Kotabaru",
-                "Hobi": "Membaca",
-                "Sosmed": "@nadilaandr26",
-                "Kesan": "",  
-                "Pesan":""
-            },
-            {
                 "Nama": "Hartiti Fadilah",
                 "NIM": "121450031",
                 "Umur": "21",
@@ -173,6 +162,17 @@ if menu == "Kesekjenan":
                 "Kesan": "",  
                 "Pesan":""
             }, 
+            {
+                "Nama": "Nadilla Andhara Putri",
+                "NIM": "121450003",
+                "Umur": "21",
+                "Asal":"Metro",
+                "Alamat": "Kotabaru",
+                "Hobi": "Membaca",
+                "Sosmed": "@nadilaandr26",
+                "Kesan": "",  
+                "Pesan":""
+            },
         ]
         display_images_with_data(gambar_urls, data_list)
     kesekjenan()
