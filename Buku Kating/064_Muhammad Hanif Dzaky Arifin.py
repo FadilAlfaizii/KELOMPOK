@@ -367,9 +367,17 @@ elif menu == "Senator":
 elif menu == "Departemen Internal":
     def Departemen_Internal():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1-CMb2830hBRQWO88LlsWyUt9HDxpzfBJ",
+            "https://drive.google.com/uc?export=view&id=1ejGHQHQgrWOTq3CvRPdh5JkaAjUq_N_-",
+            "https://drive.google.com/uc?export=view&id=1MA5uwPHe7IJwKYNWaI7DD3iZqvu3W3Ob",
+            "https://drive.google.com/uc?export=view&id=1f_jjj8DvnYVhUDUtw6UPx-p6NCGxUziJ",
+            "https://drive.google.com/uc?export=view&id=1c5vzevlo0XQD4EYcavWrVV0rsQYh_iac",
+            "https://drive.google.com/uc?export=view&id=1f4PRXrFTJ-EBFnVi97UOjSiAaiVb1HTj",
+            "https://drive.google.com/uc?export=view&id=13NmueKkXwe1PV-pSyTWmZn71iQ2AZYBC",
+            "https://drive.google.com/uc?export=view&id=1k6FRItvS12EuAbP0b1v1EJaJF5wbKZBt",
+            "https://drive.google.com/uc?export=view&id=1Wiv2YJx07DHb7XmIEwFpILoRuf8gd-8A",
+            "https://drive.google.com/uc?export=view&id=1Dj-eTymm6v55JeYmX8fvSEsfq1Umo3wk",
+            "https://drive.google.com/uc?export=view&id=1cboVbcPDQTVKXWmMcX24_mPduo_v5u6o",
         ]
         data_list = [
             {
