@@ -103,8 +103,8 @@ if menu == "Kesekjenan":
             "https://drive.google.com/uc?export=view&id=12DBEABSGLlHvxIqS5nftxihwb55NSTmc",
             "https://drive.google.com/uc?export=view&id=1f-nG10A2EGc6j-t9gtalGeo73KdBR_6k",
             "https://drive.google.com/uc?export=view&id=1vOiRGpJkTwDGJIKC0UmIkeoXSugqfy6u",
-            "https://drive.google.com/uc?export=view&id=1I24f3K6yWhNwroKNr1uFlYSZ1vkt5ypv",
             "https://drive.google.com/uc?export=view&id=11xjA7cCtiyabsNxk5QKcoIZAQzOTSdmO",
+            "https://drive.google.com/uc?export=view&id=1I24f3K6yWhNwroKNr1uFlYSZ1vkt5ypv",
         ]
         data_list = [
             {
@@ -152,17 +152,6 @@ if menu == "Kesekjenan":
                 "Pesan":"Semangat lpjannya kak"
             },
             {
-                "Nama": "Nadilla Andhara Putri",
-                "NIM": "121450003",
-                "Umur": "21",
-                "Asal":"Metro",
-                "Alamat": "Kotabaru",
-                "Hobi": "Membaca",
-                "Sosmed": "@nadilaandr26",
-                "Kesan": "Vibes kakaknya bendahara banget",  
-                "Pesan":"Semangat kak ngitung uangnya"
-            },
-            {
                 "Nama": "Hartiti Fadilah",
                 "NIM": "121450031",
                 "Umur": "21",
@@ -173,6 +162,17 @@ if menu == "Kesekjenan":
                 "Kesan": "Kakaknya palembang banget",  
                 "Pesan":"Semangat kakak cantik"
             }, 
+            {
+                "Nama": "Nadilla Andhara Putri",
+                "NIM": "121450003",
+                "Umur": "21",
+                "Asal":"Metro",
+                "Alamat": "Kotabaru",
+                "Hobi": "Membaca",
+                "Sosmed": "@nadilaandr26",
+                "Kesan": "Vibes kakaknya bendahara banget",  
+                "Pesan":"Semangat kak ngitung uangnya"
+            },
         ]
         display_images_with_data(gambar_urls, data_list)
     kesekjenan()

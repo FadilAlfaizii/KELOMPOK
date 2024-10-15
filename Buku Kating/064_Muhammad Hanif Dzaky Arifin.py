@@ -103,6 +103,8 @@ if menu == "Kesekjenan":
             "https://drive.google.com/uc?export=view&id=1rQYEYfWfxm7XL2H_ne4wglMHHRqwxBM1",
             "https://drive.google.com/uc?export=view&id=1uBn9cL9NXrcCGyHSkIikCOVfbFKz6ed8",
             "https://drive.google.com/uc?export=view&id=1wahRrrguyn3AHKpkGUr3OBNX3d4mp2f5",
+            "https://drive.google.com/uc?export=view&id=16L4muoTW8AsmDFp-BukRubmXrzPiCwra",
+            "https://drive.google.com/uc?export=view&id=1zA0UkiBjHXd91ZF3RHWDwSKsIdBUu4FU",
         ]
         data_list = [
             {
@@ -147,7 +149,7 @@ if menu == "Kesekjenan":
                 "Hobi": "Dengerin pandra main gitar",
                 "Sosmed": "@ptrimaulidas_",
                 "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "Pesan":"semangat terus kuliahnya kakak !!!"
+                "Pesan":"semangat terus kuliahnya kakak !!!"#1
             },
         ]
         display_images_with_data(gambar_urls, data_list)

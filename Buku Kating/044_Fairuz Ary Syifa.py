@@ -103,8 +103,8 @@ if menu == "Kesekjenan":
             "https://drive.google.com/uc?export=view&id=1guddUupaxGocduw7775UTqo-4Q8SkPMh",
             "https://drive.google.com/uc?export=view&id=1uTDeqc0KapHFO9uwdb4F2jsEqWdZR-1a",
             "https://drive.google.com/uc?export=view&id=1ZXob1YYiSK-fc18EkBNmasIR1DBYtamH",
-            "https://drive.google.com/uc?export=view&id=1wI28a99rNeHg_W8oH7BEgd60fyWGpqC7",
             "https://drive.google.com/uc?export=view&id=1tzqehnfhrhFc57Cgix0bzb1GuSCFCmlE",
+            "https://drive.google.com/uc?export=view&id=1wI28a99rNeHg_W8oH7BEgd60fyWGpqC7",
         ]
         data_list = [
             {
@@ -152,17 +152,6 @@ if menu == "Kesekjenan":
                 "Pesan":"semangat terus kuliahnya kakak !!!!"# 1
             },
             {
-                "Nama": "Nadilla Andhara Putri",
-                "NIM": "121450003",
-                "Umur": "21",
-                "Asal":"Metro",
-                "Alamat": "Kotabaru",
-                "Hobi": "Membaca",
-                "Sosmed": "@nadilaandr26",
-                "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "Pesan":"semangat terus kuliahnya kakak !!"# 1
-            },
-            {
                 "Nama": "Hartiti Fadilah",
                 "NIM": "121450031",
                 "Umur": "21",
@@ -172,6 +161,17 @@ if menu == "Kesekjenan":
                 "Sosmed": "@hrtfdlh",
                 "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
                 "Pesan":"semangat terus kuliahnya kakak !!!!"# 1
+            },
+            {
+                "Nama": "Nadilla Andhara Putri",
+                "NIM": "121450003",
+                "Umur": "21",
+                "Asal":"Metro",
+                "Alamat": "Kotabaru",
+                "Hobi": "Membaca",
+                "Sosmed": "@nadilaandr26",
+                "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
+                "Pesan":"semangat terus kuliahnya kakak !!"# 1
             },
         ]
         display_images_with_data(gambar_urls, data_list)
