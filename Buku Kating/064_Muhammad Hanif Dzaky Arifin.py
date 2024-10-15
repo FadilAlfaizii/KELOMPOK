@@ -169,7 +169,7 @@ if menu == "Kesekjenan":
                 "Hobbi": "Membaca",
                 "sosmed": "@nadilaandr26",
                 "Kesan": "Kakaknya hebat dan luar biasa",  
-                "Pesan":"semangat selalu kak"# 1
+                "Pesan":"semangat kuliahnya kak"# 1
             },
         ]
         display_images_with_data(gambar_urls, data_list)
