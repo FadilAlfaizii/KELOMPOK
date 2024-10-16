@@ -152,26 +152,26 @@ if menu == "Kesekjenan":
                 "Pesan":"semangat terus kuliahnya kakak !!!"#1
             },
             {
-                "Nama": "",
-                "NIM": "",
-                "Umur": "",
-                "Asal":"",
-                "Alamat": "",
-                "Hobi": "",
-                "Sosmed": "",
-                "Kesan": "",  
-                "Pesan":""
+                "Nama": "Hartiti Fadilah",
+                "NIM": "121450031",
+                "Umur": "21",
+                "Asal":"Palembang",
+                "Alamat": "Pemda",
+                "Hobi": "Nyanyi",
+                "Sosmed": "@hrtfdlh",
+                "Kesan": "Kak hartiti baik banget ",  
+                "Pesan":"semangat terus buat kuliahnya !!!"# 1
             },
             {
-                  "Nama": "",
-                "NIM": "",
-                "Umur": "",
-                "Asal":"",
-                "Alamat": "",
-                "Hobi": "",
-                "Sosmed": "",
-                "Kesan": "",  
-                "Pesan":""  
+                "Nama": "Nadilla Andhara Putri",
+                "NIM": "121450003",
+                "Umur": "21",
+                "Asal":"Metro",
+                "Alamat": "Kota Baru",
+                "Hobi": "Membaca",
+                "Sosmed": "@nadilaandr26",
+                "Kesan": "Kak nadilla baik dan seru banget orangnya!!",  
+                "Pesan":"jangan pernah berhenti belajar dan berkembang ya kak !!!"# 1
             },
         ]
         display_images_with_data(gambar_urls, data_list)
