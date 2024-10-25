@@ -580,16 +580,28 @@ elif menu == "Departemen MIKFES":
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
         ]
         data_list = [
             {
                 "Nama": "Rafi Fadhlillah",
-                "NIM": "",
-                "Umur": "",
-                "Asal": "",
-                "Alamat": "",
-                "Hobi": "",
-                "Sosmed": "",
+                "NIM": "121450143",
+                "Umur": "21",
+                "Asal": "Sumatera selatan",
+                "Alamat": "Jl. Nangka 4",
+                "Hobi": "Olahraga",
+                "Sosmed": "@rafadhlillahh13",
                 "Kesan": "",  
                 "Pesan": ""
             },
@@ -597,11 +609,11 @@ elif menu == "Departemen MIKFES":
                 "Nama": "Annisa Novantika",
                 "NIM": "121450005",
                 "Umur": "21",
-                "Asal": "",
-                "Alamat": "",
-                "Hobi": "",
-                "Sosmed": "",
-                "Kesan": "",  
+                "Asal": "Lampung Utara",
+                "Alamat": "Jl. Pulau sabesi",
+                "Hobi": "Memasak",
+                "Sosmed": "21",
+                "Kesan": "@anovavona",  
                 "Pesan": ""
             },
             {
@@ -618,7 +630,7 @@ elif menu == "Departemen MIKFES":
             {
                 "Nama": "Muhammad Regi Abdi Putra Amanta",
                 "NIM": "122450031",
-                "Umur": "20",
+                "Umur": "25",
                 "Asal": "Palembang",
                 "Alamat": "Jl. Permadi",
                 "Hobi": "Ngasprak ADS",
@@ -629,7 +641,7 @@ elif menu == "Departemen MIKFES":
             {
                 "Nama": "Syalaisha Andina Putriansyah",
                 "NIM": "122450121",
-                "Umur": "20",
+                "Umur": "21",
                 "Asal": "Tanggerang",
                 "Alamat": "Gg. Yudistira",
                 "Hobi": "Review Journal bu Mika",
@@ -640,7 +652,7 @@ elif menu == "Departemen MIKFES":
             {
                 "Nama": "Anwar Muslim",
                 "NIM": "122450117",
-                "Umur": "20",
+                "Umur": "21",
                 "Asal": "Bukit Tinggi",
                 "Alamat": "Korpri",
                 "Hobi": "ML (Machine Learning)",
@@ -757,6 +769,12 @@ elif menu == "Departemen SSD":
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
         ]
         data_list = [
             {
@@ -865,6 +883,13 @@ elif menu == "Departemen SSD":
 elif menu == "Medkraf":
     def medkraf():
         gambar_urls = [
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
