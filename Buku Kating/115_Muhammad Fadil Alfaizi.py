@@ -865,7 +865,7 @@ elif menu == "Departemen SSD":
                 "Sosmed": "@ahmad.riz45",
                 "Kesan": "",  
                 "Pesan":""
-            }
+            },
             {
                 "Nama": "Danang Hilal Kurniawan",
                 "NIM": "122450085",
@@ -920,7 +920,7 @@ elif menu == "Departemen SSD":
                 "Sosmed": "@meylanielia",
                 "Kesan": "",  
                 "Pesan":""
-            },
+            }
         ]
         display_images_with_data(gambar_urls, data_list)
     Departemen_SSD()

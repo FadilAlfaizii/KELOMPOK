@@ -1093,7 +1093,7 @@ elif menu == "Departemen SSD":
                 "Sosmed": "@ahmad.riz45",
                 "Kesan": "",  
                 "Pesan":""
-            }
+            },
             {
                 "Nama": "Danang Hilal Kurniawan",
                 "NIM": "122450085",
