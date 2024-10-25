@@ -151,15 +151,45 @@ if menu == "Kesekjenan":
                 "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
                 "Pesan":"semangat terus kuliahnya kakak !!!"#1
             },
+            {
+                "Nama": "Hartiti Fadilah",
+                "NIM": "121450031",
+                "Umur": "21",
+                "Asal":"Palembang",
+                "Alamat": "Pemda",
+                "Hobi": "Nyanyi",
+                "Sosmed": "@hrtfdlh",
+                "Kesan": "Kak hartiti baik banget ",  
+                "Pesan":"semangat terus buat kuliahnya !!!"# 1
+            },
+            {
+                "Nama": "Nadilla Andhara Putri",
+                "NIM": "121450003",
+                "Umur": "21",
+                "Asal":"Metro",
+                "Alamat": "Kota Baru",
+                "Hobi": "Membaca",
+                "Sosmed": "@nadilaandr26",
+                "Kesan": "Kak nadilla baik dan seru banget orangnya!!",  
+                "Pesan":"jangan pernah berhenti belajar dan berkembang ya kak !!!"# 1
+            },
         ]
         display_images_with_data(gambar_urls, data_list)
     kesekjenan()
 elif menu == "Baleg":
     def baleg():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1-CMb2830hBRQWO88LlsWyUt9HDxpzfBJ",
+            "https://drive.google.com/uc?export=view&id=1ejGHQHQgrWOTq3CvRPdh5JkaAjUq_N_-",
+            "https://drive.google.com/uc?export=view&id=1MA5uwPHe7IJwKYNWaI7DD3iZqvu3W3Ob",
+            "https://drive.google.com/uc?export=view&id=1f_jjj8DvnYVhUDUtw6UPx-p6NCGxUziJ",
+            "https://drive.google.com/uc?export=view&id=1c5vzevlo0XQD4EYcavWrVV0rsQYh_iac",
+            "https://drive.google.com/uc?export=view&id=1f4PRXrFTJ-EBFnVi97UOjSiAaiVb1HTj",
+            "https://drive.google.com/uc?export=view&id=13NmueKkXwe1PV-pSyTWmZn71iQ2AZYBC",
+            "https://drive.google.com/uc?export=view&id=1k6FRItvS12EuAbP0b1v1EJaJF5wbKZBt",
+            "https://drive.google.com/uc?export=view&id=1Wiv2YJx07DHb7XmIEwFpILoRuf8gd-8A",
+            "https://drive.google.com/uc?export=view&id=1Dj-eTymm6v55JeYmX8fvSEsfq1Umo3wk",
+            "https://drive.google.com/uc?export=view&id=1cboVbcPDQTVKXWmMcX24_mPduo_v5u6o",
         ]
         data_list = [
                     {
@@ -367,17 +397,7 @@ elif menu == "Senator":
 elif menu == "Departemen Internal":
     def Departemen_Internal():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1-CMb2830hBRQWO88LlsWyUt9HDxpzfBJ",
-            "https://drive.google.com/uc?export=view&id=1ejGHQHQgrWOTq3CvRPdh5JkaAjUq_N_-",
-            "https://drive.google.com/uc?export=view&id=1MA5uwPHe7IJwKYNWaI7DD3iZqvu3W3Ob",
-            "https://drive.google.com/uc?export=view&id=1f_jjj8DvnYVhUDUtw6UPx-p6NCGxUziJ",
-            "https://drive.google.com/uc?export=view&id=1c5vzevlo0XQD4EYcavWrVV0rsQYh_iac",
-            "https://drive.google.com/uc?export=view&id=1f4PRXrFTJ-EBFnVi97UOjSiAaiVb1HTj",
-            "https://drive.google.com/uc?export=view&id=13NmueKkXwe1PV-pSyTWmZn71iQ2AZYBC",
-            "https://drive.google.com/uc?export=view&id=1k6FRItvS12EuAbP0b1v1EJaJF5wbKZBt",
-            "https://drive.google.com/uc?export=view&id=1Wiv2YJx07DHb7XmIEwFpILoRuf8gd-8A",
-            "https://drive.google.com/uc?export=view&id=1Dj-eTymm6v55JeYmX8fvSEsfq1Umo3wk",
-            "https://drive.google.com/uc?export=view&id=1cboVbcPDQTVKXWmMcX24_mPduo_v5u6o",
+           
         ]
         data_list = [
             {
