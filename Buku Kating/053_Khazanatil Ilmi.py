@@ -846,7 +846,7 @@ elif menu == "Departemen Eksternal":
                 "Asal": "Jakarta Selatan",
                 "Alamat": "Belwis",
                 "Hobi": "Main golf",
-                "Sosmed": "@",
+                "Sosmed": "@ ",
                 "Kesan": "",  
                 "Pesan":""
             },
