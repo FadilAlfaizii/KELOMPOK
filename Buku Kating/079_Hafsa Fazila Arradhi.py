@@ -141,7 +141,7 @@ if menu == "Kesekjenan":
                 "Pesan":""
             },
             {
-                "Nama": " Putri Maulida Chairani",
+                "Nama": "Putri Maulida Chairani",
                 "NIM": "121450050",
                 "Umur": "21",
                 "Asal":"Payakumbuh, Sumbar",
