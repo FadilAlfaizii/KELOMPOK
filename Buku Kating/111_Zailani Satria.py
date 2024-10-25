@@ -536,7 +536,7 @@ elif menu == "Departemen PSDA":
                 "Hobi": "Nambal Ban",
                 "Sosmed": "@ericsonchandra99",
                 "Kesan": "",  
-                "Pesan": ""
+                "Pesan": "keren"
             },
             {
                 "Nama": "Elisabeth Claudia",
