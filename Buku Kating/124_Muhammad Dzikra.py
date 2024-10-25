@@ -562,7 +562,7 @@ elif menu == "Departemen PSDA":
                 "Hobi": "Nyender dibahu Allya",
                 "Sosmed": "@afifahhnsrn",
                 "Kesan": "",  
-                "Pesan": ""
+                "Pesan": "keren"
             },
             {
                 "Nama": "Allya Nurul Islami Pasha",
@@ -573,7 +573,7 @@ elif menu == "Departemen PSDA":
                 "Hobi": "Makan ayam kalasan warboy",
                 "Sosmed": "@allyaislami_",
                 "Kesan": "",  
-                "Pesan": ""
+                "Pesan": "wow"
             },
             {
                 "Nama": "Farahanum Afifah Ardiansyah",
