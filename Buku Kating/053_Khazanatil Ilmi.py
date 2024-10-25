@@ -334,7 +334,7 @@ elif menu == "Senator":
                 "Hobi": "Bernyanyi",
                 "Sosmed": "@anissaluthfi_",
                 "Kesan": "cara kakanya nyampein sesuatu bagus banget",  
-                "Pesan":  "sehat selau kak"
+                "Pesan":  "sehat kak"
             },
             {
                 "Nama": "Rian Bintang Wijaya",
