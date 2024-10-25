@@ -253,6 +253,7 @@ elif menu == "Baleg":
                 "NIM": "122450087",
                 "Umur": "20",
                 "Asal":"Batu Raja, Sumsel",
+                
                 "Alamat": "Way Kandis",
                 "Hobi": "Baca buku",
                 "Sosmed": "@fer_yulius",
@@ -322,8 +323,7 @@ elif menu == "Senator":
     def senator():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1vOS-JDXqTydamnDXem8m_WPgWRvCOUJ2",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=14Qm8nycjQ5ZzBBx5ZyGG0ybO-8reiDcQ",
         ]
         data_list = [
             {
