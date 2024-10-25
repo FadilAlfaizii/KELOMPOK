@@ -326,70 +326,26 @@ elif menu == "Senator":
         ]
         data_list = [
             {
-                "Nama": "",
-                "NIM": "",
+                "Nama": "Anissa Luthfi Alifia",
+                "NIM": "121",
                 "Umur": "",
                 "Asal":"",
                 "Alamat": "",
                 "Hobi": "",
                 "Sosmed": "",
-                "Kesan": "",  
-                "Pesan":""
+                "Kesan": "Sangat ramah",  
+                "Pesan":"Kakak sangat inspiratif, semoga saya bisa seperti kakak"
             },
             {
-                "Nama": "",
-                "NIM": "",
+                "Nama": "Rian Bintang Wijaya",
+                "NIM": "122",
                 "Umur": "",
                 "Asal":"",
                 "Alamat": "",
                 "Hobi": "",
                 "Sosmed": "",
-                "Kesan": "",  
-                "Pesan":""
-            },
-            {
-                "Nama": "",
-                "NIM": "",
-                "Umur": "",
-                "Asal":"",
-                "Alamat": "",
-                "Hobi": "",
-                "Sosmed": "",
-                "Kesan": "",  
-                "Pesan":""
-            },
-            {
-                "Nama": "",
-                "NIM": "",
-                "Umur": "",
-                "Asal":"",
-                "Alamat": "",
-                "Hobi": "",
-                "Sosmed": "",
-                "Kesan": "",  
-                "Pesan":""
-            },
-            {
-                "Nama": "",
-                "NIM": "",
-                "Umur": "",
-                "Asal":"",
-                "Alamat": "",
-                "Hobi": "",
-                "Sosmed": "",
-                "Kesan": "",  
-                "Pesan":""
-            },
-            {
-                "Nama": "",
-                "NIM": "",
-                "Umur": "",
-                "Asal":"",
-                "Alamat": "",
-                "Hobi": "",
-                "Sosmed": "",
-                "Kesan": "",  
-                "Pesan":""
+                "Kesan": "Sangat bertanggungjawab",  
+                "Pesan":"Semoga kekeluargaan dan semangat yang kakak tunjukkan terus terjaga!!"
             },
         ]
         display_images_with_data(gambar_urls, data_list)
@@ -404,70 +360,136 @@ elif menu == "Departemen Internal":
         ]
         data_list = [
             {
-                "Nama": "",
+                "Nama": "Dimas Rizky Ramadhani",
                 "NIM": "",
                 "Umur": "",
                 "Asal":"",
                 "Alamat": "",
                 "Hobi": "",
                 "Sosmed": "",
-                "Kesan": "",  
-                "Pesan":""
+                "Kesan": "Orang yang sangat ramah",  
+                "Pesan":"Semoga sukses di masa depan"
             },
             {
-                "Nama": "",
+                "Nama": "Catherine Firdhasari Maulina Sinaga",
                 "NIM": "",
                 "Umur": "",
                 "Asal":"",
                 "Alamat": "",
                 "Hobi": "",
                 "Sosmed": "",
-                "Kesan": "",  
-                "Pesan":""
+                "Kesan": "Sangat seru",  
+                "Pesan":"Semoga tetap rendah hati dan tetap semangat"
             },
             {
-                "Nama": "",
+                "Nama": "Akbar Resdika",
                 "NIM": "",
                 "Umur": "",
                 "Asal":"",
                 "Alamat": "",
                 "Hobi": "",
                 "Sosmed": "",
-                "Kesan": "",  
-                "Pesan":""
+                "Kesan": "Sangat humble dan seru",  
+                "Pesan":"Tetaplah menjadi panutan yang luar biasa"
             },
             {
-                "Nama": "",
+                "Nama": "Rani Puspita Sari",
                 "NIM": "",
                 "Umur": "",
                 "Asal":"",
                 "Alamat": "",
                 "Hobi": "",
                 "Sosmed": "",
-                "Kesan": "",  
-                "Pesan":""
+                "Kesan": "Sangat ramah",  
+                "Pesan":"Jadilah pribadi yang berkembang dan selalu rendah hati"
             },
             {
-                "Nama": "",
+                "Nama": "Rendra Eka Prayoga",
                 "NIM": "",
                 "Umur": "",
                 "Asal":"",
                 "Alamat": "",
                 "Hobi": "",
                 "Sosmed": "",
-                "Kesan": "",  
-                "Pesan":""
+                "Kesan": "Sangat berwibawa",  
+                "Pesan":"Tetaplah berjuang meraih cita-cita tanpa melupakan prinsip"
             },
             {
-                "Nama": "",
+                "Nama": "Salwa Farhanatussaidah",
                 "NIM": "",
                 "Umur": "",
                 "Asal":"",
                 "Alamat": "",
                 "Hobi": "",
                 "Sosmed": "",
-                "Kesan": "",  
-                "Pesan":""
+                "Kesan": "Sangat ramah dan baik hati",  
+                "Pesan":"Tetaplah menjadi pribadi yang terus menginspirasi"
+            },
+            {
+                "Nama": "Ari Sigit",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "Baik dan humble",  
+                "Pesan":"Semoga tetap rendah hati dan selalu semangat dalam berkarya"
+            },
+            {
+                "Nama": "Azizah Kusumah Putri",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "Sangat ramah",  
+                "Pesan":"Tetap menjadi pribadi yang rendah hati dan tulus"
+            },
+            {
+                "Nama": "Dearni Monica Br Manik",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "Sosok yang bertanggungjawab ",  
+                "Pesan":"Semoga tetap menjadi pribadi yang dapat bertanggungjawab"
+            },
+            {
+                "Nama": "Meira Listyaningrum",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "Sangat ramah",  
+                "Pesan":"Tetap menjadi pribadi yang rendah hati dan penuh semangat"
+            },
+            {
+                "Nama": "Rendi Alexander Hutagalung",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "Sangat seru dan asik",  
+                "Pesan":"Semoga bisa menjadi sosok yang inspiratif"
+            },
+            {
+                "Nama": "Renta Siahaan",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "Sangat baik hati",  
+                "Pesan":"Tetaplah memberi inspirasi untuk generasi berikutnya"
             },
         ]
         display_images_with_data(gambar_urls, data_list)
@@ -476,13 +498,33 @@ elif menu == "Departemen Internal":
 elif menu == "Departemen PSDA":
     def Departemen_PSDA():
         gambar_urls = [
+            "https://drive.google.com/uc?export=view&id=128yynqvz4CmtBRrHTRN2O4ug8c23-RaM",
+            "https://drive.google.com/uc?export=view&id=1132zsyGXlz92uW5EpboIy_Ps-UboObs7O",
+            "https://drive.google.com/uc?export=view&id=11j1ls01RlrSVzKM76ANQH2VSYbVMWCS_",
+            "https://drive.google.com/uc?export=view&id=11sJNkeXn_1dpZh23B75fM0LDm2erQquM",
+            "https://drive.google.com/uc?export=view&id=11vs3PUfEmevhWgzsqS5XjE_fWxSJ71MT",
+            "https://drive.google.com/uc?export=view&id=11w-bZKkb7Kkm6SjMBzCPXf8LSOQHf2PD",
+            "https://drive.google.com/uc?export=view&id=11sRjPGbnPSw8mEbB2FTHLtU7RFhHq1hw",
+            "https://drive.google.com/uc?export=view&id=11t-v3wNikgB0MoNG78cOqOjvgqn4r7tj",
+            "https://drive.google.com/uc?export=view&id=11wwS_n9t_WbVPsmb_DnTVEW8kTL0zTL-",
+            "https://drive.google.com/uc?export=view&id=12G98bFwlL5J0QIBKf0t1UrxHj1l_JnEC",
+            "https://drive.google.com/uc?export=view&id=12_xjs8EQzz2eBEJkdIVl_6gKVIF0uHd2",
+            "https://drive.google.com/uc?export=view&id=12ThCuLXHDtTHvKP8iQU9tkbmji-W1rUo",
+            "https://drive.google.com/uc?export=view&id=12XbC1dHXx0vY1xq0TvcfqSSpd14Xpyv2",
+            "https://drive.google.com/uc?export=view&id=12dx_CO2KJiN80HoLNohk-TJYR-QHVzlc",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=12RIAj5P9dmWyqcuvX-M1cMKgCjzqoDad",
+            "https://drive.google.com/uc?export=view&id=12Iu0WBOtCVAFVZUJTDjbSOHo9aJyMdeJ",
+            "https://drive.google.com/uc?export=view&id=130-d7hon8SkXwN1jUGI4A_OfOcV73WEN",
+            "https://drive.google.com/uc?export=view&id=12yrM8W3w6eRMhXPHhWAC80Xpc-1cxCpZ",
+            "https://drive.google.com/uc?export=view&id=136A2jnAbi74NuEOSaudzlvvmLkUgTvdc",
+            "https://drive.google.com/uc?export=view&id=13-BiuLujFSjuiKaK4CUDzNjCwU-L0UlA",
+            "https://drive.google.com/uc?export=view&id=12xCkz96kszReeyGja7S2L2w79tLeLRdA",
         ]
         data_list = [
             {
-                "Nama": "",
+                "Nama": "Ericson Chandra Sihombing",
                 "NIM": "",
                 "Umur": "",
                 "Asal":"",
@@ -493,7 +535,7 @@ elif menu == "Departemen PSDA":
                 "Pesan":""
             },
             {
-                "Nama": "",
+                "Nama": "Elisabeth Claudia Simanjuntak",
                 "NIM": "",
                 "Umur": "",
                 "Asal":"",
@@ -504,7 +546,7 @@ elif menu == "Departemen PSDA":
                 "Pesan":""
             },
             {
-                "Nama": "",
+                "Nama": "Nisrina Nur Afifah",
                 "NIM": "",
                 "Umur": "",
                 "Asal":"",
@@ -515,7 +557,7 @@ elif menu == "Departemen PSDA":
                 "Pesan":""
             },
             {
-                "Nama": "",
+                "Nama": "Allya Nurul Islami Pasha",
                 "NIM": "",
                 "Umur": "",
                 "Asal":"",
@@ -526,7 +568,7 @@ elif menu == "Departemen PSDA":
                 "Pesan":""
             },
             {
-                "Nama": "",
+                "Nama": "Eksanty F. Sukma Islamiaty",
                 "NIM": "",
                 "Umur": "",
                 "Asal":"",
@@ -537,7 +579,194 @@ elif menu == "Departemen PSDA":
                 "Pesan":""
             },
             {
-                "Nama": "",
+                "Nama": "Farahanum Afifah Ardiansyah",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+            {
+                "Nama": "Ferdy Kevin Naibaho",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+            {
+                "Nama": "M. Deriansyah Okutra",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+            {
+                "Nama": "Oktavia Nurwenda Puspita Sari",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+            {
+                "Nama": "Deyvan Loxefal",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+            {
+                "Nama": "Ibnu Farhan Al-Ghifari",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+            {
+                "Nama": "Johannes Krisjon Silitonga",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+            {
+                "Nama": "Kemas Veriandra Ramadhan",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+            {
+                "Nama": "Leonard Andreas Napitupulu",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+            {
+                "Nama": "Presilia",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+            {
+                "Nama": "Rafa Aqilla Jungjunan",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+            {
+                "Nama": "Sahid Maulana",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+            {
+                "Nama": "Vanessa Olivia Rose",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+            {
+                "Nama": "M. Farhan Athaulloh",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+            {
+                "Nama": "Gede Moana",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+            {
+                "Nama": "Jaclin Alcavella",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+            {
+                "Nama": "Rafly Prabu Darmawan",
+                "NIM": "",
+                "Umur": "",
+                "Asal":"",
+                "Alamat": "",
+                "Hobi": "",
+                "Sosmed": "",
+                "Kesan": "",  
+                "Pesan":""
+            },
+            {
+                "Nama": "Syalaisha Andini Putriansyah",
                 "NIM": "",
                 "Umur": "",
                 "Asal":"",
