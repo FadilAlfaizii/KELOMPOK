@@ -1205,15 +1205,15 @@ elif menu == "Departemen MIKFES":
 elif menu == "Departemen SSD":
     def Departemen_SSD():
         gambar_urls = [
+            "https://drive.google.com/uc?export=view&id=17PLsGp0nKMoGKhG273k4qSQnI2QCHmFP",
+            "https://drive.google.com/uc?export=view&id=17QJPt-44xCKGRT_1cfks1RS-RDwXqKNj",
+            "https://drive.google.com/uc?export=view&id=17UtVBucvKW6NZ-GnxtChnR5SUOTazWrJ",
+            "https://drive.google.com/uc?export=view&id=17WKPFtzSJZJuEmWyxLf1G8Cz4bouCFH1",
+            "https://drive.google.com/uc?export=view&id=17_EDbUeA8Rbz_z_SbzrCI6L1UX200mnW",
+            "https://drive.google.com/uc?export=view&id=17cTeG-1rP45PqK80SFG9WPKhKscWhQKS",
+            "https://drive.google.com/uc?export=view&id=17cq4sL86f7QsfpR-yDHE9shwi1YGuERD",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=17hgPpeRWy--gkm0qjnovR0CMOgjtDA-l",
         ]
         data_list = [
             {
