@@ -368,6 +368,7 @@ elif menu == "Departemen Internal":
             "https://drive.google.com/uc?export=view&id=18CEDQ6UtDvqPVFfpxftOXv2XP7Wz6dzb",
             "https://drive.google.com/uc?export=view&id=1KWQgHQMYiIsqOu0tWHt9DgLIMbOZnhCq",
             "https://drive.google.com/uc?export=view&id=1d01oRP60W0vCk0G9J768IcjezCKDGbKe",
+            "https://drive.google.com/uc?export=view&id=1d01oRP60W0vCk0G9J768IcjezCKDGbKe",
 
         ]
         data_list = [
