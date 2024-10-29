@@ -522,13 +522,13 @@ elif menu == "Departemen PSDA":
             "https://drive.google.com/uc?export=view&id=1WLxB1g4QlwjJm1k2Y4TNbHQ24_WFIyy9",#kemas
             "https://drive.google.com/uc?export=view&id=1qKlfVa7NupLa5q8QcIfsYUz0prPFsrqv",#leonard
             "https://drive.google.com/uc?export=view&id=177hS2s5BoZN_KO8z0x6qsuMeEaOw2UvB",#presilia
-            "https://drive.google.com/uc?export=view&id=1qnDg3f0U8CX59Z8swgQHvgMRXXimuRDS",#rafa
-            "https://drive.google.com/uc?export=view&id=17XkpEv4TcL2GetS9UxE4dD-j9sGZwT8U",#sahid
-            "https://drive.google.com/uc?export=view&id=1SPUmjtD6PAh8vJgESWSb84sLB8KnKQmg",#vanesa
-            "https://drive.google.com/uc?export=view&id=1VDu00ogr6bWyf9KfBX6kyqnusbqxfZpS",#farhan
-            "https://drive.google.com/uc?export=view&id=1E2IakmBnLqw6DlltgSc0X-qRkszv_eHg",#gede
+            "https://drive.google.com/uc?export=view&id=1gROfWU9i_5bW2xBQlxbfiChfPINzR2YR",#rafa
+            "https://drive.google.com/uc?export=view&id=1qnDg3f0U8CX59Z8swgQHvgMRXXimuRDS",#sahid
+            "https://drive.google.com/uc?export=view&id=17XkpEv4TcL2GetS9UxE4dD-j9sGZwT8U",#vanesa
+            "https://drive.google.com/uc?export=view&id=1SPUmjtD6PAh8vJgESWSb84sLB8KnKQmg",#farhan
+            "https://drive.google.com/uc?export=view&id=1VDu00ogr6bWyf9KfBX6kyqnusbqxfZpS",#gede
             "https://drive.google.com/uc?export=view&id=1E2IakmBnLqw6DlltgSc0X-qRkszv_eHg",#jaclin
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#rafly
+            "https://drive.google.com/uc?export=view&id=1Oy0sIn6GG-WXmN4x0_2vdSCSZbtAI0HT",#rafly
             "https://drive.google.com/uc?export=view&id=16Rf_wPvw1QXh-Ht342Rq1c0Nv07_lp5e",#andini
         ]
         data_list = [
