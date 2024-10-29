@@ -793,16 +793,16 @@ elif menu == "Departemen Eksternal":
     def Departemen_Eksternal():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1LfOo1dCQouWSPJhfnpSidr4edSTISSGt",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1R2iAtdfmBvaMDMWFGZcWw6J-O4ys8fsf",
+            "https://drive.google.com/uc?export=view&id=1LSHfv9Izj3_6ptNZhVm84fSRyaZQGV_i",
+            "https://drive.google.com/uc?export=view&id=1qkZ8dhKT_SjldBjIs5t6bxCM-rYSGjaG",
+            "https://drive.google.com/uc?export=view&id=1EuNWYVZDThrYKtD9aPY5V0N9lXaRdOpy",
+            "https://drive.google.com/uc?export=view&id=1rlp8fJ0ovWGvBoadE52agV0z51qExwSD",
+            "https://drive.google.com/uc?export=view&id=1XN2hNv0LOvyHZoNew3iIbuDwdPhGvmml",
             "https://drive.google.com/uc?export=view&id=19UNGETUvPStE5P5ocmDT6cZAub4hDZYa",
             "https://drive.google.com/uc?export=view&id=14s-okp9f9Cpw0OBKXvGW4YuZqB6MtITx",
             "https://drive.google.com/uc?export=view&id=1asBYPLHBHoFN-BE-KZdzLMZD8_c-90yt",
+            "https://drive.google.com/uc?export=view&id=1lkzWHoO4lasNoNnsCc5RB--uGAg6nuzx",
         ]
         data_list = [
             {
