@@ -1043,7 +1043,7 @@ elif menu == "Departemen MIKFES":
                 "Hobi": "Olahraga",
                 "Sosmed": "@rafadhlillahh13",
                 "Kesan": "Kakak ini sangat ramah sekali",  
-                "Pesan": "Semangat terus ya kak kuliahnya"
+                "Pesan": "Semangat terus yea kak kuliahnya"
             },
             {
                 "Nama": "Annisa Novantika",
