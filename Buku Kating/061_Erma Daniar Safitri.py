@@ -1031,7 +1031,7 @@ elif menu == "Departemen MIKFES":
             "https://drive.google.com/uc?export=view&id=1DdOzfe6a5TPEEnz8vducis8Qp-9-tD2Q",
             "https://drive.google.com/uc?export=view&id=1BN6OS4W0xu1b9xxIXOqXRDwC_iLDu_ZB",
             "https://drive.google.com/uc?export=view&id=1BXt-VWkDKzAxTXa3JFuzejfR0rX2rI80",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1DpM2pS--fOFQRLZyTzQEkOGXzYCPkT89",
         ]
         data_list = [
             {
@@ -1323,20 +1323,20 @@ elif menu == "Departemen SSD":
 elif menu == "Departemen MEDKRAF":
     def Departemen_MEDKRAF():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1DdRJ-03BALGI6wryXSUJPpiY4vRu5AKL",
             "https://drive.google.com/uc?export=view&id=1BaKiHZkVn7f7sUwe0BCRSs6AzEKeeuoK",
             "https://drive.google.com/uc?export=view&id=1BfvyP--mP_XZRsw6qPyqzQnjle2S-tGP",
             "https://drive.google.com/uc?export=view&id=1BijOiRQwvyFMa_FLbOJJWu0z-RxXb3SF",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1DdyYGliRM8Srr4it_Nw6BSXDXRwu050t",
             "https://drive.google.com/uc?export=view&id=1Bk4JBhgN6dmVYCbFCzJUCJgnV29gpwax",
             "https://drive.google.com/uc?export=view&id=1BnlQzOW1qtcZOA6XEomP7ouO17lZlW70",
             "https://drive.google.com/uc?export=view&id=1BsBFsyFQBGpPOzQPYCr-JDJtyo1ykHxL",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1Dlh0mexrAlKWJAgOokKmcmZ18ydkAou1",
             "https://drive.google.com/uc?export=view&id=1BtZgYHvEMWhtLWEOdPXk5gtYl3QykIOO",
             "https://drive.google.com/uc?export=view&id=1BtsN4TlDbaHrLFwbBUSqNIxi-9bOzm-e",
             "https://drive.google.com/uc?export=view&id=1BtzUV_C7n9ozCqN2s8LLDVjiFTn__KGh",
             "https://drive.google.com/uc?export=view&id=1BviitGHx8knSrB415NdL6w6ieeIvAip8",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1Dou7NuvMQMCgBQfWXDwA-ix_H5OjdTf2",
             "https://drive.google.com/uc?export=view&id=1C53MpUOun_7XjexJFVu9N9TzDwhKWVpY",
             "https://drive.google.com/uc?export=view&id=1CJzp8IXT5D22bzUUSxnj4utxPJfvaPey",
             "https://drive.google.com/uc?export=view&id=1CSwH0i8LnxoR_wbUqYJBfaWEs5yse2V_",
