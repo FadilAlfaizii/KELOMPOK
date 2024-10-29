@@ -799,7 +799,20 @@ elif menu == "Departemen Eksternal":
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=19zccYx3hjOVkyRuBbehMuwfwkz_NfWFT",
             "https://drive.google.com/uc?export=view&id=1cdRR3tByTofHGSU-ZmLW3fzIdurH5JAp",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1IU_0l9MiQGdmdBoEbIUf-LAhlTz72fxe",
+            "https://drive.google.com/uc?export=view&id=1ZR45srO5QlfSGnOoHhU0f-FdpkVITbuc",
+            "https://drive.google.com/uc?export=view&id=1dgC1yKZ5tkgnvbvOC6xE1SZIsCIcY8YR",
+            "https://drive.google.com/uc?export=view&id=1p_4t5kRxhYqZInqM1A3HqPJXzPT641tG",
+            "https://drive.google.com/uc?export=view&id=1kZqUQILjBXY5dgNpfmzj5QZ1gsXv0rrA",
+            "https://drive.google.com/uc?export=view&id=1UWqHMPzNkkEZudOkdp8n5BG97r6hkIB5",
+            "https://drive.google.com/uc?export=view&id=10gS6U17KDc_imWnI4lMZPDnGAKNuqHLN",
+            "https://drive.google.com/uc?export=view&id=1Yj3yuMdj96bQesRExC7p7EdCONqB89kv",
+            "https://drive.google.com/uc?export=view&id=1aU3DlkmMHOKE12456maxhqFvF5QSuT87",
+            "https://drive.google.com/uc?export=view&id=1-2cFgktkG8ZVtIY3VUCXXn1UOB_pe0km",
+            "https://drive.google.com/uc?export=view&id=1UgYS9-XHhsEI-OJSPqlSHIw0LXyOlYNc",
+            "https://drive.google.com/uc?export=view&id=1taLl9olrRtRh9t4EW15xHhSWavALSTOJ",
+            "https://drive.google.com/uc?export=view&id=1OCmzYfwTDON64HwUBy9A0omem-USYpxC",
+
         ]
         data_list = [
             {
@@ -810,8 +823,8 @@ elif menu == "Departemen Eksternal":
                 "Alamat": "Jatimulyo",
                 "Hobi": "Tidur",
                 "Sosmed": "@yogyst",
-                "Kesan": "",  
-                "Pesan": ""
+                "Kesan": "abangnyaa ramah dan asik",  
+                "Pesan": "semangat bang ngurus departemennya!"
             },
             {
                 "Nama": "Ramadhita Atifa Hendri",
@@ -821,8 +834,8 @@ elif menu == "Departemen Eksternal":
                 "Alamat": "Bandar Lampung",
                 "Hobi": "Jalan-jalan",
                 "Sosmed": "@ramadhitatifa",
-                "Kesan": "",  
-                "Pesan": ""
+                "Kesan": "kakaknya baik dan tegas",  
+                "Pesan": "tetap semangat dan terus berkembang kak!"
             },
             {
                 "Nama": "Nazwa Nabilla",
@@ -833,7 +846,7 @@ elif menu == "Departemen Eksternal":
                 "Hobi": "Main Golf",
                 "Sosmed": "@nazwanbilla",
                 "Kesan": "",  
-                "Pesan":""
+                "Pesan": ""
             },
             {
                 "Nama": "Dea Mutia Risani",
@@ -868,17 +881,7 @@ elif menu == "Departemen Eksternal":
                 "Kesan": "",  
                 "Pesan": ""
             },
-            {
-                "Nama": "Novelia Adinda",
-                "NIM": "122450104",
-                "Umur": "21",
-                "Asal": "Jakarta Timur",
-                "Alamat": "Belwis",
-                "Hobi": "Tidur",
-                "Sosmed": "@nvliaadinda",
-                "Kesan": "",  
-                "Pesan":""
-            },
+
             {
                 "Nama": "Ratu Keisha Jasmine Deanova",
                 "NIM": "122450106",
@@ -967,17 +970,7 @@ elif menu == "Departemen Eksternal":
                 "Kesan": "",  
                 "Pesan": ""
             },
-            {
-                "Nama": "Khaalishah Zuhrah Alyaa Vanefi",
-                "NIM": "122450034",
-                "Umur": "20",
-                "Asal": "Bandar Lampung",
-                "Alamat": "Rajabasa",
-                "Hobi": "Ngaji",
-                "Sosmed": "@alyaavanevi",
-                "Kesan": "",  
-                "Pesan": ""
-            },
+           
             {
                 "Nama": "Raid Muhammad Naufal",
                 "NIM": "122450027",
@@ -989,17 +982,7 @@ elif menu == "Departemen Eksternal":
                 "Kesan": "",  
                 "Pesan":""
             },
-            {
-                "Nama": "Tria Yunanni",
-                "NIM": "122450062",
-                "Umur": "20",
-                "Asal": "Way Kanan",
-                "Alamat": "Sukarame",
-                "Hobi": "Baca Buku",
-                "Sosmed": "@tria_y062",
-                "Kesan": "",  
-                "Pesan": ""
-            },
+
         ]
         display_images_with_data(gambar_urls, data_list)
     Departemen_Eksternal()
