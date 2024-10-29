@@ -1538,7 +1538,7 @@ elif menu == "Departemen MEDKRAF":
                 "Hobi": "Ngepel",
                 "Sosmed": "@khusnun_nisa335",
                 "Kesan": "Kakak ini baik sekali dalam menyampaikan pendapat",  
-                "Pesan": "Semangat terus menjalani masa studinya ya kak"
+                "Pesan": "Semangat terus menjalanii masa studinya ya kak"
             },
         ]
         display_images_with_data(gambar_urls, data_list)
