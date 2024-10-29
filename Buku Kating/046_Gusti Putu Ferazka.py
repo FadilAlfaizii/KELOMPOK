@@ -1246,7 +1246,7 @@ elif menu == "Departemen SSD":
                 "Sosmed": "@ahmad.riz45",
                 "Kesan": "",  
                 "Pesan":""
-            }
+            },
             {
                 "Nama": "Danang Hilal Kurniawan",
                 "NIM": "122450085",
@@ -1256,7 +1256,7 @@ elif menu == "Departemen SSD":
                 "Hobi": "Touring",
                 "Sosmed": "@dananghk",
                 "Kesan": "Abang ini ramee",  
-                "Pesan":  "Semangat touringnya abang"
+                "Pesan": "Semangat touringnya abang"
             },
             {
                 "Nama": "Farrel Julio Akbar",
