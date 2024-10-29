@@ -1022,7 +1022,7 @@ elif menu == "Departemen MIKFES":
             "https://drive.google.com/uc?export=view&id=1ucKa7LRrov1WlLxitH7SHwbNM7AfhmTS",
             "https://drive.google.com/uc?export=view&id=1vzGGGvmRKZqbmbwKolEWUKxjHoSVT5dQ",
             "https://drive.google.com/uc?export=view&id=1QF5Y5v-rbo4zU-P5KQsvxDuzj7Y68L5a",
-            "https://drive.google.com/uc?export=view&id=1vzGGGvmRKZqbmbwKolEWUKxjHoSVT5dQ", 
+            "https://drive.google.com/uc?export=view&id=1-T0OwaI1mJyhcayBUZ7oLPtwsLgBllsJ", #anwar
             "https://drive.google.com/uc?export=view&id=1Qe_gD-DWB5EbIwYq9x3Chel-o37JuLsD",
             "https://drive.google.com/uc?export=view&id=1YBd__IC5d_c5Jp2eKHxp5BCAv-qc_1je", 
             "https://drive.google.com/uc?export=view&id=17NHJrUiG4NtwRJAx8xH6JJzfxJIFEyf2",
