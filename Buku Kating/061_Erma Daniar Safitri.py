@@ -1340,6 +1340,7 @@ elif menu == "Departemen MEDKRAF":
             "https://drive.google.com/uc?export=view&id=1C53MpUOun_7XjexJFVu9N9TzDwhKWVpY",
             "https://drive.google.com/uc?export=view&id=1CJzp8IXT5D22bzUUSxnj4utxPJfvaPey",
             "https://drive.google.com/uc?export=view&id=1CSwH0i8LnxoR_wbUqYJBfaWEs5yse2V_",
+            "https://drive.google.com/uc?export=view&id=1CSwH0i8LnxoR_wbUqYJBfaWEs5yse2V_",
         ]
         data_list = [
             {
