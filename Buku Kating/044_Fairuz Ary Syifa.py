@@ -803,7 +803,7 @@ elif menu == "Departemen Eksternal":
             "https://drive.google.com/uc?export=view&id=14s-okp9f9Cpw0OBKXvGW4YuZqB6MtITx",
             "https://drive.google.com/uc?export=view&id=1asBYPLHBHoFN-BE-KZdzLMZD8_c-90yt",
             "https://drive.google.com/uc?export=view&id=1lkzWHoO4lasNoNnsCc5RB--uGAg6nuzx",
-            "https://drive.google.com/uc?export=view&id=1lkzWHoO4lasNoNnsCc5RB--uGAg6nuzx", #arafi
+            "https://drive.google.com/uc?export=view&id=1Qrdg1yGPm-2bxJbY3m1WTsdbFMPVHp5V", 
             "https://drive.google.com/uc?export=view&id=16mBlHz1qvG1BVtLuXM5JF4na-GOHHDgu",
             "https://drive.google.com/uc?export=view&id=1lkzWHoO4lasNoNnsCc5RB--uGAg6nuzx", #irvan
             "https://drive.google.com/uc?export=view&id=1JMxixZkgd7C-9J7YVYhY9b9Vw4A4X-x8",
@@ -1022,7 +1022,7 @@ elif menu == "Departemen MIKFES":
             "https://drive.google.com/uc?export=view&id=1ucKa7LRrov1WlLxitH7SHwbNM7AfhmTS",
             "https://drive.google.com/uc?export=view&id=1vzGGGvmRKZqbmbwKolEWUKxjHoSVT5dQ",
             "https://drive.google.com/uc?export=view&id=1QF5Y5v-rbo4zU-P5KQsvxDuzj7Y68L5a",
-            "https://drive.google.com/uc?export=view&id=1-T0OwaI1mJyhcayBUZ7oLPtwsLgBllsJ", #anwar
+            "https://drive.google.com/uc?export=view&id=1-T0OwaI1mJyhcayBUZ7oLPtwsLgBllsJ", 
             "https://drive.google.com/uc?export=view&id=1Qe_gD-DWB5EbIwYq9x3Chel-o37JuLsD",
             "https://drive.google.com/uc?export=view&id=1YBd__IC5d_c5Jp2eKHxp5BCAv-qc_1je", 
             "https://drive.google.com/uc?export=view&id=17NHJrUiG4NtwRJAx8xH6JJzfxJIFEyf2",
