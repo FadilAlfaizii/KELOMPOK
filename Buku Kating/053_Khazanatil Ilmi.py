@@ -517,7 +517,7 @@ elif menu == "Departemen PSDA":
             "https://drive.google.com/uc?export=view&id=1EexUPfLpYihG6nRAVuik1idtgRnyr0_K",
             "https://drive.google.com/uc?export=view&id=1Cm3J9o22T1MuwMO6f49tDkZBdVijQCTg",
             "https://drive.google.com/uc?export=view&id=1yB1_WyCzeJeAz12cmKvQkx3Eq9GNRx3E",
-            "https://drive.google.com/uc?export=view&id=QOJEqu26PNso2-iILtb2a7N8vY1MutZy",#gifari
+            "https://drive.google.com/uc?export=view&id=1QOJEqu26PNso2-iILtb2a7N8vY1MutZy",#gifari
             "https://drive.google.com/uc?export=view&id=1QzIg5ml1n2EU8nGSZVTQCNEEkCFpxbTS",#jo
             "https://drive.google.com/uc?export=view&id=1WLxB1g4QlwjJm1k2Y4TNbHQ24_WFIyy9",#kemas
             "https://drive.google.com/uc?export=view&id=1qKlfVa7NupLa5q8QcIfsYUz0prPFsrqv",#leonard
@@ -527,7 +527,7 @@ elif menu == "Departemen PSDA":
             "https://drive.google.com/uc?export=view&id=1SPUmjtD6PAh8vJgESWSb84sLB8KnKQmg",#vanesa
             "https://drive.google.com/uc?export=view&id=1VDu00ogr6bWyf9KfBX6kyqnusbqxfZpS",#farhan
             "https://drive.google.com/uc?export=view&id=1E2IakmBnLqw6DlltgSc0X-qRkszv_eHg",#gede
-            "https://drive.google.com/uc?export=view&id=1E2IakmBnLqw6DlltgSc0X-qRkszv_eHg"#jaclin
+            "https://drive.google.com/uc?export=view&id=1E2IakmBnLqw6DlltgSc0X-qRkszv_eHg",#jaclin
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#rafly
             "https://drive.google.com/uc?export=view&id=16Rf_wPvw1QXh-Ht342Rq1c0Nv07_lp5e",#andini
         ]
