@@ -1208,8 +1208,8 @@ elif menu == "Departemen SSD":
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1cXmJ23du2t2cbndHJwhHqePbwcgUbmP9",
             "https://drive.google.com/uc?export=view&id=15SqNyre9S2i7ay0uRDiAb7YWlbFgHBJx",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=16EdogHPkbVgQXE7VamCV26GSTC1mxIxq",
+            "https://drive.google.com/uc?export=view&id=14a24bLaCrZgFhnFTd7zSLRCnTExCR5H9",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
