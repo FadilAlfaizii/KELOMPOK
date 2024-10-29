@@ -1213,7 +1213,7 @@ elif menu == "Departemen SSD":
             "https://drive.google.com/uc?export=view&id=17_EDbUeA8Rbz_z_SbzrCI6L1UX200mnW",
             "https://drive.google.com/uc?export=view&id=17cTeG-1rP45PqK80SFG9WPKhKscWhQKS",
             "https://drive.google.com/uc?export=view&id=17cq4sL86f7QsfpR-yDHE9shwi1YGuERD",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1E5DfZz_7umS37WTG76bAEvpEYmNnNM7t",
             "https://drive.google.com/uc?export=view&id=17hgPpeRWy--gkm0qjnovR0CMOgjtDA-l",
         ]
         data_list = [
