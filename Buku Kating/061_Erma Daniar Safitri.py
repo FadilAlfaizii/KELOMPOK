@@ -1018,13 +1018,13 @@ elif menu == "Departemen MIKFES":
     def Departemen_MIKFES():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1B-BYV2-DlVUzFlydgiYtXKsKuaOM7j2D",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1DvOL9MsRgUqiT7HYg6SbM6-BldfsIv5vS",
             "https://drive.google.com/uc?export=view&id=1B1Gba9HT72XjDmrsvT2OfViIgGzUHwAU",
             "https://drive.google.com/uc?export=view&id=1B5wLAHaRJ6HEjHS7vrYNvmWWqv9dUq7U",
             "https://drive.google.com/uc?export=view&id=1BBLsbxZk0fxVZCO_8xCZVTkvh28v-zIA",
             "https://drive.google.com/uc?export=view&id=1DSyEApOSdqz_Ma-iVtGlm8rC40d66OhN",
             "https://drive.google.com/uc?export=view&id=1BFZbclPxm5CpDalbcVOx-GkgOW3a6GOV",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1DUO7cTL4XzwKr5Ou1tsHxeq-jayYgoGJ",
             "https://drive.google.com/uc?export=view&id=1BHnSUpnF1eeGnEwmxG9IJiJ1ezdczBsc",
             "https://drive.google.com/uc?export=view&id=1BJ8CmZn_Tpq7xlAcZW1xfwxNQee1K0wt",
             "https://drive.google.com/uc?export=view&id=1BN4T7HNTJE77xi-AcZl5Hntex32dIiG9",
