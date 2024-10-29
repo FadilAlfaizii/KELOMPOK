@@ -807,7 +807,7 @@ elif menu == "Departemen Eksternal":
             "https://drive.google.com/uc?export=view&id=1e6D0d7E67hlsRT0XNfcbYmQC6lrTI-Nq",
             "https://drive.google.com/uc?export=view&id=1qGlGcCxKBcX1cE4jPAMf1gcegOO1POvv",
             "https://drive.google.com/uc?export=view&id=1PkAz7bsazb_HL1DasV6S8Zyydip5bKk4",
-            "https://drive.google.com/uc?export=view&id=1fAuqxxqRCROvPoY1k4cL7IbWvF7kBIv7",
+            "https://drive.google.com/uc?export=view&id=1fAuqxxqRCROvPoY1k4cL7IbWvF7kBIv7",#khalisah
             "https://drive.google.com/uc?export=view&id=1BW0VdwEeJ_nBsQ5NIl-adU1jo2BxXOpl",#raid
             "https://drive.google.com/uc?export=view&id=1BJ3I6nrSSTyX52F3Lvfk2O056_DS7Bfb",
         ]
