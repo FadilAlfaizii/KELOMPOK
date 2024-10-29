@@ -783,7 +783,7 @@ elif menu == "Departemen PSDA":
                 "Hobi": "Membaca",
                 "Sosmed": "@syalaisha.i__",
                 "Kesan": "kaget kakanya muncul di dua deparetemen rupanya beda orang",  
-                "Pesan":"kompak slalu kakk sama kembarannya"
+                "Pesan":"kompak selalu kakk sama kembarannya"
             },
         ]
         display_images_with_data(gambar_urls, data_list)
