@@ -728,7 +728,7 @@ elif menu == "Departemen PSDA":
                 "Hobi": "Belajar",
                 "Sosmed": "@roselivnes__",
                 "Kesan": "Kece banget kakanya",  
-                "Pesan":"Semangat basketnya kak"
+                "Pesan":"Semangat baskeetnya kak"
             },
             {
                 "Nama": "M. Farhan Athaulloh",
