@@ -796,7 +796,6 @@ elif menu == "Departemen Eksternal":
             "https://drive.google.com/uc?export=view&id=1uS0cYIuOfddvQ0EJsiTAFZM6oHCNAk_m",#ramadhita
             "https://drive.google.com/uc?export=view&id=12wsZUaq1Jb-mEynRsduJYByGTl09Sadl",#nazwa
             "https://drive.google.com/uc?export=view&id=1Tt9HxBk2tdYiuyMZsz-QJ_ZOsuzvImJq",#dea
-            "https://drive.google.com/uc?export=view&id=1iU3a8_r4n48NBdCKTUnEr8JTrzACB0AB",#dea
             "https://drive.google.com/uc?export=view&id=19UC4P89IrWYMehBZOObI3jfyvrd5q9UW",#esteria
             "https://drive.google.com/uc?export=view&id=1cho3OPLNoeCRwIDDKkROpuhIaPgdvAgU",#natasya
             "https://drive.google.com/uc?export=view&id=1yvrY3_HmZXEZ0wcaR_fR9ZL0oKQpFl98",#novelia
@@ -809,7 +808,7 @@ elif menu == "Departemen Eksternal":
             "https://drive.google.com/uc?export=view&id=1ebjkg4riGDYBhBpoedC1Yy7wUq4-xldP",#izza
             "https://drive.google.com/uc?export=view&id=1HFarTURYRtIzBD3WAR0LNbb0zIBnhm8o",#khalisa
             "https://drive.google.com/uc?export=view&id=1hLGKTZckaOC--uY99R71qwNI0QxvW7Kp",#irvan
-            "https://drive.google.com/uc?export=view&id=1yirm9PAvRpOocPzOqfkeW82EjrMih6DN",#raid
+            "https://drive.google.com/uc?export=view&id=1TBwtNiyQVkKFYczVtpJuI8AUEHPwo4_h",#raid
             "https://drive.google.com/uc?export=view&id=197G7eIG0DcI4PgPIMpV9BFIWzcGGd9wm",#tria
         ]
         data_list = [
