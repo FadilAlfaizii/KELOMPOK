@@ -805,12 +805,12 @@ elif menu == "Departemen Eksternal":
             "https://drive.google.com/uc?export=view&id=12vgfECdpr8wQU0C_QXq1CNE34v01Zl4N",#yohana
             "https://drive.google.com/uc?export=view&id=1jGyaacfQd_IYJ-BA8QPOHDBDu1_0neE9",#rizkiAdrian
             "https://drive.google.com/uc?export=view&id=1AExsyxOIDGNbBYRTl7Rmts9teumqGzat",#arafi
-            "https://drive.google.com/uc?export=view&id=1DsCxDiT7_0I7X0Swx5fQno35TdFkQOOx",#asa doa 
-            "https://drive.google.com/uc?export=view&id=1ebjkg4riGDYBhBpoedC1Yy7wUq4-xldP",#irvan
-            "https://drive.google.com/uc?export=view&id=1yirm9PAvRpOocPzOqfkeW82EjrMih6DN",#izza
-            "https://drive.google.com/uc?export=view&id=1KBqA5s-Us0_l4UwZ_vws0ix8HB5MQyLA",#khalisa
-            "https://drive.google.com/uc?export=view&id=1TBwtNiyQVkKFYczVtpJuI8AUEHPwo4_h",#raid
-            "https://drive.google.com/uc?export=view&id=1MwxS6wrmqKk8hPgPi356ZP73lmDrIazF",#tria
+            "https://drive.google.com/uc?export=view&id=1EZ4xWyYBFgG6FReeUYZnsAWaWmEqVYjm",#asa doa 
+            "https://drive.google.com/uc?export=view&id=1DsCxDiT7_0I7X0Swx5fQno35TdFkQOOx",#irvan
+            "https://drive.google.com/uc?export=view&id=1ebjkg4riGDYBhBpoedC1Yy7wUq4-xldP",#izza
+            "https://drive.google.com/uc?export=view&id=1hLGKTZckaOC--uY99R71qwNI0QxvW7Kp",#khalisa
+            "https://drive.google.com/uc?export=view&id=1yirm9PAvRpOocPzOqfkeW82EjrMih6DN",#raid
+            "https://drive.google.com/uc?export=view&id=197G7eIG0DcI4PgPIMpV9BFIWzcGGd9wm",#tria
         ]
         data_list = [
             {
