@@ -311,7 +311,7 @@ elif menu == "Baleg":
                 "Alamat": "Way Huwi",
                 "Hobi": "Main game",
                 "Sosmed": "@berlyyanda",
-                "Kesan": "kirain galakk",  
+                "Kesan": "kirain galak, ternyata baik",  
                 "Pesan":"semangatt kuliahnya kakk"
             },
         ]
@@ -333,8 +333,8 @@ elif menu == "Senator":
                 "Alamat": "Kost Putri Rahayu",
                 "Hobi": "Bernyanyi",
                 "Sosmed": "@anissaluthfi_",
-                "Kesan": "",  
-                "Pesan":  "Kakaknya suka nyanyi"
+                "Kesan": "Keren banget berkharismatik",  
+                "Pesan": "Sehat sehat kakak senat"
             },
             {
                 "Nama": "Rian Bintang Wijaya",
@@ -344,8 +344,8 @@ elif menu == "Senator":
                 "Alamat": "Kota Baru",
                 "Hobi": "Dengerin Kak Luthfi nyanyi",
                 "Sosmed": "@bintangtwinkle",
-                "Kesan": "",  
-                "Pesan": ""
+                "Kesan": "Tegas abangnya",  
+                "Pesan": "Infokan konser kak Luthfi bang"
             },
         ]
         display_images_with_data(gambar_urls, data_list)
@@ -376,8 +376,8 @@ elif menu == "Departemen Internal":
                 "Alamat": "Way Kandis (Kobam)",
                 "Hobi": "Mancing Keributan",
                 "Sosmed": "@dimzkry_",
-                "Kesan": "",  
-                "Pesan":""
+                "Kesan": "Chill banget abangnya",  
+                "Pesan": "Jangan mancing keributan terus ya bang, 3x sehari gapapa"
             },
             {
                 "Nama": "Catherine Firdhasari Maulina Sinaga",
@@ -387,8 +387,8 @@ elif menu == "Departemen Internal":
                 "Alamat": "Airan",
                 "Hobi": "Baca Novel",
                 "Sosmed": "@cathrine.sinagaa",
-                "Kesan": "",  
-                "Pesan": ""
+                "Kesan": "Sangat anggunly sangat slay",  
+                "Pesan": "Semangat kuliahnya kakak cantik"
             },
             {
                 "Nama": "M. Akbar Resdika",
@@ -409,8 +409,8 @@ elif menu == "Departemen Internal":
                 "Alamat": "Rajabasa",
                 "Hobi": "Denger Musik",
                 "Sosmed": "@ranipuny2",
-                "Kesan": "",  
-                "Pesan": ""
+                "Kesan": "Kakanya seperti tomboi",  
+                "Pesan": "Titip kak Elila kesayangan Poisson yeah kak"
             },
             {
                 "Nama": "Rendra Eka Prayoga",
@@ -420,8 +420,8 @@ elif menu == "Departemen Internal":
                 "Alamat": "jl. Lapas Raya",
                 "Hobi": "Bikin Lagu",
                 "Sosmed": "@rendra.epr",
-                "Kesan": "",  
-                "Pesan": ""
+                "Kesan": "Abangnya sangat ceria",  
+                "Pesan": "Praktikum saya 100 kan bang?"
             },
             {
                 "Nama": "Salwa Farhanatussaidah",
@@ -453,8 +453,8 @@ elif menu == "Departemen Internal":
                 "Alamat": "Labuhan Ratu",
                 "Hobi": "Futsal",
                 "Sosmed": "@ari_sigit12",
-                "Kesan": "",  
-                "Pesan": ""
+                "Kesan": "Abang ini sangat soft",  
+                "Pesan": "Spar sama Hanip bang"
             },
             {
                 "Nama": "Meira Listyaningrum",
@@ -475,8 +475,8 @@ elif menu == "Departemen Internal":
                 "Alamat": "Natar",
                 "Hobi": "Berkebun",
                 "Sosmed": "azizahksmh15",
-                "Kesan": "",  
-                "Pesan": ""
+                "Kesan": "Sangat islami",  
+                "Pesan": "Infokan hasil kebun kak"
             },
             {
                 "Nama": "Rendi Alexander Hutagalung",
@@ -540,8 +540,8 @@ elif menu == "Departemen PSDA":
                 "Alamat": "Kobam",
                 "Hobi": "Nambal Ban",
                 "Sosmed": "@ericsonchandra99",
-                "Kesan": "",  
-                "Pesan": ""
+                "Kesan": "Wow anak dulidu",  
+                "Pesan": "Infokan jadwal buka bengkel bang"
             },
             {
                 "Nama": "Elisabeth Claudia",
@@ -551,18 +551,18 @@ elif menu == "Departemen PSDA":
                 "Alamat": "Sukarame",
                 "Hobi": "Memancing Keributan",
                 "Sosmed": "@celisabethh_",
-                "Kesan": "",  
+                "Kesan": "Kakaknya humble",  
                 "Pesan": ""
             },
             {
                 "Nama": "Nisrina Nur Afifah",
                 "NIM": "122450052",
-                "Umur": "19",
+                "Umur": "20",
                 "Asal": "Sumatera Barat",
                 "Alamat": "Sukarame",
                 "Hobi": "Nyender dibahu Allya",
                 "Sosmed": "@afifahhnsrn",
-                "Kesan": "",  
+                "Kesan": "Cantik kaya orang Arab",  
                 "Pesan": ""
             },
             {
@@ -573,8 +573,8 @@ elif menu == "Departemen PSDA":
                 "Alamat": "Kemiling",
                 "Hobi": "Makan ayam kalasan warboy",
                 "Sosmed": "@allyaislami_",
-                "Kesan": "",  
-                "Pesan": ""
+                "Kesan": "Kakak komdis",  
+                "Pesan": "Rate rasa ayam kalasan warboy kak"
             },
             {
                 "Nama": "Farahanum Afifah Ardiansyah",
