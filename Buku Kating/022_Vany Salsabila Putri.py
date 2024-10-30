@@ -792,11 +792,11 @@ elif menu == "Departemen PSDA":
 elif menu == "Departemen Eksternal":
     def Departemen_Eksternal():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1Tz0ojUwXwEGO2bQeyq0eEHA7U59dVRGF",
-            "https://drive.google.com/uc?export=view&id=1cBplLmelv7j7saWBqfGy_q4vETV4Ngpb",
-            "https://drive.google.com/uc?export=view&id=15NaUCUOB6A_xxE-nJgg7XLV95vP969qT",
+            "https://drive.google.com/uc?export=view&id=14jKzs6wTnGu_Wc7hszcDGr5mxuO_xrX-",
+            "https://drive.google.com/uc?export=view&id=1uS0cYIuOfddvQ0EJsiTAFZM6oHCNAk_m",
+            "https://drive.google.com/uc?export=view&id=12wsZUaq1Jb-mEynRsduJYByGTl09Sadl",
             "https://drive.google.com/uc?export=view&id=1iU3a8_r4n48NBdCKTUnEr8JTrzACB0AB",
-            "https://drive.google.com/uc?export=view&id=1bZL-IXSVBsCW-XPFIsNdeZ3N1egN_NaK",
+            "https://drive.google.com/uc?export=view&id=1Tt9HxBk2tdYiuyMZsz-QJ_ZOsuzvImJq",
             "https://drive.google.com/uc?export=view&id=121xMNxgSvC1X1-CKbuoeoj9OwKr0ajlf",
             "https://drive.google.com/uc?export=view&id=1yvrY3_HmZXEZ0wcaR_fR9ZL0oKQpFl98",
             "https://drive.google.com/uc?export=view&id=1pz20AvSyIuuvF_ON1QYgiMmwRnuae8ny",
