@@ -605,7 +605,7 @@ elif menu == "Departemen PSDA":
                 "Asal": "Kebon Jeruk, Jakarta Barat",
                 "Alamat": "Pulau Damar",
                 "Hobi": "Berkebun",
-                "Sosmed": "eksantyfebriana",
+                "Sosmed": "@eksantyfebriana",
                 "Kesan": "cakep, baik, asik",  
                 "Pesan": "amankan nilai praktikum ads kak"
             },
@@ -861,7 +861,7 @@ elif menu == "Departemen Eksternal":
                 "Asal": "Jakarta Selatan",
                 "Alamat": "Belwis",
                 "Hobi": "Main golf",
-                "Sosmed": "@",
+                "Sosmed": "@esteriars",
                 "Kesan": "cantik, baik",  
                 "Pesan":"ajarin main golf kak"
             },
