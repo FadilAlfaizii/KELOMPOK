@@ -104,7 +104,7 @@ if menu == "Kesekjenan":
            "https://drive.google.com/uc?export=view&id=1BrBXmBv4-dqpMBIZBCZzwljBUcz8JAaI",
            "https://drive.google.com/uc?export=view&id=1iWZieXaEyG1Wwuocw0qTF6Yh279Bp4Ct",
            "https://drive.google.com/uc?export=view&id=17_Pkihk4lNxR_ATyRv5fZyTe3Ed5GNB9",
-           "https://drive.google.com/uc?export=view&id=1Uio4VTeM3cs-w5s21ejmIjkEqet-99Wz/",
+           "https://drive.google.com/uc?export=view&id=1Uio4VTeM3cs-w5s21ejmIjkEqet-99Wz",
         ]
         data_list = [
             {
@@ -188,7 +188,7 @@ elif menu == "Baleg":
             "https://drive.google.com/uc?export=1tzebvqEF_sLvwzAe-ENIG8lFwhs-FWGU",
             "https://drive.google.com/uc?export=1mc-fyWrO3nh0ECSKZCqf4whNTY61etmS",
             "https://drive.google.com/uc?export=1bYIgdU64EUnn-e4Mq-XNdnhqCT9jGYpZ",
-            "https://drive.google.com/uc?export=",
+            "https://drive.google.com/uc?export=1bYIgdU64EUnn-e4Mq-XNdnhqCT9jGYpZ",
             "https://drive.google.com/uc?export=1MnPfGhlP8TjKp9XE4y7AEg8TuSKBJYA2",
             "https://drive.google.com/uc?export=1O5GAvbzMWjknz1_IYe5S46O9ZcaclB4C",
         ]
