@@ -791,9 +791,24 @@ elif menu == "Departemen PSDA":
 elif menu == "Departemen Eksternal":
     def Departemen_Eksternal():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1x6IfqcEau0siOxcSPbkYGgOg9_7OWzFR",
+            "https://drive.google.com/uc?export=view&id=1wzAliOjqprSd8DM4Jvb8f5D8eJFpjm7l",
+            "https://drive.google.com/uc?export=view&id=1wmrV89czHsRtbyLqt_qn2zD2BIOvmFNY",
+            "https://drive.google.com/uc?export=view&id=1wqqgjViY5rbKF87RQv4SiVm8VC2OmS5x",
+            "https://drive.google.com/uc?export=view&id=1wkKEA1EOAYEfeNLELu0onpQGa-vmWvMV",
+            "https://drive.google.com/uc?export=view&id=1wwneN1jZsxaFNOtXopSo3q-dCnXcxGC-",
+            "https://drive.google.com/uc?export=view&id=1wmrV89czHsRtbyLqt_qn2zD2BIOvmFNY",
+            "https://drive.google.com/uc?export=view&id=1wevk5hnWrdSqSmlyo4dKFPDSCxiyswxu",
+            "https://drive.google.com/uc?export=view&id=1wiS4PA-jlK13i3MR7Gp836Y_-_yv83TU",
+            "https://drive.google.com/uc?export=view&id=1wtlcVaiCnDM0Cuown_55Qo_MJ202JsLA",
+            "https://drive.google.com/uc?export=view&id=1wmrV89czHsRtbyLqt_qn2zD2BIOvmFNY",
+            "https://drive.google.com/uc?export=view&id=1wSB9ROBXs6iTnDocTWhogotxXQZpJn89",
+            "https://drive.google.com/uc?export=view&id=1x8Wi-_khgfxPHb9POkcSJfZWh5i7UQ-l",
+            "https://drive.google.com/uc?export=view&id=1wTC5eSfuMS2P7hlyTwKe5KoRGxwrANzt",
+            "https://drive.google.com/uc?export=view&id=1xDG9z4qqvDYHkxfG0TuaxJYSMZKF00eg",
+            "https://drive.google.com/uc?export=view&id=1xDF6e71SDPLAYz1D7xWhUCoug5ZzMxoD",
+            "https://drive.google.com/uc?export=view&id=1xAVco9Cl5CiQxSg4u-RJ5qP_KPkHUPyq",
+            "https://drive.google.com/uc?export=view&id=1wOIGp_F9JqHfWzCnP5MkVmOmDLEuBiUQ",
         ]
         data_list = [
             {
