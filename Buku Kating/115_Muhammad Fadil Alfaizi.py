@@ -796,7 +796,7 @@ elif menu == "Departemen Eksternal":
             "https://drive.google.com/uc?export=view&id=1QxrIkh8HzxmbGy5MN3LCPPslWxLM0c0R",
             "https://drive.google.com/uc?export=view&id=1R2RnFrL94BM435cbqKAYaVTf4xjICmzF",
             "https://drive.google.com/uc?export=view&id=1QgprcUV9DGTDp0BLDXZN6c7esgsqC5ag",
-            "https://drive.google.com/uc?export=view&id=", # Kak Novel
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1QnlfOEyLPhqtLjUDVfLUcMUTOBtxDIfQ",
             "https://drive.google.com/uc?export=view&id=1QqQeVsOCLFuW5yJgislN3E_bnIwIuVVL",
             "https://drive.google.com/uc?export=view&id=1QzgTg0yL-b5pIlYxYYvKVjkTDwmv0qhB",
