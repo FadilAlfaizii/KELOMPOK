@@ -563,7 +563,7 @@ elif menu == "Departemen PSDA":
                 "Hobi": "Nyender dibahu Allya",
                 "Sosmed": "@afifahhnsrn",
                 "Kesan": "keren kakanya",  
-                "Pesan": "amankan kaderisasi kak"
+                "Pesan": "amankan kaderisasi kakk"
             },
             {
                 "Nama": "Allya Nurul Islami Pasha",
