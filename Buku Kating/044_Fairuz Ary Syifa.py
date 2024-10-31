@@ -605,7 +605,7 @@ elif menu == "Departemen PSDA":
                 "Asal": "Kebon Jeruk, Jakarta Barat",
                 "Alamat": "Pulau Damar",
                 "Hobi": "Berkebun",
-                "Sosmed": "eksantyfebriana",
+                "Sosmed": "@eksantyfebriana",
                 "Kesan": "positif vibes banget",  
                 "Pesan": "nular ya kak positif vibes nyaa"
             },

@@ -556,7 +556,7 @@ elif menu == "Departemen PSDA":
                 "Asal": "Kebon Jeruk, Jakarta Barat",
                 "Alamat": "Pulau Damar",
                 "Hobi": "Berkebun",
-                "Sosmed": "eksantyfebriana",
+                "Sosmed": "@eksantyfebriana",
                 "Kesan": "Asik kakaknya",  
                 "Pesan": "Sabar sabar ngajarin pani ya kak"
             },
@@ -803,10 +803,9 @@ elif menu == "Departemen Eksternal":
                 "Asal": "Jakarta Selatan",
                 "Alamat": "Belwis",
                 "Hobi": "Main golf",
-                "Sosmed": "@",
+                "Sosmed": "@esteriars",
                 "Kesan": "Kakaknya gemesss",  
                 "Pesan": "Semangat kuliahnya kak"
-            },
             {
                 "Nama": "Natasya Ega Lina Marbun",
                 "NIM": "122450024",
