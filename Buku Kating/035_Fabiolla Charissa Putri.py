@@ -357,7 +357,7 @@ elif menu == "Departemen Internal":
             "https://drive.google.com/uc?export=view&id=1nii36cr-bRy57pz4_05knxzALK1NoBR6",
             "https://drive.google.com/uc?export=view&id=1N8g443FYa4cGiW9ZAlknFqS4RhyOB2bc",
             "https://drive.google.com/uc?export=view&id=1rWo7sUr5aI55Yl7Zc4ocpb_iZLaCPSd7",
-            "https://drive.google.com/uc?export=view&id=/1y7bs6xC9I7NRxReoOPMD-rTvIKVwkRZo",
+            "https://drive.google.com/uc?export=view&id=1y7bs6xC9I7NRxReoOPMD-rTvIKVwkRZo",
             "https://drive.google.com/uc?export=view&id=1wZS7pjkBlCQFZ_ge6SGTo_wPsbDXQpNB",
             "https://drive.google.com/uc?export=view&id=1QKYe2VGtzOTDh1D_t-3sBrXty-VXRk9y",
             "https://drive.google.com/uc?export=view&id=1kGG0FaI8MbMBdrLulFC1tDUDPNuL239B",
