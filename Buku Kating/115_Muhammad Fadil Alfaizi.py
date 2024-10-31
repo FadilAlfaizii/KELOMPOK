@@ -1001,20 +1001,20 @@ elif menu == "Departemen MIKFES":
     def Departemen_MIKFES():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1PDWaoDNMJBlyU8RMa_awMW0LKa-xy2Pm",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1PSXQm-3nU4c3yUb__4LYkh0kQXU4zHEX",
             "https://drive.google.com/uc?export=view&id=1P9-MOlR0UBKfLeAO4kq7RN5ka9WAuhAY",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1PxIDAVrLw_HiEE9UuTI2A2PLCq2C5IHY",
+            "https://drive.google.com/uc?export=view&id=1Po5Ji6xBDbTyWJP-kMG9pQ_iF8iN6QWF",
             "https://drive.google.com/uc?export=view&id=1PR655j9HKlv5YG1juRX_MQKZARrEIrPM",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1Ydc5NdHMvjYf6xWfobldwE4A1R0sji57",
             "https://drive.google.com/uc?export=view&id=1PPpnl5HT0noCU7w_JVP8Iab7J9GCid8T",
             "https://drive.google.com/uc?export=view&id=1PIKi-H6lYhbjN-4p1KKRRuqlfwQYSirL",
             "https://drive.google.com/uc?export=view&id=1Phs8dyRKlhnzS40WeQZlaH98ml-DMWGD",
             "https://drive.google.com/uc?export=view&id=1PeXFAGRvi0zsCbGmhnfjgY3ol8WH49Hl",
             "https://drive.google.com/uc?export=view&id=1PdQRQm-8Fmhav9plcn5X10dDT_9q8h0P",
             "https://drive.google.com/uc?export=view&id=1Pad6-8-Ktfl_CbrrUW9DbilXDqJK10jR",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1PKTeya33X5d8Hlr2jmyS1MrmzHxMvgqn",
+            "https://drive.google.com/uc?export=view&id=1Pj28GvOAbA191xmsOjfQSEWKg1ArTdof",
         ]
         data_list = [
             {
