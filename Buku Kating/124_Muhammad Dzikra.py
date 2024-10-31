@@ -1042,7 +1042,7 @@ elif menu == "Departemen MIKFES":
                 "Hobi": "Olahraga",
                 "Sosmed": "@rafadhlillahh13",
                 "Kesan": "",  
-                "Pesan": ""
+                "Pesan": "keren"
             },
             {
                 "Nama": "Annisa Novantika",
