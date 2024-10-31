@@ -1025,8 +1025,8 @@ elif menu == "Departemen MIKFES":
                 "Alamat": "Jl. Nangka 4",
                 "Hobi": "Olahraga",
                 "Sosmed": "@rafadhlillahh13",
-                "Kesan": "",  
-                "Pesan": ""
+                "Kesan": "baik, positif abangnya",  
+                "Pesan": "Teruskan bang"
             },
             {
                 "Nama": "Annisa Novantika",
