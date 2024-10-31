@@ -806,6 +806,7 @@ elif menu == "Departemen Eksternal":
                 "Sosmed": "@esteriars",
                 "Kesan": "Kakaknya gemesss",  
                 "Pesan": "Semangat kuliahnya kak"
+            },
             {
                 "Nama": "Natasya Ega Lina Marbun",
                 "NIM": "122450024",
