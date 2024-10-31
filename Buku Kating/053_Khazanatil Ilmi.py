@@ -171,7 +171,7 @@ if menu == "Kesekjenan":
                 "Hobi": "Membaca",
                 "Sosmed": "@nadilaandr26",
                 "Kesan": "komunikasi kakanya bagus",  
-                "Pesan":"semangat juga kak itung"
+                "Pesan":"semangat juga kak itung duitnya"
             },
         ]
         display_images_with_data(gambar_urls, data_list)
@@ -334,7 +334,7 @@ elif menu == "Senator":
                 "Hobi": "Bernyanyi",
                 "Sosmed": "@anissaluthfi_",
                 "Kesan": "cara kakanya nyampein sesuatu bagus banget",  
-                "Pesan":  "sehat kak"
+                "Pesan":  "sehat selalu kak"
             },
             {
                 "Nama": "Rian Bintang Wijaya",
@@ -706,7 +706,7 @@ elif menu == "Departemen PSDA":
                 "Hobi": "Baca webtoon",
                 "Sosmed": "@rafaaqilla",
                 "Kesan": "Kakanya cantik bangettt",  
-                "Pesan": "Jangan lupaistirahat kak"
+                "Pesan": "Jangan lupa istirahat kak"
             },
             {
                 "Nama": "Sahid Maulana",
@@ -1008,7 +1008,7 @@ elif menu == "Departemen Eksternal":
                 "Hobi": "Baca Buku",
                 "Sosmed": "@tria_y062",
                 "Kesan": "Kakanya sangat menginspirasi",  
-                "Pesan": "Spill buku yang baggus dong kaaa"
+                "Pesan": "Spill buku yang bagus dong kaaa"
             },
         ]
         display_images_with_data(gambar_urls, data_list)
@@ -1043,7 +1043,7 @@ elif menu == "Departemen MIKFES":
                 "Hobi": "Olahraga",
                 "Sosmed": "@rafadhlillahh13",
                 "Kesan": "Muka abangnya kek orang pinterr",  
-                "Pesan": "Semanagt olahraganya bangg"
+                "Pesan": "Semangat olahraganya bangg"
             },
             {
                 "Nama": "Annisa Novantika",
@@ -1142,7 +1142,7 @@ elif menu == "Departemen MIKFES":
                 "Hobi": "Menghitung akurasi",
                 "Sosmed": "@junitaa_0406",
                 "Kesan": "Kakanya baik bangettt",  
-                "Pesan": "Semanagat menghitung akurasinya kaaa"
+                "Pesan": "Semangat menghitung akurasinya kaaa"
             },
             {
                 "Nama": "Syadza Puspadari Azhar",
@@ -1218,7 +1218,7 @@ elif menu == "Departemen SSD":
         ]
         data_list = [
             {
-                "Nama": "Andrian Agustinus Lumbangaol",
+                "Nama": "Andrian Agustinus Lumban Gaol",
                 "NIM": "121450090",
                 "Umur": "21",
                 "Asal": "Sumatera Utara",
@@ -1539,7 +1539,7 @@ elif menu == "Departemen MEDKRAF":
                 "Hobi": "Ngepel",
                 "Sosmed": "@khusnun_nisa335",
                 "Kesan": "Kakaknya lucuuu",  
-                "Pesan": "Semanagt kak ngepelnya"
+                "Pesan": "Semangat kak ngepelnya"
             },
         ]
         display_images_with_data(gambar_urls, data_list)
