@@ -160,7 +160,7 @@ if menu == "Kesekjenan":
                 "Hobi": "Nyanyi",
                 "Sosmed": "@hrtfdlh",
                 "Kesan": "Kakak ini hawanya serius",  
-                "Pesan": "Smangat nagihin duitnya kakk"
+                "Pesan": "Semangat nagihin duitnya kakk"
             },
             {
                 "Nama": "Nadilla Andhara Putri",
@@ -232,7 +232,7 @@ elif menu == "Baleg":
                 "Alamat": "Way Kandis",
                 "Hobi": "Baca buku",
                 "Sosmed": "@fer_yulius",
-                "Kesan": "Kerenn",  
+                "Kesan": "Keren abangnya",  
                 "Pesan": "Bang bagusin nilai praktikum vany salsabila banh"
             },
             {
@@ -265,7 +265,7 @@ elif menu == "Baleg":
                 "Alamat": "Pahoman",
                 "Hobi": "Melukis, badminton, hiking, ngopi, dengerin music, nonton film dan ngoding",
                 "Sosmed": "@fhrul.pdf",
-                "Kesan": "Vhill abiiez",  
+                "Kesan": "Chill abiiez",  
                 "Pesan": "Keren keren trs bang"
             },
             {
@@ -439,7 +439,7 @@ elif menu == "Departemen Internal":
                 "Hobi": "Nyanyi",
                 "Sosmed": "@rexanderr",
                 "Kesan": "Abangnya humble banget",  
-                "Pesan": "Infookal jadwal konser bang"
+                "Pesan": "Infokan jadwal konser bang"
             },
             {
                 "Nama": "Josua Panggabean",
@@ -978,7 +978,7 @@ elif menu == "Departemen MIKFES":
             "https://drive.google.com/uc?export=view&id=1__t3p_nnFqf0_zIqZ-S7MPv6YDxLfGDM",
             "https://drive.google.com/uc?export=view&id=1NvfNTrszyTt2kNhlTBfhDQUE0ZorJgfI",
             "https://drive.google.com/uc?export=view&id=1OCSUijBF-Pju_UvMDgswmbK0Ggdg87Vh",
-            "https://drive.google.com/uc?export=view&id=",#ka ruth
+            "https://drive.google.com/uc?export=view&id=1a48mxR7uuz__URPqDOXgn8tDDZe82EJ5",
             "https://drive.google.com/uc?export=view&id=1NvxxU0v-Fff0e4OUpK6pJpqr_3eoJaL2",
             "https://drive.google.com/uc?export=view&id=1OB0qvGORgnPNKNa_mH9MdvneKoXBUcUK",
             "https://drive.google.com/uc?export=view&id=1O2C0wm4waCoRN4bHjD0_oBYkfzI-BZTA",
@@ -1139,7 +1139,7 @@ elif menu == "Departemen MIKFES":
                 "Hobi": "Review Journal",
                 "Sosmed": "@pratiwifebiya",
                 "Kesan": "Woww orangnya",  
-                "Pesan": "Yaa okee lah"
+                "Pesan": "Sehat selalu kak"
             },
             {
                 "Nama": "Happy Syahrul Ramadhan",
@@ -1279,7 +1279,7 @@ elif menu == "Departemen MEDKRAF":
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1LMrZ5WEgmmC19sUDQhtBovFnVQ6F8X_j",
             "https://drive.google.com/uc?export=view&id=1KuZuFM3Vgn1qc2OBgteiWP38vHrqCq9B",
-            "https://drive.google.com/uc?export=view&id=1LRZWzDRE-AH48nOjx7zHS3rMi_XbWXW- ",
+            "https://drive.google.com/uc?export=view&id=1aebFugRbcTxtVaaT2NlujU7Gobu10Dr7 ",
             "https://drive.google.com/uc?export=view&id=1LNn9r5dXuGCgkXWVDC52Qa5hBaAhT5pC",
             "https://drive.google.com/uc?export=view&id=1KmI-JUOErpNedB8laYthwwQU3EItwFNp",
             "https://drive.google.com/uc?export=view&id=1LRttc-4JmNnBMj51ERx72iH0aZDlpNvN",
@@ -1459,7 +1459,7 @@ elif menu == "Departemen MEDKRAF":
                 "Hobi": "Main hp",
                 "Sosmed": "@_akmal.faiz",
                 "Kesan": "Abang ini pendiem",  
-                "Pesan": "jangan bikin kesel daplok saya ya bang"
+                "Pesan": "Jangan bikin kesel daplok saya ya bang"
             },
             {
                 "Nama": "Hermawan Manurung",
