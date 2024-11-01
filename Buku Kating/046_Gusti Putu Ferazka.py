@@ -1279,7 +1279,7 @@ elif menu == "Departemen MEDKRAF":
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1LMrZ5WEgmmC19sUDQhtBovFnVQ6F8X_j",
             "https://drive.google.com/uc?export=view&id=1KuZuFM3Vgn1qc2OBgteiWP38vHrqCq9B",
-            "https://drive.google.com/uc?export=view&id=1aebFugRbcTxtVaaT2NlujU7Gobu10Dr7 ",
+            "https://drive.google.com/uc?export=view&id=1aebFugRbcTxtVaaT2NlujU7Gobu10Dr7 ", #gataulah gua ini bermalasah cape
             "https://drive.google.com/uc?export=view&id=1LNn9r5dXuGCgkXWVDC52Qa5hBaAhT5pC",
             "https://drive.google.com/uc?export=view&id=1KmI-JUOErpNedB8laYthwwQU3EItwFNp",
             "https://drive.google.com/uc?export=view&id=1LRttc-4JmNnBMj51ERx72iH0aZDlpNvN",
