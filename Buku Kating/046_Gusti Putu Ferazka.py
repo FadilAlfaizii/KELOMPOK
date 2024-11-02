@@ -613,7 +613,7 @@ elif menu == "Departemen PSDA":
                 "Alamat": "jl. Lapas",
                 "Hobi": "Memuji Tuhan",
                 "Sosmed": "@johanneskrisjnnn",
-                "Kesan": "Galak, pembully",  
+                "Kesan": "Galak tapi baikk",  
                 "Pesan": "Pretest saya 100 kan bang?"
             },
             {
