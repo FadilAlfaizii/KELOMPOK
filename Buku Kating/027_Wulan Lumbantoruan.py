@@ -153,7 +153,7 @@ if menu == "Kesekjenan":
             },
             {
                 "Nama": "Hartiti Fadilah",
-                "NIM": "121450013",
+                "NIM": "121450031",
                 "Umur": "21",
                 "Asal":"Palembang",
                 "Alamat": "Pemda",
