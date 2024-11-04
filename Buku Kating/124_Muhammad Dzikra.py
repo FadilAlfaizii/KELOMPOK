@@ -378,7 +378,7 @@ elif menu == "Departemen Internal":
                 "Hobi": "Mancing Keributan",
                 "Sosmed": "@dimzkry_",
                 "Kesan": "",  
-                "Pesan":""
+                "Pesan":"keren terus bang"
             },
             {
                 "Nama": "Catherine Firdhasari Maulina Sinaga",
