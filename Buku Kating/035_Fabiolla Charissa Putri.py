@@ -774,7 +774,6 @@ elif menu == "Departemen PSDA":
                 "Sosmed": "@syalaisha.i__",
                 "Kesan": "Waah ternyata kakanya kembar, terus vibes kakaknya sama-sama kalem",  
                 "Pesan":"Semangaaat kaakak kereen"
-
             },
         ]
         display_images_with_data(gambar_urls, data_list)
