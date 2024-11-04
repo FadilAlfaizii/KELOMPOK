@@ -180,17 +180,16 @@ if menu == "Kesekjenan":
 elif menu == "Baleg":
     def baleg():
         gambar_urls = [
-            "https://drive.google.com/uc?export=1fbFBlUbWaQXOvkNGxfrl5gZPsB0i2EEU",
-            "https://drive.google.com/uc?export=1UMCSVhtn8bOmJjKyzW_g6gO-ggdJix_I",
-            "https://drive.google.com/uc?export=10enx6CcLkNJYLmKQ8b5GQQtF7y9EgkMB",
-            "https://drive.google.com/uc?export=1IDcOt1rfAC9B6d4mFC49ei3oJFotAaKT",
-            "https://drive.google.com/uc?export=1O5GAvbzMWjknz1_IYe5S46O9ZcaclB4C",
-            "https://drive.google.com/uc?export=1tzebvqEF_sLvwzAe-ENIG8lFwhs-FWGU",
-            "https://drive.google.com/uc?export=1mc-fyWrO3nh0ECSKZCqf4whNTY61etmS",
-            "https://drive.google.com/uc?export=1bYIgdU64EUnn-e4Mq-XNdnhqCT9jGYpZ",
-            "https://drive.google.com/uc?export=1bYIgdU64EUnn-e4Mq-XNdnhqCT9jGYpZ",
-            "https://drive.google.com/uc?export=1MnPfGhlP8TjKp9XE4y7AEg8TuSKBJYA2",
-            "https://drive.google.com/uc?export=1O5GAvbzMWjknz1_IYe5S46O9ZcaclB4C",
+            "https://drive.google.com/uc?export=view&id=1fbFBlUbWaQXOvkNGxfrl5gZPsB0i2EEU",
+            "https://drive.google.com/uc?export=view&id=1UMCSVhtn8bOmJjKyzW_g6gO-ggdJix_I",
+            "https://drive.google.com/uc?export=view&id=10enx6CcLkNJYLmKQ8b5GQQtF7y9EgkMB",
+            "https://drive.google.com/uc?export=view&id=1IDcOt1rfAC9B6d4mFC49ei3oJFotAaKT",
+            "https://drive.google.com/uc?export=view&id=1O5GAvbzMWjknz1_IYe5S46O9ZcaclB4C",
+            "https://drive.google.com/uc?export=view&id=1tzebvqEF_sLvwzAe-ENIG8lFwhs-FWGU",
+            "https://drive.google.com/uc?export=view&id=1mc-fyWrO3nh0ECSKZCqf4whNTY61etmS",
+            "https://drive.google.com/uc?export=view&id=1bYIgdU64EUnn-e4Mq-XNdnhqCT9jGYpZ",
+            "https://drive.google.com/uc?export=view&id=1MnPfGhlP8TjKp9XE4y7AEg8TuSKBJYA2",
+            "https://drive.google.com/uc?export=view&id=1O5GAvbzMWjknz1_IYe5S46O9ZcaclB4C",
         ]
         data_list = [
                     {
@@ -1024,7 +1023,7 @@ elif menu == "Departemen MIKFES":
             "https://drive.google.com/uc?export=view&id=1f71-R2pQ0PxcWj8vXrle_H2ov4pcQ76p",
             "https://drive.google.com/uc?export=view&id=1GJIUxnTV6l8jvsaSodS_3MT5eC-p1TVH",
             "https://drive.google.com/uc?export=view&id=1jJIoMizvwmAHmL72oc8DjIfnAUCERY52",
-            "https://drive.google.com/uc?export=view&id=1iIJPLQIacHM_xLkjMm7c3c3lCDur88z",
+            "https://drive.google.com/uc?export=view&id=1iIJPLQIacHM_xLkjMm7c3c3lCDur88zQ",
             "https://drive.google.com/uc?export=view&id=1HKJtCL8j2-T3xXUeXMS1fP-Pa1nuS37I",
             "https://drive.google.com/uc?export=view&id=11uF-1QYuYKm9TJLeOK909oH8IEkJl1N7",
             "https://drive.google.com/uc?export=view&id=1kBgm16KWmKuO2as88PAjVF0OMO2DjvTf",
