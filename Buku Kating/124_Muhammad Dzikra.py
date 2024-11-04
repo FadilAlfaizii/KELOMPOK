@@ -149,7 +149,7 @@ if menu == "Kesekjenan":
                 "Hobi": "Dengerin Pandra main gitar",
                 "Sosmed": "@ptrimaulidas_",
                 "Kesan": "-",  
-                "Pesan":"keren terus kak"
+                "Pesan":"keren terus ya kak"
             },
             {
                 "Nama": "Hartiti Fadilah",
@@ -1352,7 +1352,7 @@ elif menu == "Departemen MEDKRAF":
                 "Alamat": "Sukarame",
                 "Hobi": "Nonton",
                 "Sosmed": "@wahyulaja",
-                "Kesan": "",  
+                "Kesan": "abang keren",  
                 "Pesan": ""
             },
             {
