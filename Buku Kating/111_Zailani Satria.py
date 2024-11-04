@@ -119,7 +119,7 @@ if menu == "Kesekjenan":
                 "Pesan":"Semoga bisa kasih inspiratif ke adek tingkat"
             },
             {
-                "Nama": "Pandra Insani Putra Azuar",
+                "Nama": "Pandra Insani Putra Azwar",
                 "NIM": "121450137",
                 "Umur": "21",
                 "Asal":"Lampung Utara",
@@ -144,7 +144,7 @@ if menu == "Kesekjenan":
                 "Nama": " Putri Maulida Chairani",
                 "NIM": "121450050",
                 "Umur": "21",
-                "Asal":"Payakumbuh, Sumbar",
+                "Asal": "Payakumbuh, Sumbar",
                 "Alamat": "Nangka 4",
                 "Hobi": "Dengerin pandra main gitar",
                 "Sosmed": "@ptrimaulidas_",
@@ -188,7 +188,7 @@ elif menu == "Baleg":
             "https://drive.google.com/uc?export=view&id=1jU2XZLolJN4YTWW925GHuVhNwjdakBo8",
             "https://drive.google.com/uc?export=view&id=1jS8kaqdVj_I71Pf0mUMoysCVhibFjY_X",
             "https://drive.google.com/uc?export=view&id=1jw7_KfsWcgJ6aUFD2XsoqT4CZXnwWzkJ",
-            "https://drive.google.com/uc?export=view&id=",
+            "https://drive.google.com/uc?export=view&id=1CJLdgUh58X5hIXIQky47zlJ3CWkbfdR2",
             "https://drive.google.com/uc?export=view&id=1jlGP__WU-cUL7ZLR2TAiIpiSlX0QMMIM",
             "https://drive.google.com/uc?export=view&id=1k1ly0mGuraYa7IPIH2cVzSnfzt_Ic7QA",
         ]
@@ -202,7 +202,7 @@ elif menu == "Baleg":
                 "Hobi": "Kalo ke coffe shop pesen red velvet bukan kopi",
                 "Sosmed": "@trimurniyaa",
                 "Kesan": "wanita independen",  
-                "Pesan":"semoga bisa nularin ilmunya"
+                "Pesan":"semoga bisa nularin ilmunyaa"
             },
             {
                 "Nama": "Annisa Cahyani Surya",
@@ -223,11 +223,11 @@ elif menu == "Baleg":
                 "Alamat": "Raden Saleh",
                 "Hobi": "Nonton drakor",
                 "Sosmed": "@wlnsbn0",
-                "Kesan": "ramah",  
+                "Kesan": "ramah, baikk",  
                 "Pesan":"kalo ketemu senyum balik kak"
             },
             {
-                "Nama": "Annisa Dini Amaliya",
+                "Nama": "Anisa Dini Amalia",
                 "NIM": "121450081",
                 "Umur": "21",
                 "Asal":"Tanggerang",
@@ -304,7 +304,7 @@ elif menu == "Baleg":
                 "Pesan":"info tambahan nilai banh"
             },
             {
-                "Nama": "Berlianda Enda Putri",
+                "Nama": "Berliana Enda Putri",
                 "NIM": "122450065",
                 "Umur": "21",
                 "Asal":"Sumatera Barat",
@@ -321,8 +321,8 @@ elif menu == "Baleg":
 elif menu == "Senator":
     def senator():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=154HDC-AuP-N6MRwykW5oVQ85H4REOe2z",
+            "https://drive.google.com/uc?export=view&id=157cC-p5mO01TX7S9PEtYa8Ay3f0yhOPo",
         ]
         data_list = [
             {
@@ -370,7 +370,7 @@ elif menu == "Departemen Internal":
         data_list = [
             {
                 "Nama": "Dimas Rizky Ramadhani",
-                "NIM": "122450027",
+                "NIM": "121450027",
                 "Umur": "20",
                 "Asal": "Pamulang Tangsel",
                 "Alamat": "Way Kandis (Kobam)",
@@ -527,7 +527,7 @@ elif menu == "Departemen PSDA":
             "https://drive.google.com/uc?export=view&id=1nyPOHdIhnYCA9EPEvvu_XblWXjcImVYe",
             "https://drive.google.com/uc?export=view&id=1pTVL3js5Y_UFPLCxCeANU2553KZReLv7",
             "https://drive.google.com/uc?export=view&id=11scMMXZn8EKD-fqS6DrSdxiLeK9Vm0Bs",
-            "https://drive.google.com/uc?export=view&id=",
+            "https://drive.google.com/uc?export=view&id=19eV6wTH3lSmP0sC-hF4UdYKyO5bFqYGY",
             "https://drive.google.com/uc?export=view&id=11t60A7FMOkOcXj2mBnZ4He8Yfhe-eh3i",
             "https://drive.google.com/uc?export=view&id=11tp3orVqxtZu8FBVfgwaiP5BBAy7Cuwf",
         ]
@@ -599,24 +599,24 @@ elif menu == "Departemen PSDA":
                 "Pesan":"tetep asik dan seru bang der"
             },
             {
-                "Nama": "Eksanty F. Sukma Islamiaty",
+                "Nama": "Eksanty F. Sugma Islamiaty",
                 "NIM": "122450001",
                 "Umur": "20",
                 "Asal": "Kebon Jeruk, Jakarta Barat",
                 "Alamat": "Pulau Damar",
                 "Hobi": "Berkebun",
-                "Sosmed": "@eksantyfebriana",
+                "Sosmed": "eksantyfebriana",
                 "Kesan": "cakep, baik, asik",  
                 "Pesan": "amankan nilai praktikum ads kak"
             },
             {
-                "Nama": "Oktavia Nurwenda Puspita Sari",
+                "Nama": "Oktavia Nurwinda Puspitasari",
                 "NIM": "122450041",
                 "Umur": "20",
                 "Asal": "Lampung Timur",
                 "Alamat": "Way Huwi",
                 "Hobi": "Ngeliatin Tingkah Orang",
-                "Sosmed": "@_oktavianrwnda_",
+                "Sosmed": "@oktavianrwnda",
                 "Kesan": "baik, lembut",  
                 "Pesan": "jangan cape jadi orang baik kak"
             },
@@ -682,7 +682,7 @@ elif menu == "Departemen PSDA":
                 "Asal": "Medan",
                 "Alamat": "Kobam",
                 "Hobi": "Belajar",
-                "Sosmed": "@lnrd.__",
+                "Sosmed": "@lnrd.",
                 "Kesan": "tinggi, keren",  
                 "Pesan": "infokan cara tubuh ideal bang"
             },
@@ -798,7 +798,7 @@ elif menu == "Departemen Eksternal":
             "https://drive.google.com/uc?export=view&id=1mpVbwdrciYspOO8ygO4R-t1uPRN7F1pi",
             "https://drive.google.com/uc?export=view&id=1mjrpP_hG601HmkOkQvqoY2pKJRTeVyLn",
             "https://drive.google.com/uc?export=view&id=1mypj0ewI1WWKoNcAkgFfOA1axa64215s",
-            "https://drive.google.com/uc?export=view&id=",
+            "https://drive.google.com/uc?export=view&id=19ebPvKwhjSoO7_NAdHLtt5Wr6e1gEGTo",
             "https://drive.google.com/uc?export=view&id=1mmFeqI-4Nc45z8MXIDAi_GZRDAOahVCI",
             "https://drive.google.com/uc?export=view&id=1mos3xnE2nl_T9Qb4pjYzeanmt4NY6mmL",
             "https://drive.google.com/uc?export=view&id=1mfu801M9q03vb-PJwWaIwFvjxd2vbTmd",
@@ -861,7 +861,7 @@ elif menu == "Departemen Eksternal":
                 "Asal": "Jakarta Selatan",
                 "Alamat": "Belwis",
                 "Hobi": "Main golf",
-                "Sosmed": "@esteriars",
+                "Sosmed": "@",
                 "Kesan": "cantik, baik",  
                 "Pesan":"ajarin main golf kak"
             },
@@ -1204,15 +1204,14 @@ elif menu == "Departemen MIKFES":
 elif menu == "Departemen SSD":
     def Departemen_SSD():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=150beoqJJRl_o8jkc3Tf9AjbKYdY43OfK",
+            "https://drive.google.com/uc?export=view&id=14nuNAnci2ILp2ptfndjwy6LB_1nkmR4o",
+            "https://drive.google.com/uc?export=view&id=14s0ORgTuhXVe3vU825OfvFeONW0Vi9_A",
+            "https://drive.google.com/uc?export=view&id=14sbvWadxLwm6ZtOtY328Wx7E-A0vBQwm",
+            "https://drive.google.com/uc?export=view&id=14y3Aon2moGOhX1wciKSS3JYmb733IXJp",
+            "https://drive.google.com/uc?export=view&id=14wFlDHZp5eQjwXVMHYI_aFeGrvRxsEQu",
+            "https://drive.google.com/uc?export=view&id=1CLtOmhUVevGRBifcqr4RqlCg3IU60x-_",
+            "https://drive.google.com/uc?export=view&id=1Bw1aazSLaYutqaklNrgxtbTXRpU0lndf",
         ]
         data_list = [
             {
@@ -1293,17 +1292,6 @@ elif menu == "Departemen SSD":
                 "Pesan":"ajarin produktif kak"
             },
             {
-                "Nama": "Nabilah Andika Fitriati",
-                "NIM": "121450139",
-                "Umur": "20",
-                "Asal":"Bandar Lampung",
-                "Alamat": "Kedaton",
-                "Hobi": "Bikin JJ",
-                "Sosmed": "@nabilahanftr",
-                "Kesan": "cantik, baik",  
-                "Pesan":"info jj kak"
-            },
-            {
                 "Nama": "Elia Meylani Simanjuntak",
                 "NIM": "12245026",
                 "Umur": "20",
@@ -1334,7 +1322,6 @@ elif menu == "Departemen MEDKRAF":
             "https://drive.google.com/uc?export=view&id=1lwYrzhW_YG835lo6ErQWFU9dz21sfSEX",
             "https://drive.google.com/uc?export=view&id=1ltuGqF4WiIYpMioLVcjsUXaTkGoLOHVj",
             "https://drive.google.com/uc?export=view&id=1lZcEpTztT7vgrKTHzTH-_IbNwdNvG1qn",
-            "https://drive.google.com/uc?export=view&id=",
             "https://drive.google.com/uc?export=view&id=1l9iFhfltBh4Tj5m3Yoc3DW2ts1bBGUri",
             "https://drive.google.com/uc?export=view&id=1lYQcM4EXF6rvKbYogXhCqEfKEImdDVPH",
             "https://drive.google.com/uc?export=view&id=1koS5ZZ2b4vl-cw01ZRPmqWlxH3zkuguQ",
@@ -1483,17 +1470,6 @@ elif menu == "Departemen MEDKRAF":
                 "Sosmed": "@prskslv",
                 "Kesan": "baik, kalem, lembut",  
                 "Pesan": "sedih aja ya kak jangan nangis kalo nonton film"
-            },
-            {
-                "Nama": "Muhammad Arsal Ranjana Utama",
-                "NIM": "121450111",
-                "Umur": "21",
-                "Asal": "Depok",
-                "Alamat": "Jl. Nangka 3",
-                "Hobi": "Main game",
-                "Sosmed": "@arsal.utama",
-                "Kesan": "keren, baik, kalem",  
-                "Pesan": "yok mabar bang"
             },
             {
                 "Nama": "Abit Ahmad Oktarian",
