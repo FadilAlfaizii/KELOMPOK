@@ -1226,7 +1226,7 @@ elif menu == "Departemen SSD":
                 "Hobi": "Nyari hobi",
                 "Sosmed": "@andrianlgaol",
                 "Kesan": "",  
-                "Pesan":""
+                "Pesan":"keren kak"
             },
             {
                 "Nama": "Adisty Syawaida Ariyanto",
