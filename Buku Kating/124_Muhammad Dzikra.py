@@ -188,7 +188,7 @@ elif menu == "Baleg":
             "https://drive.google.com/uc?export=view&id=1eV_RzBs6IKwJM78OfPFocPpvVjiPEAJI",               
             "https://drive.google.com/uc?export=view&id=1eGs0PWgNit7nuS5N_br67Inh3Skryif4",
             "https://drive.google.com/uc?export=view&id=1eUH5QbSmT7uc6rE6wv1EBmB1iVj2sufx",
-            "https://drive.google.com/uc?export=view&id=1eexKQ_6CjBUE_BeGamHG5AAx0Hh2NVPq",
+            "https://drive.google.com/uc?export=view&id=16wt54R668NwuFlXu1hb5U5fwejBOfDv1",
             "https://drive.google.com/uc?export=view&id=1eOmor-sEgwF9ULHYiM_qKs9ilJ_cWSqD",
             "https://drive.google.com/uc?export=view&id=1eVqlbU9kv9nMMx43TJf0_mjjH3cKyX0Y",
             
@@ -523,11 +523,11 @@ elif menu == "Departemen PSDA":
             "https://drive.google.com/uc?export=view&id=1oAeQLqdpiLVa-U_obOgY7KcQCVxFc5Jc",
             "https://drive.google.com/uc?export=view&id=1odCNRlWLJcBjqOz504e34RLG9DGeu1C7",
             "https://drive.google.com/uc?export=view&id=1nySxYhDSSJn36dq-cpwO0HinK8geCQOe",
-            "https://drive.google.com/uc?export=view&id=1oWE84FA09vo3nvWc1OfSMRWav5wPBacH",
+            "https://drive.google.com/uc?export=view&id=1nlsOkPgujk11LOZEteStbGVLZi4kmvPl",
             "https://drive.google.com/uc?export=view&id=1o8KwOiA9PdMdcSpPx8gjMEuxRFQUBcZJ",
             "https://drive.google.com/uc?export=view&id=1o8cBwHNRUFYDclIRUpYb-24l20VB8jlH",
+            "https://drive.google.com/uc?export=view&id=1oWE84FA09vo3nvWc1OfSMRWav5wPBacH",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1oUjFxtxvK737fXmzQIC1oqXe_OrDHRaB",
             "https://drive.google.com/uc?export=view&id=1oUSFRrDXYLnzFr4mYmHyV0Z3NhphtGYN",
         ]
         data_list = [
@@ -808,6 +808,7 @@ elif menu == "Departemen Eksternal":
             "https://drive.google.com/uc?export=view&id=1xDG9z4qqvDYHkxfG0TuaxJYSMZKF00eg",
             "https://drive.google.com/uc?export=view&id=1xDF6e71SDPLAYz1D7xWhUCoug5ZzMxoD",
             "https://drive.google.com/uc?export=view&id=1xAVco9Cl5CiQxSg4u-RJ5qP_KPkHUPyq",
+            "https://drive.google.com/uc?export=view&id=1wOIGp_F9JqHfWzCnP5MkVmOmDLEuBiUQ",
             "https://drive.google.com/uc?export=view&id=1wOIGp_F9JqHfWzCnP5MkVmOmDLEuBiUQ",
         ]
         data_list = [
