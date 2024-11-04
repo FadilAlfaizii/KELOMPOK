@@ -1,3 +1,4 @@
+
 import streamlit as st
 from streamlit_option_menu import option_menu
 import requests
@@ -152,23 +153,23 @@ if menu == "Kesekjenan":
                 "Pesan":"Semangat Kuliah nya kakak, jangan kasih kendor"
             },
             {
-                "Nama": "Nadilla Andhara Putri",
-                "NIM": "121450003",
-                "Umur": "21",
-                "Asal":"Metro",
-                "Alamat": "Kotabaru",
-                "Hobi": "Membaca",
-                "Sosmed": "@nadilaandr26",
-                "Kesan": "Kakak baik sekali",  
-                "Pesan":"Semangat Kakak Cantik"
-            },
-            {
                 "Nama": "Hartiti Fadilah",
                 "NIM": "121450031",
                 "Umur": "21",
                 "Asal":"Palembang",
                 "Alamat": "Pemda",
                 "Hobi": "Nyanyi",
+                "Sosmed": "@hrtfdlh",
+                "Kesan": "Kakak baik sekali",  
+                "Pesan":"Semangat Kakak Cantik"
+            },
+            {
+                "Nama": "Nadilla Andhara Putri",
+                "NIM": "12145003",
+                "Umur": "21",
+                "Asal":"Metro",
+                "Alamat": "Kotabaru",
+                "Hobi": "Membaca",
                 "Sosmed": "@hrtfdlh",
                 "Kesan": "Kakaknya asik",  
                 "Pesan":"sehat selalu kakak"
