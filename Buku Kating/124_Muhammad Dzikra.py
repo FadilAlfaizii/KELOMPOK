@@ -302,7 +302,7 @@ elif menu == "Baleg":
                 "Hobi": "Marah-marah",
                 "Sosmed": "@jeremia_s_",
                 "Kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "Pesan":"semangat terus kuliahnya kakak !!!"
+                "Pesan":"semangat teruss kuliahnya kakak !!!"
             },
             {
                 "Nama": "Berlianda Enda Putri",
