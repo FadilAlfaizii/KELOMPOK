@@ -1206,7 +1206,7 @@ elif menu == "Departemen MIKFES":
 elif menu == "Departemen SSD":
     def Departemen_SSD():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=15osYo-7MDmSxSWzpYYCNEpGbF_OvWA_1",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1WcK1n_gbuLyemnWkio7zlgP9qIuZgEhI",
             "https://drive.google.com/uc?export=view&id=13Ac84DkrSoUHau7P8UQwyDJcCiqkb8Cn",
             "https://drive.google.com/uc?export=view&id=1Y9SjwPQtNCtBy-WHWIbf4-Nj2GXpixLF",
@@ -1218,7 +1218,7 @@ elif menu == "Departemen SSD":
         ]
         data_list = [
             {
-                "Nama": "Andrian Agustinus Lumbangaol",
+                "Nama": "Andrian Agustinus Lumban Gaol",
                 "NIM": "121450090",
                 "Umur": "21",
                 "Asal": "Sumatera Utara",
