@@ -1212,7 +1212,6 @@ elif menu == "Departemen SSD":
             "https://drive.google.com/uc?export=view&id=1fjvA2h2_PSlpe6RabwCON3JtAVGQl-oj",
             "https://drive.google.com/uc?export=view&id=1VUyzPY3Y6omMQZYeA-yZ4GgJLpQGu5k7",
             "https://drive.google.com/uc?export=view&id=134hy9-pRv7BRRARuVYcDfEnQsok9I-N_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=11b4MzsDc7kx9J2W-qczdXSI7XrvWOLfO",
         ]
         data_list = [
@@ -1292,17 +1291,6 @@ elif menu == "Departemen SSD":
                 "Sosmed": "@tessakhanias",
                 "Kesan": "Kakaknya baik",  
                 "Pesan":"Sukses terus kak"
-            },
-            {
-                "Nama": "Nabilah Andika Fitriati",
-                "NIM": "121450139",
-                "Umur": "20",
-                "Asal":"Bandar Lampung",
-                "Alamat": "Kedaton",
-                "Hobi": "Bikin JJ",
-                "Sosmed": "@nabilahanftr",
-                "Kesan": "Kakaknya baik dan juga cantik",  
-                "Pesan":"Inpo template jj termantap kak"
             },
             {
                 "Nama": "Elia Meylani Simanjuntak",
