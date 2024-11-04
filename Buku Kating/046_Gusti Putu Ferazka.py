@@ -1028,7 +1028,7 @@ elif menu == "Departemen MIKFES":
                 "Hobi": "Ngasprak ADS",
                 "Sosmed": "@mregiiii_",
                 "Kesan": "Berwibawa abangnya",  
-                "Pesan": "Betah betah ngasprak ADS terus ya bangg"
+                "Pesan": "Betah betah ngasprak ADS terus ya bang"
             },
             {
                 "Nama": "Syalaisha Andina Putriansyah",
