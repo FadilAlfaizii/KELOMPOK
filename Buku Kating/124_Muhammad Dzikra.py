@@ -355,18 +355,18 @@ elif menu == "Senator":
 elif menu == "Departemen Internal":
     def Departemen_Internal():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=16kDJDh9Gfm3nsa5LaarPpm2zriLs4M_n",
+            "https://drive.google.com/uc?export=view&id=16iS108VIS2HDMvsTy0D6oSOAQ34gAeQ8",
+            "https://drive.google.com/uc?export=view&id=16DCswo0clgg4QjMt-ZhwANsGWI4LRobM",
+            "https://drive.google.com/uc?export=view&id=166YBk7oxonpI7HZPK2L-jNlnUD_TlcNQ",
+            "https://drive.google.com/uc?export=view&id=16nYEcc2-hI0-601QK_TLz4bTr6I18t6G",
+            "https://drive.google.com/uc?export=view&id=16sWY4L7Z7Ycda3P2d-UNoEaZFlL6-kl9",
+            "https://drive.google.com/uc?export=view&id=16IsK61Nc1bus6LOPUXCd6_CNRpbT55vY",
+            "https://drive.google.com/uc?export=view&id=16X4twNlwSEzd2AbrB5uedeLERGNc_7Zl",
+            "https://drive.google.com/uc?export=view&id=16jObRuNTZx5ptapbPYU0N12glllGXRD4",
+            "https://drive.google.com/uc?export=view&id=16cmpTc5mJUxoiEM7vxlR8o-5WeoDMGGH",
+            "https://drive.google.com/uc?export=view&id=16axyFgvyFJOd4ZeA1u-NlG_npA1_bhLn",
+            "https://drive.google.com/uc?export=view&id=16IsK61Nc1bus6LOPUXCd6_CNRpbT55vY",
         ]
         data_list = [
             {
@@ -1305,6 +1305,17 @@ elif menu == "Departemen SSD":
                 "Kesan": "",  
                 "Pesan":""
             },
+            {
+                "Nama": "Elia Meylani Simanjuntak",
+                "NIM": "12245026",
+                "Umur": "20",
+                "Asal":"Bekasi",
+                "Alamat": "Korpri",
+                "Hobi": "Nyanyi dan main alat musik",
+                "Sosmed": "@meylanielia",
+                "Kesan": "",  
+                "Pesan":""
+            }            
         ]
         display_images_with_data(gambar_urls, data_list)
     Departemen_SSD()
