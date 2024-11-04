@@ -1308,7 +1308,7 @@ elif menu == "Departemen SSD":
     Departemen_SSD()
 
 elif menu == "Medkraf":
-    def departemen_MEDKRAF():
+    def Departemen_MEDKRAF():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1j5OXJ30UYa81_YR32tvY25bDT6W-Sn1J",
             "https://drive.google.com/uc?export=view&id=1HQSzpAo6G1OURLzzEuHFiFayL8RPNdfy",
@@ -1530,4 +1530,4 @@ elif menu == "Medkraf":
             },
         ]
         display_images_with_data(gambar_urls, data_list)
-    departemen_MEDKRAF()
+    Departemen_MEDKRAF()
