@@ -354,18 +354,18 @@ elif menu == "Senator":
 elif menu == "Departemen Internal":
     def Departemen_Internal():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1Y3va9-ATSWE86260Iu96hcSYiulTvPO2",
+            "https://drive.google.com/uc?export=view&id=1XqkI6IfcIyT24_rk21OiLeZiqnzPDumm",
+            "https://drive.google.com/uc?export=view&id=1G48CHuneBO296f0wcR0Vu_HLHnRtcRD-",
+            "https://drive.google.com/uc?export=view&id=1YBu7gShU9BQqsnVOMSfSZ6jSvGnDz-ql",
+            "https://drive.google.com/uc?export=view&id=1Y26cu-FRE_iyAi6FENKJxfciKgYDjxFk",
+            "https://drive.google.com/uc?export=view&id=18DKP9BhU8pj8qkdew5Ug5dSZ9F12bed4",
+            "https://drive.google.com/uc?export=view&id=1Y8hH_xPvPkrqbcUTcYONlh7NmK72SDEG",
+            "https://drive.google.com/uc?export=view&id=1XmQN1tRX0n98dtnB5IwWST4eTEAJrCnK",
+            "https://drive.google.com/uc?export=view&id=1XPgoTWY76HSFcwSu3-4iyMDumt_st4p9",
+            "https://drive.google.com/uc?export=view&id=1XOvtnC0Jv6e8fsdD0W2_SqLHcwhXd2sd",
+            "https://drive.google.com/uc?export=view&id=1Xd7MxoToVZObtEyKykX870AhtBbW_Pw-",
+            "https://drive.google.com/uc?export=view&id=1XSaXrbjlc7HYHTvSCPl0uJqw9_cGFjOi",
         ]
         data_list = [
             {
@@ -507,27 +507,29 @@ elif menu == "Departemen Internal":
 elif menu == "Departemen PSDA":
     def Departemen_PSDA():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=16SH5NeHEVevat8_4KWqcLAh95ECYro7D",
+            "https://drive.google.com/uc?export=view&id=15a8svzn8x4gfdHQBKRRZPtc5OBjwYIIp",
+            "https://drive.google.com/uc?export=view&id=169NpoFA07erUoBqPqLSuGtdIdB8tC0yg",
+            "https://drive.google.com/uc?export=view&id=15lLbYwtBaYcG4qN8qwTBJGrPjfso3rUX",
+            "https://drive.google.com/uc?export=view&id=15x5SIhNJmyopA9YxJMwDpCM049jv13B0",
+            "https://drive.google.com/uc?export=view&id=15Y-J5HOB4VUjAJtj-B7jufVxIGo94USB",
+            "https://drive.google.com/uc?export=view&id=160xTkMvcbGApTEgAfVzFfmacs8YxHiY2",
+            "https://drive.google.com/uc?export=view&id=15jV43pVsQYyRiavQoiJ-yZs_NXsPFNCS",
+            "https://drive.google.com/uc?export=view&id=15l58gI2g9dd3SkawtqAGL4uNEyAQEkyR",
+            "https://drive.google.com/uc?export=view&id=16cjHFcfLij9Ugq0NSgRLe8951mPX9gXi",
+            "https://drive.google.com/uc?export=view&id=16ergiUkXfL2FKs2r77LEgDiMQ2q3vom3",
+            "https://drive.google.com/uc?export=view&id=16IjLAw7uC4h9buvyoYoHrNcICpoJHr5X",
+            "https://drive.google.com/uc?export=view&id=16PmPIqu5LcyYIG7lbGOj-BN0T1DfO_8Y",
+            "https://drive.google.com/uc?export=view&id=16MWtSrcQBCm3X2JFzwGUywfPXLLL5MmY",
+            "https://drive.google.com/uc?export=view&id=16UAtGlZVsFaZLUw2aJNnVw2YGpKWEXYG",
+            "https://drive.google.com/uc?export=view&id=16pip7CcujF83QwfwaE3q-95h_vldvs1C",
+            "https://drive.google.com/uc?export=view&id=16Slgy6K5a5F9Kkc0WKCWzJsFgX2FpRRK",
+            "https://drive.google.com/uc?export=view&id=16Loc3qm2jylhEdHoXzSAxZCZmK58UU-m",
+            "https://drive.google.com/uc?export=view&id=16A2jz0KLUwcCjsMoNUnWWelzeiGdwXn9", 
+            "https://drive.google.com/uc?export=view&id=16Eb-n8ri4QyNFeRbyYO3RUCr4b6LhKnY", 
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", 
+            "https://drive.google.com/uc?export=view&id=16BQC3sy09DBsl3qA9syg46zV_OO98hJW", 
+            "https://drive.google.com/uc?export=view&id=16mei0q34KsJ5uOYzEjPZffSBprtSSW7E", 
         ]
         data_list = [
              {
@@ -790,9 +792,24 @@ elif menu == "Departemen PSDA":
 elif menu == "Departemen Eksternal":
     def Departemen_Eksternal():
         gambar_urls = [
+            "https://drive.google.com/uc?export=view&id=1QF0u1WMzDKcZI3nxVM0GmnXUkZLgezX6",
+            "https://drive.google.com/uc?export=view&id=1QFBTIQRo4-Q0F9aHzKa_Q4qZUWeEzDdm",
+            "https://drive.google.com/uc?export=view&id=1QvWjqIdVpukAje5x-G7_6Uge5mzsk3o0",
+            "https://drive.google.com/uc?export=view&id=1QxrIkh8HzxmbGy5MN3LCPPslWxLM0c0R",
+            "https://drive.google.com/uc?export=view&id=1R2RnFrL94BM435cbqKAYaVTf4xjICmzF",
+            "https://drive.google.com/uc?export=view&id=1QgprcUV9DGTDp0BLDXZN6c7esgsqC5ag",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1QnlfOEyLPhqtLjUDVfLUcMUTOBtxDIfQ",
+            "https://drive.google.com/uc?export=view&id=1QqQeVsOCLFuW5yJgislN3E_bnIwIuVVL",
+            "https://drive.google.com/uc?export=view&id=1QzgTg0yL-b5pIlYxYYvKVjkTDwmv0qhB",
+            "https://drive.google.com/uc?export=view&id=1YefMjC1dQtYrMdBolM2VX81cJLRldCFd",
+            "https://drive.google.com/uc?export=view&id=1QOUohMWlU1ES804Td7NB0m_0XgK1YdKX",
+            "https://drive.google.com/uc?export=view&id=1QAr_j7j1OsRFlxVe2RDdfpoks4CZSmaz",
+            "https://drive.google.com/uc?export=view&id=1QI1dLBKZZE1gsVuGmzyF_MQutjxjiRxA",
+            "https://drive.google.com/uc?export=view&id=1P26PgHMZe2LdsaKsq2S5wiWGuOiiE64j",
+            "https://drive.google.com/uc?export=view&id=1P33HMqMUQ5-JGmP6zejAKcVTsn4zQLMt",
+            "https://drive.google.com/uc?export=view&id=1Q7HFI5bNLCqO-Q3tsF52Pdv5n-upcytT",
+            "https://drive.google.com/uc?export=view&id=1R3VeIGNylPwYYnR-cSclsSr-BOEOqkCh",
         ]
         data_list = [
             {
@@ -1001,20 +1018,20 @@ elif menu == "Departemen MIKFES":
     def Departemen_MIKFES():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1PDWaoDNMJBlyU8RMa_awMW0LKa-xy2Pm",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1PSXQm-3nU4c3yUb__4LYkh0kQXU4zHEX",
             "https://drive.google.com/uc?export=view&id=1P9-MOlR0UBKfLeAO4kq7RN5ka9WAuhAY",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1PxIDAVrLw_HiEE9UuTI2A2PLCq2C5IHY",
+            "https://drive.google.com/uc?export=view&id=1Po5Ji6xBDbTyWJP-kMG9pQ_iF8iN6QWF",
             "https://drive.google.com/uc?export=view&id=1PR655j9HKlv5YG1juRX_MQKZARrEIrPM",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1Ydc5NdHMvjYf6xWfobldwE4A1R0sji57",
             "https://drive.google.com/uc?export=view&id=1PPpnl5HT0noCU7w_JVP8Iab7J9GCid8T",
             "https://drive.google.com/uc?export=view&id=1PIKi-H6lYhbjN-4p1KKRRuqlfwQYSirL",
             "https://drive.google.com/uc?export=view&id=1Phs8dyRKlhnzS40WeQZlaH98ml-DMWGD",
             "https://drive.google.com/uc?export=view&id=1PeXFAGRvi0zsCbGmhnfjgY3ol8WH49Hl",
             "https://drive.google.com/uc?export=view&id=1PdQRQm-8Fmhav9plcn5X10dDT_9q8h0P",
             "https://drive.google.com/uc?export=view&id=1Pad6-8-Ktfl_CbrrUW9DbilXDqJK10jR",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1PKTeya33X5d8Hlr2jmyS1MrmzHxMvgqn",
+            "https://drive.google.com/uc?export=view&id=1Pj28GvOAbA191xmsOjfQSEWKg1ArTdof",
         ]
         data_list = [
             {
@@ -1025,8 +1042,8 @@ elif menu == "Departemen MIKFES":
                 "Alamat": "Jl. Nangka 4",
                 "Hobi": "Olahraga",
                 "Sosmed": "@rafadhlillahh13",
-                "Kesan": "",  
-                "Pesan": ""
+                "Kesan": "baik, positif abangnya",  
+                "Pesan": "Teruskan bang"
             },
             {
                 "Nama": "Annisa Novantika",
@@ -1189,15 +1206,15 @@ elif menu == "Departemen MIKFES":
 elif menu == "Departemen SSD":
     def Departemen_SSD():
         gambar_urls = [
+            "https://drive.google.com/uc?export=view&id=1BYW6bUofLOVC3i3AzyCDif7gkDjy2sN8",
+            "https://drive.google.com/uc?export=view&id=16nAQhEu5BU0zVsZVkeUZ9s7MMYKkySZy",
+            "https://drive.google.com/uc?export=view&id=1AJU488_Hqa6u70imcEEGtMSg5IPXJYNS",
+            "https://drive.google.com/uc?export=view&id=1SRRL2cAeod5WahV5ApEaL2K_ky22ETRf",
+            "https://drive.google.com/uc?export=view&id=1YnLq1geDMixI0IuEI_lvKyBWKWs_12hi",
+            "https://drive.google.com/uc?export=view&id=19ScsN4dJ_wRrZG03yfkBwFmBsPmen-Vs",
+            "https://drive.google.com/uc?export=view&id=1m_MhrszHosVI915rpiXTrUBMod6wLF4X",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1nL8-je9YSR_6DhUTJscdNb5sWBBbg7Zm",
         ]
         data_list = [
             {
