@@ -1352,7 +1352,7 @@ elif menu == "Departemen MEDKRAF":
                 "Alamat": "Sukarame",
                 "Hobi": "Nonton",
                 "Sosmed": "@wahyulaja",
-                "Kesan": "",  
+                "Kesan": "abang keren",  
                 "Pesan": ""
             },
             {
