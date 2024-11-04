@@ -1208,11 +1208,13 @@ elif menu == "Departemen SSD":
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=15ixa5Z71zGfFMrhqlHKKC13EEmjMS5GQ",
             "https://drive.google.com/uc?export=view&id=15pwG7EE8wObq2vKy7GcI0zFKLp9qdVsa",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=15kR9wh6m0Y1I---He10gmgTElBrTeqIK",
             "https://drive.google.com/uc?export=view&id=15bLxFoxKkBmzGOvR4U8KSSFh-WvF7f1p",
             "https://drive.google.com/uc?export=view&id=15nORbPF_GJ2nC1ls98SKwE80RPCkyNSG",
             "https://drive.google.com/uc?export=view&id=15cFZ899h4t3zB6ua6BHtLq-kW68ACmpr",
             "https://drive.google.com/uc?export=view&id=15tNOuwoZ65706Re2Kcu9Z12mAhLt-czI",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
         ]
         data_list = [
             {
@@ -1234,6 +1236,17 @@ elif menu == "Departemen SSD":
                 "Alamat": "Sukarame",
                 "Hobi": "Nonton film",
                 "Sosmed": "@adistysa_",
+                "Kesan": "",  
+                "Pesan":""
+            },
+            {
+                "Nama": "Nabila Azhari",
+                "NIM": "121450029",
+                "Umur": "21",
+                "Asal":"Sumatera Utara",
+                "Alamat": "Airan",
+                "Hobi": "Ngitung duit",
+                "Sosmed": "@zhjung_",
                 "Kesan": "",  
                 "Pesan":""
             },
@@ -1292,7 +1305,6 @@ elif menu == "Departemen SSD":
                 "Kesan": "",  
                 "Pesan":""
             },
-
         ]
         display_images_with_data(gambar_urls, data_list)
     Departemen_SSD()
