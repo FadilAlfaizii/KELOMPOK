@@ -119,7 +119,7 @@ if menu == "Kesekjenan":
                 "Pesan":"Suksess terus bangg, semangat mengemban tugasnya"
             },
             {
-                "Nama": "Pandra Insani Putra Azuar",
+                "Nama": "Pandra Insani Putra Azwar",
                 "NIM": "121450137",
                 "Umur": "21",
                 "Asal":"Lampung Utara",
@@ -227,7 +227,7 @@ elif menu == "Baleg":
                 "Pesan":"Tetap optimis kak, setiap usaha pasti ada hasilnya!"
             },
             {
-                "Nama": "Annisa Dini Amaliya",
+                "Nama": "Anisa Dini Amalia",
                 "NIM": "121450081",
                 "Umur": "21",
                 "Asal":"Tanggerang",
@@ -304,7 +304,7 @@ elif menu == "Baleg":
                 "Pesan":"Semoga segala usahanya membuahkan hasil yang diinginkan, semangat bangg"
             },
             {
-                "Nama": "Berlianda Enda Putri",
+                "Nama": "Berliana Enda Putri",
                 "NIM": "122450065",
                 "Umur": "21",
                 "Asal":"Sumatera Barat",
@@ -599,7 +599,7 @@ elif menu == "Departemen PSDA":
                 "Pesan":"Semangat bang kuliahnyaa, sukses lancar jayaa"
             },
             {
-                "Nama": "Eksanty F. Sukma Islamiaty",
+                "Nama": "Eksanty F. Sugma Islamiaty",
                 "NIM": "122450001",
                 "Umur": "20",
                 "Asal": "Kebon Jeruk, Jakarta Barat",
@@ -610,7 +610,7 @@ elif menu == "Departemen PSDA":
                 "Pesan": "Semangat kuliahnya kakk, semoga segala urusannya dipermudah"
             },
             {
-                "Nama": "Oktavia Nurwenda Puspita Sari",
+                "Nama": "Oktavia Nurwinda Puspitasari",
                 "NIM": "122450041",
                 "Umur": "20",
                 "Asal": "Lampung Timur",

@@ -119,7 +119,7 @@ if menu == "Kesekjenan":
                 "Pesan": "Abang ini keren"
             },
             {
-                "Nama": "Pandra Insani Putra Azuar",
+                "Nama": "Pandra Insani Putra Azwar",
                 "NIM": "121450137",
                 "Umur": "21",
                 "Asal":"Lampung Utara",
@@ -280,7 +280,7 @@ elif menu == "Baleg":
                 "Pesan": "Sehat sehat bang"
             },
             {
-                "Nama": "Berlianda Enda Putri",
+                "Nama": "Berliana Enda Putri",
                 "NIM": "122450065",
                 "Umur": "21",
                 "Asal":"Sumatera Barat",
