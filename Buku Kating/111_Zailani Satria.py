@@ -119,7 +119,7 @@ if menu == "Kesekjenan":
                 "Pesan":"Semoga bisa kasih inspiratif ke adek tingkat"
             },
             {
-                "Nama": "Pandra Insani Putra Azuar",
+                "Nama": "Pandra Insani Putra Azwar",
                 "NIM": "121450137",
                 "Umur": "21",
                 "Asal":"Lampung Utara",
@@ -144,7 +144,7 @@ if menu == "Kesekjenan":
                 "Nama": " Putri Maulida Chairani",
                 "NIM": "121450050",
                 "Umur": "21",
-                "Asal":"Payakumbuh, Sumbar",
+                "Asal": "Payakumbuh, Sumbar",
                 "Alamat": "Nangka 4",
                 "Hobi": "Dengerin pandra main gitar",
                 "Sosmed": "@ptrimaulidas_",
@@ -227,7 +227,7 @@ elif menu == "Baleg":
                 "Pesan":"kalo ketemu senyum balik kak"
             },
             {
-                "Nama": "Annisa Dini Amaliya",
+                "Nama": "Anisa Dini Amalia",
                 "NIM": "121450081",
                 "Umur": "21",
                 "Asal":"Tanggerang",
@@ -304,7 +304,7 @@ elif menu == "Baleg":
                 "Pesan":"info tambahan nilai banh"
             },
             {
-                "Nama": "Berlianda Enda Putri",
+                "Nama": "Berliana Enda Putri",
                 "NIM": "122450065",
                 "Umur": "21",
                 "Asal":"Sumatera Barat",
@@ -370,7 +370,7 @@ elif menu == "Departemen Internal":
         data_list = [
             {
                 "Nama": "Dimas Rizky Ramadhani",
-                "NIM": "122450027",
+                "NIM": "121450027",
                 "Umur": "20",
                 "Asal": "Pamulang Tangsel",
                 "Alamat": "Way Kandis (Kobam)",
@@ -599,7 +599,7 @@ elif menu == "Departemen PSDA":
                 "Pesan":"tetep asik dan seru bang der"
             },
             {
-                "Nama": "Eksanty F. Sukma Islamiaty",
+                "Nama": "Eksanty F. Sugma Islamiaty",
                 "NIM": "122450001",
                 "Umur": "20",
                 "Asal": "Kebon Jeruk, Jakarta Barat",
@@ -610,7 +610,7 @@ elif menu == "Departemen PSDA":
                 "Pesan": "amankan nilai praktikum ads kak"
             },
             {
-                "Nama": "Oktavia Nurwenda Puspita Sari",
+                "Nama": "Oktavia Nurwinda Puspitasari",
                 "NIM": "122450041",
                 "Umur": "20",
                 "Asal": "Lampung Timur",
