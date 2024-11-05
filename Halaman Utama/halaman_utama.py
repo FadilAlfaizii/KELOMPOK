@@ -102,24 +102,26 @@ if menu == "Home":
             "<h1 class='centered-title'>Deskripsi Kelompok</h1>", unsafe_allow_html=True
         )
         st.markdown(
-            """<div style="text-align: justify;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
-                    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-                    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-                    uis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-                    Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est 
-                    laborum.</div>""",
+            """<div style="text-align: justify;">Kelompok 3 Poisson merupakan kelompok kaderisasi HMSD ADYATAMA yang dibentuk
+                    oleh tim kaderisasi. Poisson merupakan kata yang berasal dari bahasa prancis yg memiliki
+                    arti ikan, poisson sendiri termasuk salah satu konsep ilmu dalam dunia statistika sains Data
+                    yang merupakan aplikasi dalam analisis data yang melibatkan perhitungan peristiwa. Kami
+                    memilih nama kelompok Poisson, karena terinspirasi dari filosofi ikan dalam kehidupan
+                    sehari-hari yaitu terus maju ditengah tekanan ataupun kuat nya arus kehidupan dan selalu
+                    pantang menyerah. Kami juga kelompok yang selalu berusaha untuk terus memperbaiki dan
+                    melaju bersama supaya menjadi kelompok satu visi dan satu tujuan.</div>""",
             unsafe_allow_html=True,
         )
         st.write(""" """)
-        foto_kelompok = "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_" #FOTO KELOMPOK
+        foto_kelompok = "https://drive.google.com/uc?export=view&id=1e_wQBTcJPQ39FaDTb1q-WTh7zjBOKo61" #FOTO KELOMPOK
         layout(foto_kelompok)
         st.markdown(
-            """<div style="text-align: justify;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
-                    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-                    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-                    uis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-                    Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est 
-                    laborum.</div>""",
+            """<div style="text-align: justify;">Selain dari makna poisson diatas, kami juga memiliki alasan kenapa poisson menjadi
+                            pemilihan untuk nama kelompok kami. Awalnya kami bersama-sama menentukan nama
+                            kelompok. Ketika kami menentukan nama pertama yaitu Lasso, ternyata telah diambil oleh
+                            kelompok 5 sehingga kami bermusyawarah lagi dan Poisson nama yang cocok dan keren.
+                            Semoga dengan berjalan waktu kami terus berbenah dan menjadi kelompok yang saling
+                            melengkapi kedepannya.</div>""",
             unsafe_allow_html=True,
         )
         st.write(""" """)

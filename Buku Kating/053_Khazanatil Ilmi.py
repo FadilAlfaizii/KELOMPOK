@@ -119,7 +119,7 @@ if menu == "Kesekjenan":
                 "Pesan":"semangat dan inspiratif bagi semua bang"
             },
             {
-                "Nama": "Pandra Insani Putra Azuar",
+                "Nama": "Pandra Insani Putra Azwar",
                 "NIM": "121450137",
                 "Umur": "21",
                 "Asal":"Lampung Utara",
@@ -227,7 +227,7 @@ elif menu == "Baleg":
                 "Pesan":"Makasi bimbingannya kak,banyak pelajaran yang bisa saya ambil dari wawancaranya ka"
             },
             {
-                "Nama": "Annisa Dini Amaliya",
+                "Nama": "Anisa Dini Amalia",
                 "NIM": "121450081",
                 "Umur": "20",
                 "Asal":"Tangerang",
@@ -304,7 +304,7 @@ elif menu == "Baleg":
                 "Pesan":"semangat dalam kepanitiaan bang"
             },
             {
-                "Nama": "Berlianda Enda Putri",
+                "Nama": "Berliana Enda Putri",
                 "NIM": "122450065",
                 "Umur": "21",
                 "Asal":"Sumbar",
@@ -370,7 +370,7 @@ elif menu == "Departemen Internal":
         data_list = [
             {
                 "Nama": "Dimas Rizky Ramadhani",
-                "NIM": "122450027",
+                "NIM": "121450027",
                 "Umur": "20",
                 "Asal": "Pamulang Tangsel",
                 "Alamat": "Way Kandis (Kobam)",
@@ -599,7 +599,7 @@ elif menu == "Departemen PSDA":
                 "Pesan":"Semangat ya bang kuliahyaaa, terimakasi udah bantuin pas saya sakit bang"
             },
             {
-                "Nama": "Eksanty F. Sukma Islamiaty",
+                "Nama": "Eksanty F. Sugma Islamiaty",
                 "NIM": "122450001",
                 "Umur": "20",
                 "Asal": "Kebon Jeruk, Jakarta Barat",
@@ -610,7 +610,7 @@ elif menu == "Departemen PSDA":
                 "Pesan": "Jaga kesehatannya kak, jangan lupa tidur kakk"
             },
             {
-                "Nama": "Oktavia Nurwenda Puspita Sari",
+                "Nama": "Oktavia Nurwinda Puspitasari",
                 "NIM": "122450041",
                 "Umur": "20",
                 "Asal": "Lampung Timur",

@@ -120,7 +120,7 @@ if menu == "Kesekjenan":
                 "Pesan":"semangat terus kuliahnya bang !!!"
             },
             {
-                "Nama": "Pandra Insani Putra Azuar",
+                "Nama": "Pandra Insani Putra Azwar",
                 "NIM": "121450137",
                 "Umur": "21",
                 "Asal":"Lampung Utara",
@@ -185,7 +185,7 @@ elif menu == "Baleg":
             "https://drive.google.com/uc?export=view&id=1UMCSVhtn8bOmJjKyzW_g6gO-ggdJix_I",
             "https://drive.google.com/uc?export=view&id=10enx6CcLkNJYLmKQ8b5GQQtF7y9EgkMB",
             "https://drive.google.com/uc?export=view&id=1IDcOt1rfAC9B6d4mFC49ei3oJFotAaKT",
-            "https://drive.google.com/uc?export=view&id=1O5GAvbzMWjknz1_IYe5S46O9ZcaclB4C",
+            "https://drive.google.com/uc?export=view&id=1oQ5b-hkCbjW7T9ow_GFEx6oUKBWi6z1U",
             "https://drive.google.com/uc?export=view&id=1tzebvqEF_sLvwzAe-ENIG8lFwhs-FWGU",
             "https://drive.google.com/uc?export=view&id=1mc-fyWrO3nh0ECSKZCqf4whNTY61etmS",
             "https://drive.google.com/uc?export=view&id=1bYIgdU64EUnn-e4Mq-XNdnhqCT9jGYpZ",
@@ -227,7 +227,7 @@ elif menu == "Baleg":
                 "Pesan":"Semangat terus kakak manis"
             },
             {
-                "Nama": "Annisa Dini Amaliya",
+                "Nama": "Anisa Dini Amalia",
                 "NIM": "121450081",
                 "Umur": "21",
                 "Asal":"Tanggerang",
@@ -293,10 +293,10 @@ elif menu == "Baleg":
                 "Pesan":"Semangat ngaspraknya bang"
             },
             {
-                "Nama": "Berlianda Enda Putri",
+                "Nama": "Berliana Enda Putri",
                 "NIM": "122450065",
                 "Umur": "21",
-                "Asal":"Sumatera Barat",
+                "Asal": "Sumatera Barat",
                 "Alamat": "Way Huwi",
                 "Hobi": "Main game",
                 "Sosmed": "@berlyyanda",
@@ -359,7 +359,7 @@ elif menu == "Departemen Internal":
         data_list = [
             {
                 "Nama": "Dimas Rizky Ramadhani",
-                "NIM": "122450027",
+                "NIM": "121450027",
                 "Umur": "20",
                 "Asal": "Pamulang Tangsel",
                 "Alamat": "Way Kandis (Kobam)",
@@ -589,7 +589,7 @@ elif menu == "Departemen PSDA":
 
             },
             {
-                "Nama": "Eksanty F. Sukma Islamiaty",
+                "Nama": "Eksanty F. Sugma Islamiaty",
                 "NIM": "122450001",
                 "Umur": "20",
                 "Asal": "Kebon Jeruk, Jakarta Barat",
@@ -600,7 +600,7 @@ elif menu == "Departemen PSDA":
                 "Pesan":"Semnagat ngaspraknya kak Eksanty, sukses terus kak"
             },
             {
-                "Nama": "Oktavia Nurwenda Puspita Sari",
+                "Nama": "Oktavia Nurwinda Puspitasari",
                 "NIM": "122450041",
                 "Umur": "20",
                 "Asal": "Lampung Timur",
@@ -774,7 +774,6 @@ elif menu == "Departemen PSDA":
                 "Sosmed": "@syalaisha.i__",
                 "Kesan": "Waah ternyata kakanya kembar, terus vibes kakaknya sama-sama kalem",  
                 "Pesan":"Semangaaat kaakak kereen"
-
             },
         ]
         display_images_with_data(gambar_urls, data_list)

@@ -119,7 +119,7 @@ if menu == "Kesekjenan":
                 "Pesan": "semangat bang mimpin himpunannya!"
             },
             {
-                "Nama": "Pandra Insani Putra Azuar",
+                "Nama": "Pandra Insani Putra Azwar",
                 "NIM": "121450137",
                 "Umur": "21",
                 "Asal":"Lampung Utara",
@@ -227,7 +227,7 @@ elif menu == "Baleg":
                 "Pesan": "suksess terus kak!"
             },
             {
-                "Nama": "Annisa Dini Amaliya",
+                "Nama": "Anisa Dini Amalia",
                 "NIM": "121450081",
                 "Umur": "21",
                 "Asal":"Tanggerang",
@@ -253,7 +253,6 @@ elif menu == "Baleg":
                 "NIM": "122450087",
                 "Umur": "20",
                 "Asal":"Batu Raja, Sumsel",
-                
                 "Alamat": "Way Kandis",
                 "Hobi": "Baca buku",
                 "Sosmed": "@fer_yulius",
@@ -305,7 +304,7 @@ elif menu == "Baleg":
                 "Pesan": "sabar bang, jangan marah-marah"
             },
             {
-                "Nama": "Berlianda Enda Putri",
+                "Nama": "Berliana Enda Putri",
                 "NIM": "122450065",
                 "Umur": "21",
                 "Asal":"Sumatera Barat",
@@ -604,7 +603,7 @@ elif menu == "Departemen PSDA":
                 "Pesan": "semangat terus bang!"
             },
             {
-                "Nama": "Eksanty F. Sukma Islamiaty",
+                "Nama": "Eksanty F. Sugma Islamiaty",
                 "NIM": "122450001",
                 "Umur": "20",
                 "Asal": "Kebon Jeruk, Jakarta Barat",
@@ -615,7 +614,7 @@ elif menu == "Departemen PSDA":
                 "Pesan": "semoga bisa terus berkembang lagi kakk!"
             },
             {
-                "Nama": "Oktavia Nurwenda Puspita Sari",
+                "Nama": "Oktavia Nurwinda Puspitasari",
                 "NIM": "122450041",
                 "Umur": "20",
                 "Asal": "Lampung Timur",
