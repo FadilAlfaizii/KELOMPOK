@@ -499,9 +499,9 @@ elif menu == "Departemen PSDA":
             "https://drive.google.com/uc?export=view&id=1LSrCOE455OpBlhD26vAzouaQv7U-atkD",
             "https://drive.google.com/uc?export=view&id=1sX4y5Fx9q-cJ6zZM8UQPiAZCYsreoYl1",
             "https://drive.google.com/uc?export=view&id=1xp4ecz_6UF7Dc7e6rukmMvcy4vmUENpj",
+            "https://drive.google.com/uc?export=view&id=1-6oy_3eGIQ3RwZgZoG_e2xQ2ulFecJ0x",
+            "https://drive.google.com/uc?export=view&id=1MaBCZoqX3kV7GNgL2eD3K7SfET3KnR8N",
             "https://drive.google.com/uc?export=view&id=1L6WGJ0N7f79u8kUKoQ6ASZbYwlOstoYa",
-            "https://drive.google.com/uc?export=view&id=1MaBCZoqX3kV7GNgL2eD3K7SfET3KnR8N",
-            "https://drive.google.com/uc?export=view&id=1MaBCZoqX3kV7GNgL2eD3K7SfET3KnR8N",
             "https://drive.google.com/uc?export=view&id=11M-l48C1jhxMbGfNW7aGGQ42tU6n9JBT",
             "https://drive.google.com/uc?export=view&id=1JyD6crsWZbAxP3GeEtm3U-Sxxi8jWNbD",
             "https://drive.google.com/uc?export=view&id=1pFUF0KQKRBFyBYMbcTRw3XmG-y1lL4YJ",
@@ -586,7 +586,6 @@ elif menu == "Departemen PSDA":
                 "Sosmed": "@dransyh_",
                  "Kesan": "Abangnya baik, dan suka menghibur",  
                 "Pesan":"Sukses selalu bang"
-
             },
             {
                 "Nama": "Eksanty F. Sugma Islamiaty",
@@ -1208,7 +1207,7 @@ elif menu == "Departemen SSD":
         ]
         data_list = [
             {
-                "Nama": "Andrian Agustinus Lumbangaol",
+                "Nama": "Andrian Agustinus Lumban Gaol",
                 "NIM": "121450090",
                 "Umur": "21",
                 "Asal": "Sumatera Utara",
@@ -1281,7 +1280,7 @@ elif menu == "Departemen SSD":
                 "Alamat": "Pemda",
                 "Hobi": "Menulis",
                 "Sosmed": "@tessakhanias",
-               "Kesan": "Kakaknya baik sekalii",  
+                "Kesan": "Kakaknya baik sekalii",  
                 "Pesan":"semangat terus kakak baiiik"
             },
             {
